@@ -40,7 +40,7 @@ sources:
 
 ## 一句话说明
 
-糖尿病是血糖长期过高。在猫，原因是胰岛 β 细胞分泌胰岛素的能力下降，或组织对胰岛素的反应变差，或两者都有。[^aaha-diabetes-2018|Introduction] 大多数病猫的情况接近人类的2 型：β 细胞功能不良加上胰岛素抵抗。免疫介导的1 型在猫很少。β 细胞的问题和胰岛淀粉样沉积、葡萄糖毒性，以及可能的氧化应激和细胞因子有关。抵抗的常见原因是肥胖，也可以来自其他内分泌疾病、药物（糖皮质激素、孕激素）和胰腺炎。[^isfm-diabetes-2015|Epidemiology, pathogenesis and diagnosis] 一线诊疗的患病率估计约 1/100 到 1/500，而且可能还在增加，部分和肥胖变多有关。[^isfm-diabetes-2015|Introduction]
+糖尿病是血糖长期过高。在猫，原因是胰岛 β 细胞分泌胰岛素的能力下降，或组织对胰岛素的反应变差，或两者都有。[^aaha-diabetes-2018|Introduction] 大多数病猫的情况接近人类的 2 型：β 细胞功能不良加上胰岛素抵抗。免疫介导的 1 型在猫很少。β 细胞的问题和胰岛淀粉样沉积、葡萄糖毒性，以及可能的氧化应激和细胞因子有关。抵抗的常见原因是肥胖，也可以来自其他内分泌疾病、药物（糖皮质激素、孕激素）和胰腺炎。[^isfm-diabetes-2015|Epidemiology, pathogenesis and diagnosis] 一线诊疗的患病率估计约 1/100 到 1/500，而且可能还在增加，部分和肥胖变多有关。[^isfm-diabetes-2015|Introduction]
 
 ## 常见症状
 
@@ -60,7 +60,7 @@ sources:
 
 ## 会做哪些检查
 
-诊断通常是持续的高血糖加上尿糖，并且有相符的临床症状。应激造成的高血糖和尿糖要先排除。压力很少把血糖推高到超过 16 mmol/L（288 mg/dL），虽然偶尔可以很高，而且一般几小时内会下来。重复测血和尿，或在家监测，用来确认它是持续的。[^isfm-diabetes-2015|Diagnosis] 果糖胺反映大约前一周的平均血糖，短期的应激性高血糖通常影响不到它。它有助于确认诊断和之后的监测，但病刚发生或很轻时可能还不高。[^isfm-diabetes-2015|Diagnosis]
+诊断通常是持续的高血糖加上尿糖，并且有相符的临床症状。应激造成的高血糖和尿糖要先排除。应激很少把血糖推高到超过 16 mmol/L（288 mg/dL），虽然偶尔可以很高，而且一般几小时内会下来。重复测血和尿，或在家监测，用来确认它是持续的。[^isfm-diabetes-2015|Diagnosis] 果糖胺反映大约前一周的平均血糖，短期的应激性高血糖通常影响不到它。它有助于确认诊断和之后的监测，但病刚发生或很轻时可能还不高。[^isfm-diabetes-2015|Diagnosis]
 
 评估要包括病史和身体检查、血清生化、完整尿检，沉渣有活动时最好做细菌培养。理想情况下还有血细胞计数和果糖胺。老年猫量甲状腺素，以排除甲状腺功能亢进。沉郁或不吃的猫，要考虑胰腺超声或胰腺脂肪酶，因为胰腺炎很常见，但这些检查的判读并不单纯。[^isfm-diabetes-2015|Evaluation of the diabetic cat] 也要找会妨碍治疗反应的病，例如肾病和肾上腺皮质功能亢进，以及肥胖、会拮抗胰岛素的药。[^aaha-diabetes-2018|Diagnosis and Assessment]
 
@@ -70,11 +70,11 @@ sources:
 
 <!-- nonclaim --> 本页不写剂量、给药间隔或疗程长度。胰岛素的种类和分量只能由兽医决定。
 
-临床糖尿病的治疗主轴是胰岛素加上饮食调整。目标是尽量让一天之中的血糖低于肾糖阈，从而改善症状，同时避免有临床意义的低血糖。[^aaha-diabetes-2018|Treatment] 2015 年共识把肾糖阈写成大多数猫约 14 mmol/L（252 mg/dL）。把血糖维持在这个阈值以下，可以避免渗透性利尿，并可能降低葡萄糖毒性。[^isfm-diabetes-2015|Controlling hyperglycaemia] 低血糖的害处和养猫人的忧虑很大，所以共识的意见是：若两者不能兼顾，宁愿容许一段时间的高血糖，也不要造成低血糖。[^isfm-diabetes-2015|Overall goals in managing diabetic cats] 低血糖的定义是血糖低于 3.0 到 3.5 mmol/L（54 到 63 mg/dL）。轻微时猫可能忍受、养猫人可能没注意到；严重时会威胁生命，也可能接著出现反应性高血糖。[^isfm-diabetes-2015|Avoiding hypoglycaemia]
+临床糖尿病的治疗主轴是胰岛素加上饮食调整。目标是尽量让一天之中的血糖低于肾糖阈，从而改善症状，同时避免有临床意义的低血糖。[^aaha-diabetes-2018|Treatment] 2015 年共识把肾糖阈写成大多数猫约 14 mmol/L（252 mg/dL）。把血糖维持在这个阈值以下，可以避免渗透性利尿，并可能降低葡萄糖毒性。[^isfm-diabetes-2015|Controlling hyperglycaemia] 低血糖的害处和养猫人的忧虑很大，所以共识的意见是：若两者不能兼顾，宁愿容许一段时间的高血糖，也不要造成低血糖。[^isfm-diabetes-2015|Overall goals in managing diabetic cats] 低血糖的定义是血糖低于 3.0 到 3.5 mmol/L（54 到 63 mg/dL）。轻微时猫可能忍受、养猫人可能没注意到；严重时会威胁生命，也可能接着出现反应性高血糖。[^isfm-diabetes-2015|Avoiding hypoglycaemia]
 
 适合长期使用的胰岛素分成数类。glargine、detemir 和鱼精蛋白锌胰岛素在猫的作用时间长于 lente，因此比较可能在兽医选定的给药频率下控制得比较好。不同研究对同一种胰岛素的作用时间并不完全相同，猫和猫之间也不同。[^isfm-diabetes-2015|Insulin choices][^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing] 2018 年 AAHA 指南同样把胰岛素当主轴，并把 glargine 和鱼精蛋白锌胰岛素列为猫常用的较长效选择。[^aaha-diabetes-2018|Treatment] 胰岛素的单位浓度并不一致，有的是每毫升 100 单位，有的是 40 单位。注射器或笔必须和那一瓶的浓度相符。[^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing]
 
-低碳水饮食可能改善控制。两项随机对照研究分别报告较高的缓解率和较好的血糖控制，但饮食不可能只改碳水化合物这一个变项。多数委员建议的限制是代谢能的 12% 或以下，或每 100 kcal 3 克，等待更多研究。多数湿粮，以及为糖尿病设计的治疗用干粮，碳水化合物较低。大多数一般干粮不是首选。若有其他病必须用别的食物，单靠胰岛素仍可以控制。[^isfm-diabetes-2015|Choosing an optimum diet for cats with DM] AAHA 同样建议大约 12% 代谢能，并写明专家对这个数字的意见并不一致。高纤维饮食通常不建议用于猫的糖尿病。[^aaha-diabetes-2018|Treatment] 一开始要先止住病理性的体重下降，所以起初可以随时有食物或一天多餐。肥胖会造成抵抗，血糖已经中等程度稳定之后，有计划的减重可能改善控制、增加缓解机会。减重期间要密切看血糖和胰岛素需求。[^isfm-diabetes-2015|Practical weight loss in the overweight or obese cat with DM]
+低碳水饮食可能改善控制。两项随机对照研究分别报告较高的缓解率和较好的血糖控制，但饮食不可能只改碳水化合物这一个变量。多数委员建议的限制是代谢能的 12% 或以下，或每 100 kcal 3 克，等待更多研究。多数湿粮，以及为糖尿病设计的治疗用干粮，碳水化合物较低。大多数一般干粮不是首选。若有其他病必须用别的食物，单靠胰岛素仍可以控制。[^isfm-diabetes-2015|Choosing an optimum diet for cats with DM] AAHA 同样建议大约 12% 代谢能，并写明专家对这个数字的意见并不一致。高纤维饮食通常不建议用于猫的糖尿病。[^aaha-diabetes-2018|Treatment] 一开始要先止住病理性的体重下降，所以起初可以随时有食物或一天多餐。肥胖会造成抵抗，血糖已经中等程度稳定之后，有计划的减重可能改善控制、增加缓解机会。减重期间要密切看血糖和胰岛素需求。[^isfm-diabetes-2015|Practical weight loss in the overweight or obese cat with DM]
 
 口服降血糖药没有好的证据支持它们优于胰岛素。[^isfm-diabetes-2015|Role of oral hypoglycaemic agents] 2015 年共识认为，当时只有 glipizide 有足够证据在养猫人一开始拒绝胰岛素时作为单独治疗；它的不良反应包括胆汁淤积、低血糖和呕吐，而且这一整类促进胰岛素分泌的药有让胰岛淀粉样变进展的顾虑。临床反应若会出现，通常在 4 到 6 周。很多养猫人在发现无效后改用胰岛素，越早改，越不容易错过葡萄糖毒性还能逆转的窗口。[^isfm-diabetes-2015|Table 1][^isfm-diabetes-2015|Recommendations on using oral hypoglycaemics] 2018 年 AAHA 的立场更窄：口服降血糖药不建议、也不被视为适合长期使用，只在养猫人拒绝胰岛素或考虑安乐死时，短期且必须配合饮食调整。[^aaha-diabetes-2018|Treatment]
 

@@ -38,7 +38,7 @@ sources:
 
 病灶还没到达口腔时，外观和触诊都没有发现。较早的临床阶段可以只是牙龈缘发炎，或很小的牙釉质和牙本质缺损被富含血管的组织盖住。再进行下去，牙冠可以部分或完全消失。[^wsava-dental-2020|Clinical findings] 养猫人可能看到的是理毛变少、叼起食物又放下、用爪子抓嘴、躲起来、精神差、嘴唇上黏稠的分泌物、甩头、用嘴去蹭地面，或磨牙。没有这些表现，不能推论没有病灶，也不能推论不痛。大多数有这个病的猫，外面看不出不舒服。[^wsava-dental-2020|Clinical findings] 牙齿表面暴露的牙本质会痛，也可能造成局部感染。[^wsava-dental-2020|Clinical findings]
 
-眼睛看得到的，多半已经是牙冠被波及的晚期。很小的肉眼或探针发现，常常代表疾病已经进到深处，因为吸收从牙根表面开始，牙釉质失去支撑后才崩掉。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] 一项用临床检查加 X 光、纳入 228 只临床健康猫的研究里，最常被影响的是下颚第三前臼齿，而且多数猫两侧对称。[^wsava-dental-2020|Tooth Resorption]
+眼睛看得到的，多半已经是牙冠被波及的晚期。很小的肉眼或探针发现，常常代表疾病已经进到深处，因为吸收从牙根表面开始，牙釉质失去支撑后才崩掉。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] 一项用临床检查加 X 光、纳入 228 只临床健康猫的研究里，最常被影响的是下颌第三前臼齿，而且多数猫两侧对称。[^wsava-dental-2020|Tooth Resorption]
 
 :::evidence-limited
 
@@ -59,7 +59,7 @@ sources:
 
 清醒时的口腔检查会低估疾病。完整评估需要麻醉下的探针、松动度、全口牙科 X 光和记录。[^aaha-dental-2019|page 4][^wsava-dental-2020|Clinical findings] 探针要沿着每一颗牙的牙龈缘走。完整的牙釉质很光滑；有吸收时探针会被卡住。牙龈下粗糙可以是吸收，也可以是牙结石，有疑问时洗牙后再评。[^wsava-dental-2020|Clinical findings] 它可能被看成断牙、磨耗或牙根分叉暴露。和牙根分叉暴露的区别常常要靠口内 X 光。[^wsava-dental-2020|Clinical findings]
 
-分期和治疗计划都需要牙科 X 光。指南强烈建议猫做全口影像。若费用有限，可以把下颚第三前臼齿当作哨兵牙来拍，但那不是完整评估。[^wsava-dental-2020|Clinical findings] 第 1 型的 X 光是牙齿上有局部或多处透亮，其余的放射线密度、牙周膜间隙和牙髓系统仍然正常，有破坏但没有被骨取代。第 2 型至少有些区域的牙周膜间隙变窄或消失，部分牙齿放射线密度降低，是替代性吸收。第 3 型是同一颗牙同时有第 1 型和第 2 型的特征。[^wsava-dental-2020|Classification][^avdc-nomenclature-2026|Types of Resorption Based on Radiographic Appearance]
+分期和治疗计划都需要牙科 X 光。指南强烈建议猫做全口影像。若费用有限，可以把下颌第三前臼齿当作哨兵牙来拍，但那不是完整评估。[^wsava-dental-2020|Clinical findings] 第 1 型的 X 光是牙齿上有局部或多处透亮，其余的放射线密度、牙周膜间隙和牙髓系统仍然正常，有破坏但没有被骨取代。第 2 型至少有些区域的牙周膜间隙变窄或消失，部分牙齿放射线密度降低，是替代性吸收。第 3 型是同一颗牙同时有第 1 型和第 2 型的特征。[^wsava-dental-2020|Classification][^avdc-nomenclature-2026|Types of Resorption Based on Radiographic Appearance]
 
 严重程度的分期也是这套命名的一部分。第 1 期是轻度的硬组织流失（牙骨质，或牙骨质和牙釉质）。第 2 期流失到牙本质，但还没进到牙髓腔。第 3 期的牙本质流失已经到达牙髓腔，牙齿大部分仍保持完整。第 4 期是广泛流失，牙齿大部分已经失去完整性。第 5 期只剩下不规则的放射线不透光残余，牙龈已经完全盖住。[^avdc-nomenclature-2026|Stages of Tooth Resorption][^wsava-dental-2020|Classification]
 
@@ -81,7 +81,7 @@ X 光已经看到吸收，但还没进入口腔，也没有伴随骨质流失时
 
 ## 预后与长期管理
 
-这个过程会进行。牙冠一旦被波及，临床上才容易被看见，那时疾病常常已经不早。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] 拔除受影响的牙是最佳做法。符合全部条件的第 2 型可以牙冠截断。条件不符合就不是截断的适应症。[^wsava-dental-2020|Treatment options][^wsava-dental-2020|Crown amputation] 同一只猫常常不只一颗牙。228 只临床健康猫的研究里，模式在多数猫是对称的，所以看到一侧时，另一侧和下颚第三前臼齿都要评估。[^wsava-dental-2020|Tooth Resorption]
+这个过程会进行。牙冠一旦被波及，临床上才容易被看见，那时疾病常常已经不早。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] 拔除受影响的牙是最佳做法。符合全部条件的第 2 型可以牙冠截断。条件不符合就不是截断的适应症。[^wsava-dental-2020|Treatment options][^wsava-dental-2020|Crown amputation] 同一只猫常常不只一颗牙。228 只临床健康猫的研究里，模式在多数猫是对称的，所以看到一侧时，另一侧和下颌第三前臼齿都要评估。[^wsava-dental-2020|Tooth Resorption]
 
 ## 常见误解
 
@@ -95,7 +95,7 @@ X 光已经看到吸收，但还没进入口腔，也没有伴随骨质流失时
 ## 可以问兽医的问题
 
 - 这颗牙在 X 光上是第几型、第几期。型态决定牙根是要整颗拔除，还是符合条件时可以截断牙冠。[^wsava-dental-2020|Classification][^wsava-dental-2020|Crown amputation][^avdc-nomenclature-2026|Types of Resorption Based on Radiographic Appearance]
-- 全口牙科 X 光做了没有。只拍下颚第三前臼齿是费用有限时的哨兵做法，不是完整评估。[^wsava-dental-2020|Clinical findings]
+- 全口牙科 X 光做了没有。只拍下颌第三前臼齿是费用有限时的哨兵做法，不是完整评估。[^wsava-dental-2020|Clinical findings]
 - 若建议牙冠截断，五个条件是否都符合，包括没有尾侧口炎。少一个就不是这个术式的适应症。[^wsava-dental-2020|Crown amputation]
 - 麻醉风险怎么评估。高龄或其他疾病不是一律不做牙科麻醉的理由，但每一只猫的计划要个别考虑。[^aaha-dental-2019|page 10]
 - 回家后怎么判断还在痛。外面没有抓嘴，不代表牙本质暴露已经不痛。[^wsava-dental-2020|Clinical findings]

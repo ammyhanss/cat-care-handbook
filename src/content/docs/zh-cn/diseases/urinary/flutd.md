@@ -32,7 +32,7 @@ sources:
 
 ## 常见症状
 
-不同原因的症状很像，所以不能靠症状自己判断是膀胱炎、结石还是感染。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] 不到猫砂盆就尿很常见。在把它当成行为问题之前，要先排除下泌尿道的病。喷尿和乱尿不是同一件事。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] 有些猫会过度理肚子、会阴和后腿的毛，这指向疼痛。精神差、食欲下降也可以出现。同时有慢性肾病时，还可能体重下降、多饮多尿或肠胃症状。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases]
+不同原因的症状很像，所以不能靠症状自己判断是膀胱炎、结石还是感染。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] 不到猫砂盆就尿很常见。在把它当成行为问题之前，要先排除下泌尿道的病。喷尿和乱尿不是同一件事。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] 有些猫会过度舔理肚子、会阴和后腿的毛，这指向疼痛。精神差、食欲下降也可以出现。同时有慢性肾病时，还可能体重下降、多饮多尿或肠胃症状。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases]
 
 特发性膀胱炎是下泌尿道症状最常见的原因。它和人类的间质性膀胱炎有相似之处，膀胱以外的器官也会被卷进来，有些猫同时有其他不适。这被称为一种全身性问题，而不只是膀胱的病。[^icatcare-lutd-2025|Feline idiopathic cystitis] 结石占下泌尿道症状病例的 10% 到 23%，也是阻塞的重要原因。膀胱结石有时是意外发现，有时造成血尿和排尿困难。最常见的两种是草酸钙和鸟粪石，通常是无菌的，两者合计约占猫结石的九成。[^icatcare-lutd-2025|Urolithiasis]
 
@@ -80,7 +80,7 @@ sources:
 
 ## 在家照护
 
-环境调整的目的，是降低猫感到威胁的机会，并让它对资源有掌控感。其他下泌尿道疾病也会因比较容易喝到水、比较愿意经常排尿而受益。[^icatcare-lutd-2025|Environmental and behavioural considerations for management of lower urinary tract diseases] 猫砂盆要够大、进出容易。数量是猫的只数再加一。放在安静、猫主要活动的地方，每一层楼至少一个，远离食物和水。多数猫偏好细的、会结团的猫砂。至少每天 铲 一次，最好两次；每 1 到 2 周整盆清空，用温和的清洁剂洗过再以热水冲净。痛的时候，猫可能把疼痛和猫砂盆联系在一起。等症状过去、疼痛处理了，再提供新的盆和不同的猫砂，比发作当下硬换更好。[^icatcare-lutd-2025|Litter tray management]
+环境调整的目的，是降低猫感到威胁的机会，并让它对资源有掌控感。其他下泌尿道疾病也会因比较容易喝到水、比较愿意经常排尿而受益。[^icatcare-lutd-2025|Environmental and behavioural considerations for management of lower urinary tract diseases] 猫砂盆要够大、进出容易。数量是猫的只数再加一。放在安静、猫主要活动的地方，每一层楼至少一个，远离食物和水。多数猫偏好细的、会结团的猫砂。至少每天铲一次，最好两次；每 1 到 2 周整盆清空，用温和的清洁剂洗过再以热水冲净。痛的时候，猫可能把疼痛和猫砂盆联系在一起。等症状过去、疼痛处理了，再提供新的盆和不同的猫砂，比发作当下硬换更好。[^icatcare-lutd-2025|Litter tray management]
 
 结石拿掉或绕道之后，形成结石的条件还在，所以需要预防。无菌鸟粪石在猫最常见，预防是低镁、低磷、会酸化尿液的治疗用维持食物。酸化的目标在这份共识是尿液 pH 低于 6.5。[^acvim-urolith-2016|Urolith Prevention][^acvim-urolith-2016|Recommendation 3.1 Prevent Sterile Struvite Uroliths by Feeding Therapeutic Maintenance Foods with Low Magnesium and Phosphorus that Acidify Urine] 感染引起的鸟粪石，首要是清掉感染，而不是只靠食物。尿沉渣和 pH 不能代替细菌培养。[^acvim-urolith-2016|Recommendation 3.2 Primary Prevention of Infection-Induced Struvite Uroliths is Persistent Elimination of Urinary Tract Infection]
 
@@ -112,7 +112,7 @@ sources:
 - 「用力是便秘。」阻塞的猫最常被看到的是在猫砂盆里没有尿地用力，养猫人容易看成便秘。[^icatcare-lutd-2025|Diagnosis]
 - 「有结晶就是有结石，有结石就要开刀。」鸟粪石结晶尿并不稳定出现。符合条件的鸟粪石应先尝试溶解。没有症状、也不像会堵到的膀胱结石，不一定要取出。[^icatcare-lutd-2025|Urolithiasis][^acvim-urolith-2016|Recommendation 1.1 Struvite Uroliths should be Medically Dissolved][^acvim-urolith-2016|Recommendation 1.3 Nonclinical Urocystoliths Unlikely to Cause Urinary Obstruction do not Require Removal]
 - 「血尿就要抗生素。」特发性膀胱炎是最常见的原因，而且是无菌的状况。没有症状的细菌尿一般不治疗。有症状的感染才依培养用药。[^icatcare-lutd-2025|Feline idiopathic cystitis][^icatcare-lutd-2025|Management]
-- 「吃一点处方粮就会好。」特发性膀胱炎的单一营养介入不太可能单独有效。环境调整才是被证明能减少复发的标准做法。[^icatcare-lutd-2025|Nutritional modifications][^icatcare-lutd-2025|Management]
+- 「吃一点处方粮就会好。」特发性膀胱炎的单一营养干预不太可能单独有效。环境调整才是被证明能减少复发的标准做法。[^icatcare-lutd-2025|Nutritional modifications][^icatcare-lutd-2025|Management]
 - 「类固醇可以消掉膀胱炎。」泼尼松在这个病没有显著好处。[^icatcare-lutd-2025|Pharmacological interventions]
 
 ## 可以问兽医的问题
@@ -120,5 +120,5 @@ sources:
 - 这次是阻塞、结石、感染，还是排除后的特发性膀胱炎。症状本身分不出来。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases][^icatcare-lutd-2025|Diagnosis]
 - 如果是公猫而且尿很少，现在就要不要急诊，而不是约下周。阻塞可能致命。[^icatcare-lutd-2025|Introduction][^icatcare-lutd-2025|Triage]
 - 结石的成分是怎么判断的，鸟粪石要不要先溶解，还是草酸钙需要取出。两种结石的预防饮食方向相反：鸟粪石要酸化，草酸钙要避免酸化。[^acvim-urolith-2016|Recommendation 1.1 Struvite Uroliths should be Medically Dissolved][^acvim-urolith-2016|Recommendation 3.3 To Minimize Calcium Oxalate Urolith Recurrence, Decrease Urine Concentration, Avoid Urine Acidification, and Avoid Diets with Excessive Protein Content]
-- 家里的猫砂盆数量、位置和清洁频率要改哪一项。建议是每只猫一个再加一个，每天至少 铲 一次。[^icatcare-lutd-2025|Litter tray management]
+- 家里的猫砂盆数量、位置和清洁频率要改哪一项。建议是每只猫一个再加一个，每天至少铲一次。[^icatcare-lutd-2025|Litter tray management]
 - 止痛用哪一种、怎么给，才不会让已经很紧张的猫更受威胁。口服给药的压力要算进治疗里。[^icatcare-lutd-2025|Pharmacological interventions]

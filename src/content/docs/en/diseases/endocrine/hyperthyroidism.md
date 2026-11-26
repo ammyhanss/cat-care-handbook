@@ -51,7 +51,7 @@ Confirmation requires persistently elevated thyroid hormone (total T4, or total 
 
 Blood pressure is measured at every visit. The clinic setting makes blood pressure hard to interpret, so a complete examination of the fundus is used to look for hypertensive retinopathy. If hypertension is still present after thyroid function has returned to normal, chronic kidney disease, diabetes mellitus, hyperaldosteronism, and hyperadrenocorticism are looked for again. Some cats develop hypertension only after thyroid function has returned to normal.[^aafp-hyperthyroid-2016|Signalment, history and physical examination]
 
-Kidney function is distinguished before treatment starts, and IRIS staging is used, including blood pressure and urine protein. Loss of muscle raises blood urea nitrogen because protein turnover increases, and it makes creatinine low because there is less muscle. Body condition and muscle score are recorded at every examination.[^aafp-hyperthyroid-2016|Managing hyperthyroid cats with concurrent CKD]
+Kidney function is distinguished before treatment starts, and IRIS staging is used, including blood pressure and urine protein. Loss of muscle raises blood urea nitrogen because protein turnover increases, and it makes creatinine read on the low side because there is less muscle. Body condition and muscle score are recorded at every examination.[^aafp-hyperthyroid-2016|Managing hyperthyroid cats with concurrent CKD]
 
 ## Treatment approaches
 

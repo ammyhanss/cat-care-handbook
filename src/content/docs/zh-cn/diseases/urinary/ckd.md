@@ -31,7 +31,7 @@ sources:
 
 ## 一句话说明
 
-慢性肾病是持续存在的肾脏功能下降或结构损伤。猫并没有一个像人类那样写死的定义，临床上仍要求损伤是持续的，而不是只出现一次。[^isfm-ckd-2016|Routine diagnosis of CKD in cats] 它在老年猫很常见。一份英国一线诊疗的估计里，肾脏疾病约占诊断的 4%，是第七常见的特定诊断；10 岁以上的猫可能有三成到四成受影响。[^isfm-ckd-2016|Introduction] 多数做过组织检查的猫看到的是慢性肾小管间质发炎和纤维化。这被视为多种先前伤害的终点，单一原因常常找不到。[^isfm-ckd-2016|Introduction]
+慢性肾病是持续存在的肾脏功能下降或结构损伤。猫并没有一个像人类那样写死的定义，临床上仍要求损伤是持续的，而不是只出现一次。[^isfm-ckd-2016|Routine diagnosis of CKD in cats] 它在老年猫很常见。一份英国一线诊疗的估计里，肾脏疾病约占诊断的 4%，是第七常见的特定诊断；10 岁以上的猫可能有三成到四成受影响。[^isfm-ckd-2016|Introduction] 多数做过组织检查的猫看到的是慢性肾小管间质发炎和纤维化。这被视为多种先前损伤的终点，单一原因常常找不到。[^isfm-ckd-2016|Introduction]
 
 ## 常见症状
 
@@ -41,7 +41,7 @@ sources:
 
 ## 什么情况必须马上就医
 
-- 几乎不吃、反复呕吐，或虚弱到不太动。食欲下降在这个病里需要主动处理，脱水、低血钾、酸中毒和贫血都会让猫更不吃。[^isfm-ckd-2016|Managing inappetence, nausea and vomiting in CKD] 第 3 期以后，处理这些肾脏以外的症状比只着重减慢恶化更重要；第 4 期大多数猫已经有很多这类表现。[^iris-tx-2026|Stage 3 Feline patients][^iris-tx-2026|Stage 4 Feline patients]
+- 几乎不吃、反复呕吐，或虚弱到不太动。食欲下降在这个病里需要主动处理，脱水、低钾血症、酸中毒和贫血都会让猫更不吃。[^isfm-ckd-2016|Managing inappetence, nausea and vomiting in CKD] 第 3 期以后，处理这些肾脏以外的症状比只着重减慢恶化更重要；第 4 期大多数猫已经有很多这类表现。[^iris-tx-2026|Stage 3 Feline patients][^iris-tx-2026|Stage 4 Feline patients]
 - 突然看不清楚、突然很弱，或出现像影响到脑或心脏的变化。高血压会伤害的器官包括眼睛、心脏、脑血管和肾脏。[^isfm-ckd-2016|Managing hypertension in CKD]
 - 原本稳定的猫在短时间内明显变差。分期只适用于稳定的慢性肾病。肌酐或 SDMA 在短时间内大幅变动时，不该直接分期，要先排除肾前和肾后的原因，包括可以用影像找的肾盂肾炎和输尿管阻塞。[^iris-stage-2026|1. Staging of Chronic Kidney Disease][^iris-tx-2026|Stage 1 Feline patients]
 
@@ -53,7 +53,7 @@ sources:
 
 门诊上常用的组合是氮质血症（肌酐比尿素更适合拿来反映肾小球滤过率）加上不相称的低尿比重。2016 年共识常把肌酐高于 140 µmol/L（1.6 mg/dL），同时尿比重低于 1.035，而且这些变化持续数周到数月，或病史已经显示是持续的，当成临床上的诊断条件。不是每一只病猫都符合：有些猫在还没有氮质血症时就有结构变化或持续的肾性蛋白尿；少数有氮质血症的猫尿比重仍可以达到 1.035 或更高。[^isfm-ckd-2016|Routine diagnosis of CKD in cats]
 
-肌酐受肌肉量和水分影响，不同实验室的参考范围也不一样。肾功能早期下降时，肌酐可能只移动一点点。[^isfm-ckd-2016|Routine diagnosis of CKD in cats] SDMA 不受肌肉量影响，对早期下降更敏感，但不能当成唯一的筛查。[^isfm-ckd-2016|Symmetric dimethylarginine (SDMA)] 淋巴瘤等情况也可以让 SDMA 升高而滤过率没有下降，所以两个指标要一起看。[^iris-stage-2026|Discrepancies between creatinine and SDMA]
+肌酐受肌肉量和水分影响，不同实验室的参考范围也不一样。肾功能早期下降时，肌酐可能只变动一点点。[^isfm-ckd-2016|Routine diagnosis of CKD in cats] SDMA 不受肌肉量影响，对早期下降更敏感，但不能当成唯一的筛查。[^isfm-ckd-2016|Symmetric dimethylarginine (SDMA)] 淋巴瘤等情况也可以让 SDMA 升高而滤过率没有下降，所以两个指标要一起看。[^iris-stage-2026|Discrepancies between creatinine and SDMA]
 
 怀疑这个病时，例行资料最好包括病史和身体检查、尿比重、试纸、尿沉渣、尿蛋白肌酐比值，以及有指征时的细菌培养、血清生化和电解质、血细胞计数、收缩压，还有肾脏超声。老年猫要量甲状腺素，因为甲状腺功能亢进会改变处理方式。[^isfm-ckd-2016|Routine investigation and staging of CKD in cats]
 
@@ -71,15 +71,15 @@ sources:
 
 :::evidence-limited
 
-三份研究报告的中位存活（天，全死因）在一般饮食对肾处方粮分别是 264 对 633、210 对 480，以及约 730 对研究结束时尚未达到中位数。方向一致，天数不能相加或当成对单一只猫的保证。[^isfm-ckd-2016|Table 3]
+三份研究报告的中位存活（天，全死因）在一般饮食与肾处方粮的对比里，分别是 264 对 633、210 对 480，以及约 730 对研究结束时尚未达到中位数。方向一致，天数不能相加或当成对单只猫的保证。[^isfm-ckd-2016|Table 3]
 
 :::
 
 单靠饮食压不住血磷时，会加上肠道磷结合剂，和食物一起给。没有研究直接比较猫用的不同结合剂。含钙的结合剂要监测血钙，因为偶尔会高钙血症。换不成肾处方粮时，结合剂可以加在一般食物上，但食物里的磷很多，效果会打折。[^isfm-ckd-2016|Use of phosphate binders] 血磷已经在目标内时，肾处方粮仍可能让部分猫血钙升高。兽医会看血钙，必要时改成限磷没那么严格的食物。[^iris-tx-2026|Stage 1 Feline patients]
 
-水分要一直有。生病造成体液流失时，用等张的含多种电解质的输液纠正脱水，途径由兽医决定。第 3 期的部分猫，以及第 4 期，可能还需要维持性的输液。[^iris-tx-2026|Stage 1 Feline patients][^iris-tx-2026|Stage 3 Feline patients][^iris-tx-2026|Stage 4 Feline patients] 低血钾用钾盐补到效果出现为止。肾处方粮通常已经加了钾，仍可能不够；晚期偶尔反而高钾血症。[^isfm-ckd-2016|Managing potassium][^iris-tx-2026|Stage 2 Feline patients]
+水分要一直有。生病造成体液流失时，用等张的含多种电解质的输液纠正脱水，途径由兽医决定。第 3 期的部分猫，以及第 4 期，可能还需要维持性的输液。[^iris-tx-2026|Stage 1 Feline patients][^iris-tx-2026|Stage 3 Feline patients][^iris-tx-2026|Stage 4 Feline patients] 低钾血症用钾盐补到效果出现为止。肾处方粮通常已经加了钾，仍可能不够；晚期偶尔反而高钾血症。[^isfm-ckd-2016|Managing potassium][^iris-tx-2026|Stage 2 Feline patients]
 
-收缩压持续超过 160 mmHg，或已经有靶器官损伤时，要治疗。目标是降到 160 mmHg 以下，并且避免降太快造成低血压。单靠减少食物里的钠，并没有证据能降低血压。药物方向包括钙离子通道阻滞剂（例如 amlodipine）或血管紧张素受体拮抗剂（telmisartan），必要时合并。脱水时不能开始这类药。稳定之后至少每三个月再量。[^iris-tx-2026|Stage 1 Feline patients] 2016 年共识把一线诊疗里与慢性肾病相关的高血压患病率写成 19% 到 40%，转诊患猫可高到 65%。高血压在猫还没有被证明是病程进展的独立危险因素，但它和蛋白尿的严重度有关，血压控制后蛋白尿可以减少。[^isfm-ckd-2016|Managing hypertension in CKD]
+收缩压持续超过 160 mmHg，或已经有靶器官损伤时，要治疗。目标是降到 160 mmHg 以下，并且避免降太快造成低血压。单靠减少食物里的钠，并没有证据能降低血压。药物方向包括钙离子通道阻滞剂（例如 amlodipine）或血管紧张素受体拮抗剂（telmisartan），必要时合并。脱水时不能开始这类药。稳定之后至少每三个月再量。[^iris-tx-2026|Stage 1 Feline patients] 2016 年共识把一线诊疗里与慢性肾病相关的高血压患病率写成 19% 到 40%，转诊患猫可高到 65%。高血压在猫还没有被证明是病程进展的独立危险因素，但它和蛋白尿的严重程度有关，血压控制后蛋白尿可以减少。[^isfm-ckd-2016|Managing hypertension in CKD]
 
 尿蛋白肌酐比值持续高于 0.4 的猫，要找可治疗的原因，并用肾素－血管紧张素系统的抑制剂加上肾处方粮。边缘值要密切追踪。这类药在脱水时禁用。[^iris-tx-2026|Stage 1 Feline patients] 苯那普利可以降低蛋白尿的程度，telmisartan 在一项为期六个月的多中心研究里也降低了蛋白尿。存活时间的好处还没有被证明。[^isfm-ckd-2016|Managing proteinuria in CKD]
 
