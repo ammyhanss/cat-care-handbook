@@ -1,6 +1,6 @@
 # Evidence policy
 
-This policy is how the Cat Care Handbook decides what may be said on a disease page. It applies to every locale. The short Traditional Chinese version is [EVIDENCE-POLICY.zh-TW.md](EVIDENCE-POLICY.zh-TW.md).
+This policy is how the Cat Care Handbook decides what may be said on a disease page and on a first-time cat owner guide page. It applies to every locale. The short Traditional Chinese version is [EVIDENCE-POLICY.zh-TW.md](EVIDENCE-POLICY.zh-TW.md).
 
 The handbook is owner education. It is not a diagnosis, and it does not give doses, dosing intervals, or course lengths.
 
@@ -8,11 +8,11 @@ The handbook is owner education. It is not a diagnosis, and it does not give dos
 
 | Tier | What it is | How it may be used |
 | --- | --- | --- |
-| 1 | Consensus guidelines from ISFM, International Cat Care (iCatCare), AAFP, IRIS, ABCD, WSAVA, or an ACVIM consensus statement | May support a claim on their own |
+| 1 | Consensus guidelines from ISFM, International Cat Care (iCatCare), AAFP, IRIS, ABCD, WSAVA, ESCCAP, or CAPC, an ACVIM consensus statement, or a joint AAHA/AAFP or AAFP/ISFM feline guideline | May support a claim on their own |
 | 2 | Peer-reviewed papers and reviews, including the Journal of Feline Medicine and Surgery, JAVMA, the Journal of Veterinary Internal Medicine, Veterinary Clinics of North America, and Frontiers in Veterinary Science | May support a claim on their own |
 | 3 | Veterinary textbooks and reference sites, including the Merck Veterinary Manual, the Cornell Feline Health Center, and VCA | Supplementary link only. Never the only support for a claim |
 
-AAHA guidelines are peer-reviewed papers. They are tier 2 unless a later decision adds AAHA to the tier 1 list. iCatCare consensus guidelines are tier 1 because ISFM guidelines are issued through International Cat Care.
+Joint AAHA/AAFP and AAFP/ISFM feline guidelines are tier 1, because AAFP is a tier 1 body and ISFM is a tier 1 body when it is a co-author. An AAHA-only document remains tier 2. ESCCAP and CAPC parasite guidelines are tier 1 consensus guidance. iCatCare consensus guidelines and iCatCare Cat Friendly decision documents are tier 1 because ISFM guidelines are issued through International Cat Care.
 
 A living guideline page with no single publication year uses the year printed as "last updated." If the page prints no year, `year` is the calendar year in which the URL was checked.
 
@@ -82,7 +82,7 @@ If a passage does not support the sentence, delete the sentence. Do not replace 
 
 `npm run check:content` fails a pull request when:
 
-1. A `literature-checked` or `vet-reviewed` disease page has a medical paragraph or list item with no citation marker.
+1. A `literature-checked` or `vet-reviewed` disease page, or a first-time owner guide page other than the section index, has a medical paragraph or list item with no citation marker.
 2. A marker names a source id that is not defined.
 3. A source has no tier, or has neither a URL nor a DOI.
 4. A claim's only citations are tier 3.

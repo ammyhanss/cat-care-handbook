@@ -48,6 +48,10 @@ Traditional Chinese should be plain and precise. Do not use emoji or internet ja
 
 Do not set `vet-reviewed` for yourself.
 
+## First-time owner guide
+
+Pages under `src/content/docs/guide/` follow the same citation rules as a disease page: `status`, `sources`, `last_updated`, `last_verified`, and a `[^source-id|locator]` marker on every factual paragraph and list item. The section index is a list of links and is not a cited medical page. Guide pages do not use the disease `urgency` field unless a page is specifically about when to seek care.
+
 ## Other changes
 
 Bug fixes, translation corrections, and new sources are welcome. Open an issue for a new disease, a content error, or a source update before a large page, so the scope stays clear.

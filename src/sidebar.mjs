@@ -11,6 +11,19 @@ const group = (label, en, zhCN, ja, items, collapsed = false) =>
 
 export const sidebar = [
   link('立刻就醫', 'See a vet now', '立刻就医', '直ちに受診', 'urgent'),
+  group('新手養貓指引', 'First-time cat owner guide', '新手养猫指南', 'はじめて猫を飼う人へ', [
+    link('簡介', 'About this guide', '简介', 'この案内', 'guide'),
+    link('接貓回家之前', 'Before you bring a cat home', '接猫回家之前', '猫を迎える前に', 'guide/before-arrival'),
+    link('最初幾天與幾週', 'The first days and weeks', '最初几天与几周', '最初の数日と数週間', 'guide/first-weeks'),
+    link('疫苗、寄生蟲與第一次看診', 'Vaccination, parasites, and the first visit', '疫苗、寄生虫与第一次看诊', 'ワクチン、寄生虫、最初の受診', 'guide/vaccines-and-parasites'),
+    link('絕育', 'Neutering', '绝育', '避妊・去勢', 'guide/neutering'),
+    link('食物、飲水與體態', 'Food, water, and body condition', '食物、饮水和体态', '食事、水、体型', 'guide/food-and-body'),
+    link('貓砂盆', 'Litter boxes', '猫砂盆', 'トイレ', 'guide/litter'),
+    link('環境與行為需求', 'Environment and behavior', '环境与行为需求', '環境と行動のニーズ', 'guide/environment'),
+    link('辨認疼痛與生病', 'Recognizing pain and illness', '辨认疼痛与生病', '痛みと病気に気づく', 'guide/pain-and-illness'),
+    link('怎麼選獸醫', 'Choosing a vet', '怎么选兽医', '動物病院の選び方', 'guide/choosing-a-vet'),
+    link('生命階段與定期檢查', 'Life stages and check-ups', '生命阶段与定期检查', 'ライフステージと定期検診', 'guide/life-stages'),
+  ]),
   link('症狀索引', 'Symptom index', '症状索引', '症状から探す', 'symptoms'),
   group('消化與口腔', 'Digestive and oral', '消化与口腔', '消化器・口腔', [
     link('簡介', 'About this group', '简介', 'この分類', 'diseases/oral'),

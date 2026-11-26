@@ -20,6 +20,7 @@ type Copy = {
   reviewedLabel: string;
   notVetReviewed: string;
   englishNameLabel: string;
+  englishTitleLabel: string;
   status: Record<Status, string>;
   urgency: Record<Urgency, string>;
   searchTitle: string;
@@ -34,6 +35,9 @@ type Copy = {
   systemTitle: string;
   systemLead: string;
   systems: Record<string, string>;
+  guideTitle: string;
+  guideLead: string;
+  guidePages: Record<string, string>;
   footerDisclaimer: string;
   footerLicense: string;
   footerContributing: string;
@@ -120,6 +124,7 @@ export const ui: Record<Lang, Copy> = {
     reviewedLabel: '審核者',
     notVetReviewed: '尚未經獸醫審讀。已查文獻不是獸醫已審。',
     englishNameLabel: '英文病名',
+    englishTitleLabel: '英文標題',
     status: {
       draft: '草稿',
       'literature-checked': '已查文獻',
@@ -151,6 +156,20 @@ export const ui: Record<Lang, Copy> = {
     systemTitle: '依身體系統瀏覽',
     systemLead: '分類方式接近獸醫手冊。還沒寫到的系統只有簡介。',
     systems: systemMap('zh-TW'),
+    guideTitle: '新手養貓指引',
+    guideLead: '還沒養過貓的人，可以先從這裡看。每一頁都對過文獻，還沒有獸醫審讀，也不能取代看診。',
+    guidePages: {
+      'before-arrival': '接貓回家之前',
+      'first-weeks': '最初幾天與幾週',
+      'vaccines-and-parasites': '疫苗、寄生蟲與第一次看診',
+      neutering: '絕育',
+      'food-and-body': '食物、飲水與體態',
+      litter: '貓砂盆',
+      environment: '環境與行為需求',
+      'pain-and-illness': '辨認疼痛與生病',
+      'choosing-a-vet': '怎麼選獸醫',
+      'life-stages': '生命階段與定期檢查',
+    },
     footerDisclaimer: '不能取代獸醫診療，不提供處方劑量。',
     footerLicense: '內容 CC BY-SA 4.0，程式碼 MIT',
     footerContributing: '如何貢獻',
@@ -168,6 +187,7 @@ export const ui: Record<Lang, Copy> = {
     reviewedLabel: 'Reviewed by',
     notVetReviewed: 'A veterinarian has not reviewed this page. Literature checked is not vet reviewed.',
     englishNameLabel: 'English name',
+    englishTitleLabel: 'English title',
     status: {
       draft: 'Draft',
       'literature-checked': 'Literature checked',
@@ -201,6 +221,21 @@ export const ui: Record<Lang, Copy> = {
     systemTitle: 'Browse by body system',
     systemLead: 'The groups follow a veterinary handbook layout. Systems without a finished page have a short introduction only.',
     systems: systemMap('en'),
+    guideTitle: 'First-time cat owner guide',
+    guideLead:
+      'Start here if you have never lived with a cat. Each page was checked against the guidelines it cites. A veterinarian has not reviewed them, and they do not replace a visit.',
+    guidePages: {
+      'before-arrival': 'Before you bring a cat home',
+      'first-weeks': 'The first days and weeks',
+      'vaccines-and-parasites': 'Vaccination, parasites, and the first visit',
+      neutering: 'Neutering',
+      'food-and-body': 'Food, water, and body condition',
+      litter: 'Litter boxes',
+      environment: 'Environment and behavior',
+      'pain-and-illness': 'Recognizing pain and illness',
+      'choosing-a-vet': 'Choosing a vet',
+      'life-stages': 'Life stages and check-ups',
+    },
     footerDisclaimer: 'Not a substitute for a veterinarian. No prescription doses.',
     footerLicense: 'Content CC BY-SA 4.0, code MIT',
     footerContributing: 'Contributing',
@@ -218,6 +253,7 @@ export const ui: Record<Lang, Copy> = {
     reviewedLabel: '审阅者',
     notVetReviewed: '尚未经兽医审读。已查文献不是兽医已审。',
     englishNameLabel: '英文病名',
+    englishTitleLabel: '英文标题',
     status: {
       draft: '草稿',
       'literature-checked': '已查文献',
@@ -249,6 +285,20 @@ export const ui: Record<Lang, Copy> = {
     systemTitle: '按身体系统浏览',
     systemLead: '分类方式接近兽医手册。还没写到的系统只有简介。',
     systems: systemMap('zh-CN'),
+    guideTitle: '新手养猫指南',
+    guideLead: '还没养过猫的人，可以先从这里看。每一页都核对过文献，还没有兽医审读，也不能取代看诊。',
+    guidePages: {
+      'before-arrival': '接猫回家之前',
+      'first-weeks': '最初几天与几周',
+      'vaccines-and-parasites': '疫苗、寄生虫与第一次看诊',
+      neutering: '绝育',
+      'food-and-body': '食物、饮水和体态',
+      litter: '猫砂盆',
+      environment: '环境与行为需求',
+      'pain-and-illness': '辨认疼痛与生病',
+      'choosing-a-vet': '怎么选兽医',
+      'life-stages': '生命阶段与定期检查',
+    },
     footerDisclaimer: '不能取代兽医诊疗，不提供处方剂量。',
     footerLicense: '内容 CC BY-SA 4.0，代码 MIT',
     footerContributing: '如何贡献',
@@ -266,6 +316,7 @@ export const ui: Record<Lang, Copy> = {
     reviewedLabel: '確認者',
     notVetReviewed: '獣医師はまだこのページを確認していません。文献確認済みは、獣医師確認済みではありません。',
     englishNameLabel: '英語の病名',
+    englishTitleLabel: '英語の題名',
     status: {
       draft: '下書き',
       'literature-checked': '文献確認済み',
@@ -299,6 +350,21 @@ export const ui: Record<Lang, Copy> = {
     systemTitle: '体の系統から見る',
     systemLead: '獣医学の手引きに近い分類です。まだ書いていない系統は短い案内だけです。',
     systems: systemMap('ja'),
+    guideTitle: 'はじめて猫を飼う人へ',
+    guideLead:
+      '猫と暮らしたことがない人は、ここから読んでください。各ページは引用した指針と照合済みです。獣医師はまだ確認しておらず、受診の代わりにはなりません。',
+    guidePages: {
+      'before-arrival': '猫を迎える前に',
+      'first-weeks': '最初の数日と数週間',
+      'vaccines-and-parasites': 'ワクチン、寄生虫、最初の受診',
+      neutering: '避妊・去勢',
+      'food-and-body': '食事、水、体型',
+      litter: 'トイレ',
+      environment: '環境と行動のニーズ',
+      'pain-and-illness': '痛みと病気に気づく',
+      'choosing-a-vet': '動物病院の選び方',
+      'life-stages': 'ライフステージと定期検診',
+    },
     footerDisclaimer: '獣医師の診察の代わりにはなりません。処方の用量は書きません。',
     footerLicense: '内容は CC BY-SA 4.0、コードは MIT',
     footerContributing: '貢献のしかた',
@@ -322,6 +388,19 @@ export const systemOrder = [
   'eyes',
   'musculoskeletal',
   'toxicology',
+] as const;
+
+export const guideOrder = [
+  'before-arrival',
+  'first-weeks',
+  'vaccines-and-parasites',
+  'neutering',
+  'food-and-body',
+  'litter',
+  'environment',
+  'pain-and-illness',
+  'choosing-a-vet',
+  'life-stages',
 ] as const;
 
 export const diseaseOrder = [
