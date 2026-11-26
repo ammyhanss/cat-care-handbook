@@ -1,0 +1,38 @@
+---
+import { copyFor } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+---
+
+<section class="home-search" aria-labelledby="home-search-title">
+  <h2 id="home-search-title">{copy.searchTitle}</h2>
+  <p>{copy.searchHint}</p>
+  <button type="button" class="search-trigger" data-home-search>
+    <span class="search-icon" aria-hidden="true"></span>
+    <span>{copy.searchButton}</span>
+  </button>
+</section>
+
+<script>
+  function openSiteSearch() {
+    const open = document.querySelector('button[data-open-modal]');
+    if (!(open instanceof HTMLButtonElement)) return;
+    if (!open.disabled) {
+      open.click();
+      return;
+    }
+    const timer = window.setInterval(() => {
+      if (!open.disabled) {
+        window.clearInterval(timer);
+        open.click();
+      }
+    }, 150);
+    window.setTimeout(() => window.clearInterval(timer), 5000);
+  }
+
+  document.querySelector('[data-home-search]')?.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    window.setTimeout(openSiteSearch, 0);
+  });
+</script>

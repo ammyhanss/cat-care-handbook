@@ -1,0 +1,9 @@
+---
+import { copyFor } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const { banner } = Astro.locals.starlightRoute.entry.data;
+---
+
+<div class="disclaimer" data-pagefind-ignore role="note">{copy.disclaimer}</div>
+{banner && <div class="sl-banner" data-pagefind-ignore set:html={banner.content} />}

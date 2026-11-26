@@ -1,0 +1,57 @@
+name: New disease
+description: Propose a disease page
+title: "Disease: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read CONTRIBUTING.md. Do not include drug doses in this issue. Do not paste text from the Merck Veterinary Manual, WikiVet, or PetQA.
+  - type: input
+    id: disease
+    attributes:
+      label: Disease name
+      description: Common name and English name
+      placeholder: Feline chronic gingivostomatitis (FCGS)
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: Body system
+      options:
+        - Digestive and oral
+        - Urinary
+        - Endocrine
+        - Infectious
+        - Cardiovascular
+        - Respiratory
+        - Skin
+        - Eyes
+        - Musculoskeletal
+        - Toxicology and emergency
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Suggested urgency
+      options:
+        - emergency
+        - soon
+        - monitor
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this disease
+      description: What owners need to understand, in a few sentences
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Primary sources
+      description: Guidelines or papers (ISFM, AAFP, WSAVA, IRIS, ABCD, JFMS, JAVMA), with links
+    validations:
+      required: true

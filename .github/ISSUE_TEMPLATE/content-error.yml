@@ -1,0 +1,35 @@
+name: Content error
+description: Report a factual or translation error
+title: "Content: "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: URL or file path
+      placeholder: /diseases/infectious/fip/
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: What is wrong
+      description: Quote the sentence and say what should change
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source for the correction
+      description: Link a guideline or paper. Do not paste NC/ND text.
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Could this mislead care?
+      options:
+        - Yes, it could delay a vet visit or suggest treatment
+        - No, it is a wording or translation issue
+    validations:
+      required: true

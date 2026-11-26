@@ -1,0 +1,313 @@
+:root {
+  --sl-font: 'Iowan Old Style', Palatino, 'Palatino Linotype', 'Songti TC', 'Noto Serif CJK TC',
+    'Noto Serif CJK JP', 'Source Han Serif TC', 'PMingLiU', serif;
+  --sl-font-system: 'Segoe UI', 'PingFang TC', 'Hiragino Sans', 'Noto Sans CJK TC',
+    'Noto Sans CJK JP', 'Microsoft JhengHei', 'WenQuanYi Micro Hei', sans-serif;
+  --sl-font: var(--sl-font-system);
+  --sl-line-height: 1.75;
+  --sl-content-width: 46rem;
+  --sl-color-accent-low: hsl(174, 32%, 16%);
+  --sl-color-accent: hsl(168, 42%, 62%);
+  --sl-color-accent-high: hsl(168, 45%, 88%);
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-high: hsl(174, 58%, 18%);
+  --sl-color-accent: hsl(174, 42%, 28%);
+  --sl-color-accent-low: hsl(168, 38%, 90%);
+  --sl-color-white: hsl(30, 12%, 14%);
+  --sl-color-gray-1: hsl(28, 10%, 20%);
+  --sl-color-gray-2: hsl(28, 8%, 28%);
+  --sl-color-gray-3: hsl(28, 6%, 38%);
+  --sl-color-gray-4: hsl(30, 8%, 58%);
+  --sl-color-gray-5: hsl(34, 14%, 78%);
+  --sl-color-gray-6: hsl(36, 24%, 91%);
+  --sl-color-gray-7: hsl(38, 33%, 95%);
+  --sl-color-black: hsl(40, 38%, 97%);
+  --sl-color-bg-nav: hsl(40, 33%, 96%);
+  --sl-color-bg-sidebar: hsl(40, 30%, 96%);
+}
+
+.disclaimer {
+  margin: 0 0 1.25rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--sl-color-hairline-light);
+  border-inline-start: 4px solid var(--sl-color-accent);
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-white);
+  font-size: var(--sl-text-sm);
+  line-height: 1.65;
+}
+
+:root[data-theme='dark'] .disclaimer {
+  color: var(--sl-color-gray-1);
+}
+
+.disease-meta {
+  margin-top: 0.75rem;
+}
+
+.english-name,
+.meta-line,
+.draft-notice {
+  margin: 0.35rem 0 0;
+  color: var(--sl-color-gray-2);
+  font-size: var(--sl-text-sm);
+}
+
+.english-name span,
+.badge-k {
+  color: var(--sl-color-gray-3);
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.55rem 0 0;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  padding: 0.15rem 0.65rem;
+  font-size: var(--sl-text-xs);
+  line-height: 1.5;
+  border: 1px solid transparent;
+}
+
+.badge-k {
+  font-size: 0.75em;
+}
+
+.badge-status.is-draft {
+  background: var(--sl-color-gray-6);
+  color: var(--sl-color-gray-2);
+}
+
+.badge-status.is-literature-checked {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='light'] .badge-status.is-literature-checked {
+  color: var(--sl-color-accent-high);
+}
+
+.badge-status.is-vet-reviewed {
+  background: var(--sl-color-green-low);
+  color: var(--sl-color-green-high);
+}
+
+.badge-urgency.is-emergency {
+  background: hsl(355, 62%, 42%);
+  color: white;
+}
+
+.badge-urgency.is-soon {
+  background: hsl(32, 80%, 42%);
+  color: white;
+}
+
+.badge-urgency.is-monitor {
+  background: var(--sl-color-gray-5);
+  color: var(--sl-color-white);
+}
+
+:root[data-theme='light'] .badge-urgency.is-monitor {
+  background: var(--sl-color-gray-6);
+  color: var(--sl-color-gray-1);
+}
+
+.draft-notice {
+  padding: 0.45rem 0.7rem;
+  border: 1px dashed var(--sl-color-gray-5);
+}
+
+.home-search,
+.disease-section,
+.system-section {
+  margin-top: 1.75rem;
+}
+
+.home-search h2,
+.disease-section h2,
+.system-section h2,
+.urgent h2 {
+  margin-bottom: 0.4rem;
+  font-size: var(--sl-text-2xl);
+}
+
+.search-trigger {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: min(100%, 36rem);
+  margin-top: 0.8rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 999px;
+  background: var(--sl-color-black);
+  color: var(--sl-color-gray-3);
+  font: inherit;
+  text-align: start;
+  cursor: pointer;
+}
+
+.search-trigger:hover,
+.search-trigger:focus-visible {
+  border-color: var(--sl-color-accent);
+  color: var(--sl-color-white);
+}
+
+.search-icon {
+  width: 1rem;
+  height: 1rem;
+  border: 2px solid currentColor;
+  border-radius: 999px;
+  position: relative;
+  flex: none;
+}
+
+.search-icon::after {
+  content: '';
+  position: absolute;
+  width: 0.45rem;
+  height: 2px;
+  background: currentColor;
+  right: -0.35rem;
+  bottom: -0.15rem;
+  transform: rotate(40deg);
+}
+
+.urgent {
+  margin-top: 1.75rem;
+  padding: 1rem 1.1rem 0.4rem;
+  border: 1px solid hsl(355, 42%, 62%);
+  border-radius: 0.6rem;
+  background: hsl(355, 70%, 96%);
+  color: hsl(355, 35%, 16%);
+}
+
+.urgent h2,
+.urgent a {
+  color: hsl(355, 55%, 28%);
+}
+
+.urgent ol {
+  margin: 0.6rem 0 0.4rem;
+  padding-inline-start: 1.2rem;
+}
+
+.urgent li {
+  margin: 0.35rem 0;
+}
+
+:root[data-theme='dark'] .urgent {
+  background: hsl(355, 28%, 14%);
+  border-color: hsl(355, 35%, 36%);
+  color: hsl(355, 30%, 92%);
+}
+
+:root[data-theme='dark'] .urgent h2,
+:root[data-theme='dark'] .urgent a {
+  color: hsl(355, 70%, 82%);
+}
+
+.disease-grid,
+.system-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+  gap: 0.75rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.disease-card,
+.system-list a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  height: 100%;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--sl-color-hairline-light);
+  border-radius: 0.55rem;
+  background: var(--sl-color-bg-nav);
+  color: var(--sl-color-white);
+  text-decoration: none;
+}
+
+.disease-card:hover,
+.system-list a:hover,
+.disease-card:focus-visible,
+.system-list a:focus-visible {
+  border-color: var(--sl-color-accent);
+}
+
+.disease-card-title {
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.disease-card-en {
+  color: var(--sl-color-gray-3);
+  font-size: var(--sl-text-xs);
+}
+
+.system-list a {
+  justify-content: center;
+  min-height: 3.2rem;
+}
+
+.handbook-footer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--sl-color-hairline-light);
+  color: var(--sl-color-gray-3);
+  font-size: var(--sl-text-sm);
+}
+
+.handbook-footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hero {
+  padding-bottom: 0.25rem;
+}
+
+.hero h1 {
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+}
+
+.sl-markdown-content h2 {
+  margin-top: 1.6em;
+}
+
+@media (max-width: 50rem) {
+  .search-trigger {
+    width: 100%;
+  }
+
+  .urgent {
+    padding-inline: 0.85rem;
+  }
+
+  /* Splash pages have no sidebar, so the header language menu must stay visible. */
+  .header .right-group {
+    display: flex;
+  }
+
+  .header .right-group .social-icons,
+  .header .right-group .social-icons + starlight-theme-select,
+  .header .right-group starlight-theme-select {
+    display: none;
+  }
+}

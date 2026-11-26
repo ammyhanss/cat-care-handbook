@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import { copyFor, diseaseOrder, type Status, type Urgency } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const locale = Astro.locals.starlightRoute.locale;
+const docs = await getCollection('docs');
+
+function entryLocale(id: string): string | undefined {
+  const first = id.split('/')[0];
+  if (first === 'en' || first === 'zh-cn' || first === 'ja') return first;
+  return undefined;
+}
+
+function slugOf(id: string): string {
+  return id.replace(/^(en|zh-cn|ja)\//, '');
+}
+
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
+const prefix = locale ? `${locale}/` : '';
+
+const cards = diseaseOrder.flatMap((slug) => {
+  const entry = docs.find((doc) => entryLocale(doc.id) === locale && slugOf(doc.id) === slug);
+  if (!entry) return [];
+  const data = entry.data as {
+    title: string;
+    status?: Status;
+    urgency?: Urgency;
+    en?: string;
+  };
+  return [
+    {
+      href: `${base}${prefix}${slug}/`,
+      title: data.title,
+      en: data.en,
+      status: data.status,
+      urgency: data.urgency,
+    },
+  ];
+});
+---
+
+<section class="disease-section" aria-labelledby="disease-title">
+  <h2 id="disease-title">{copy.diseaseTitle}</h2>
+  <p>{copy.diseaseLead}</p>
+  <ul class="disease-grid">
+    {
+      cards.map((card) => (
+        <li>
+          <a class="disease-card" href={card.href}>
+            <span class="disease-card-title">{card.title}</span>
+            {card.en && card.en !== card.title && <span class="disease-card-en">{card.en}</span>}
+            <span class="badges">
+              {card.status && (
+                <span class:list={['badge', 'badge-status', `is-${card.status}`]}>
+                  {copy.status[card.status]}
+                </span>
+              )}
+              {card.urgency && (
+                <span class:list={['badge', 'badge-urgency', `is-${card.urgency}`]}>
+                  {copy.urgency[card.urgency]}
+                </span>
+              )}
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>

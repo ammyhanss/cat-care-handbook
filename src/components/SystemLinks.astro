@@ -1,0 +1,24 @@
+---
+import { copyFor, systemOrder } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const locale = Astro.locals.starlightRoute.locale;
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
+const prefix = locale ? `${locale}/` : '';
+---
+
+<section class="system-section" aria-labelledby="system-title">
+  <h2 id="system-title">{copy.systemTitle}</h2>
+  <p>{copy.systemLead}</p>
+  <ul class="system-list">
+    {
+      systemOrder.map((key) => (
+        <li>
+          <a href={`${base}${prefix}diseases/${key}/`}>{copy.systems[key]}</a>
+        </li>
+      ))
+    }
+  </ul>
+</section>

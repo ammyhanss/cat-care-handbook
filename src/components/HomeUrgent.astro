@@ -1,0 +1,21 @@
+---
+import { copyFor } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const locale = Astro.locals.starlightRoute.locale;
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
+const prefix = locale ? `${locale}/` : '';
+---
+
+<section class="urgent" aria-labelledby="urgent-title">
+  <h2 id="urgent-title">{copy.urgentTitle}</h2>
+  <p>{copy.urgentLead}</p>
+  <ol>
+    {copy.urgentItems.map((item) => <li>{item}</li>)}
+  </ol>
+  <p class="urgent-more">
+    <a href={`${base}${prefix}urgent/`}>{copy.urgentMore}</a>
+  </p>
+</section>
