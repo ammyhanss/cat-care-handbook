@@ -18,7 +18,7 @@ Diseases are grouped by body system. Two sample pages are written and literature
 - Code: [MIT](LICENSE)
 - Educational text: [CC BY-SA 4.0](LICENSE-CONTENT)
 
-Text is written from primary guidelines and papers (ISFM, AAFP, WSAVA, IRIS, ABCD, JFMS, JAVMA). It is not copied from the Merck Veterinary Manual, WikiVet, or PetQA.
+Text is written from primary guidelines and papers (ISFM, AAFP, WSAVA, IRIS, ABCD, JFMS, JAVMA). Each medical claim on a finished page cites a source and a locator. Tiers and the checker are described in [docs/EVIDENCE-POLICY.md](docs/EVIDENCE-POLICY.md). Text is not copied from the Merck Veterinary Manual, WikiVet, or PetQA.
 
 ## Develop
 
@@ -53,6 +53,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Veterinary reviewers are listed in [REVI
 
 這是給飼主看的貓咪常見病手冊，不是診斷工具，也不提供處方劑量。預設語言是繁體中文，另有英文、簡體中文和日文。
 
-程式碼為 MIT，內文為 CC BY-SA 4.0。疾病頁必須附文獻。審核狀態分草稿、已查文獻、獸醫已審。
+程式碼為 MIT，內文為 CC BY-SA 4.0。疾病頁的每項醫學陳述都要附來源與位置。審核狀態分草稿、已查文獻、獸醫已審。已查文獻不是獸醫已審。
 
 部署到 GitHub Pages 後的網址是 https://ammyhanss.github.io/cat-care-handbook/ 。若網站還沒出現，請到倉庫 Settings → Pages，把 Source 設成 GitHub Actions。

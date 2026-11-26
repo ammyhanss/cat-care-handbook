@@ -1,16 +1,29 @@
 ---
 title: 慢性腎臓病（CKD）
-description: "慢性腎臓病の下書き。見出しだけで、介護説明ではありません。"
-en: "Chronic kidney disease"
+description: 慢性腎臓病の下書き。見出しだけで、介護説明ではありません。
+en: Chronic kidney disease
 status: draft
-reviewed_by: ""
-last_updated: "2026-11-26"
+reviewed_by: ''
+last_updated: '2026-11-26'
 urgency: soon
 sources:
-  - "Sparkes AH, Caney S, Chalhoub S, et al. ISFM Consensus Guidelines on the Diagnosis and Management of Feline Chronic Kidney Disease. J Feline Med Surg. 2016;18(3):219-239. https://doi.org/10.1177/1098612X16631234"
-  - "International Renal Interest Society. IRIS staging of CKD. https://www.iris-kidney.com/iris-staging-system"
+  - id: isfm-ckd-2016
+    title: >-
+      ISFM Consensus Guidelines on the Diagnosis and Management of Feline
+      Chronic Kidney Disease
+    authors: 'Sparkes AH, Caney S, Chalhoub S, et al.'
+    year: 2016
+    doi: 10.1177/1098612X16631234
+    url: 'https://doi.org/10.1177/1098612X16631234'
+    tier: 1
+  - id: iris-ckd-2026
+    title: IRIS staging of CKD
+    authors: International Renal Interest Society
+    year: 2026
+    url: 'https://www.iris-kidney.com/iris-staging-system'
+    tier: 1
+last_verified: '2026-11-26'
 ---
-
 ## ひとことで
 
 

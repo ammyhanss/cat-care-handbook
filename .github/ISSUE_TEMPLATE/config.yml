@@ -3,3 +3,6 @@ contact_links:
   - name: Contributing guide
     url: https://github.com/ammyhanss/cat-care-handbook/blob/main/CONTRIBUTING.md
     about: Read this before opening an issue. Medical pages need sources and must not include doses.
+  - name: Evidence policy
+    url: https://github.com/ammyhanss/cat-care-handbook/blob/main/docs/EVIDENCE-POLICY.md
+    about: Source tiers, citation markers, and what the checker rejects.

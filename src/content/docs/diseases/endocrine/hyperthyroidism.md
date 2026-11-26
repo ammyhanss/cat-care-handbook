@@ -1,15 +1,21 @@
 ---
 title: 甲狀腺機能亢進
-description: "甲狀腺機能亢進草稿。只有大綱。"
-en: "Feline hyperthyroidism"
+description: 甲狀腺機能亢進草稿。只有大綱。
+en: Feline hyperthyroidism
 status: draft
-reviewed_by: ""
-last_updated: "2026-11-26"
+reviewed_by: ''
+last_updated: '2026-11-26'
 urgency: soon
 sources:
-  - "Carney HC, Ward CR, Bailey SJ, et al. 2016 AAFP Guidelines for the Management of Feline Hyperthyroidism. J Feline Med Surg. 2016;18(5):400-416. https://doi.org/10.1177/1098612X16643252"
+  - id: aafp-hyperthyroid-2016
+    title: 2016 AAFP Guidelines for the Management of Feline Hyperthyroidism
+    authors: 'Carney HC, Ward CR, Bailey SJ, et al.'
+    year: 2016
+    doi: 10.1177/1098612X16643252
+    url: 'https://doi.org/10.1177/1098612X16643252'
+    tier: 1
+last_verified: '2026-11-26'
 ---
-
 ## 一句話說明
 
 

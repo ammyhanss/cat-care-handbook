@@ -2,6 +2,10 @@ name: Source update
 description: A cited guideline or paper has been updated
 title: "Source: "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Name the source id on the page and the locator of each sentence that may need to change. Do not add doses.
   - type: input
     id: page
     attributes:
@@ -12,20 +16,21 @@ body:
   - type: input
     id: old
     attributes:
-      label: Citation on the page now
+      label: Source id on the page now
+      placeholder: abcd-2026
     validations:
       required: true
   - type: input
     id: new
     attributes:
       label: Newer source
-      description: Title, year, and URL
+      description: Title, year, URL or DOI, and tier (1, 2, or 3)
     validations:
       required: true
   - type: textarea
     id: change
     attributes:
       label: What changed
-      description: Which sentence on the page may need to change. Do not add doses.
+      description: Which locator and which sentence may need to change. If the new source withdraws a claim, say that the sentence should be deleted.
     validations:
       required: true

@@ -1,0 +1,41 @@
+name: Vet review offer
+description: A veterinarian offers to review a disease page
+title: "Reviewer: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Review is voluntary. It does not make you the author, and it does not create a veterinary-client relationship with readers. A maintainer adds your name to REVIEWERS.md after checking the public page you link. A reviewed page then sets `reviewed_by` and `status: vet-reviewed` for that version. A later edit returns the page to `literature-checked` until you review it again.
+  - type: input
+    id: name
+    attributes:
+      label: Name to show on a page
+    validations:
+      required: true
+  - type: input
+    id: credential
+    attributes:
+      label: Veterinary qualification and the region where you are licensed
+    validations:
+      required: true
+  - type: input
+    id: systems
+    attributes:
+      label: Body systems you are willing to review
+      placeholder: oral, infectious
+    validations:
+      required: true
+  - type: input
+    id: public
+    attributes:
+      label: Public professional page
+      description: A clinic, college, or register page a reader can check. Do not put a private email here.
+    validations:
+      required: true
+  - type: textarea
+    id: pages
+    attributes:
+      label: Pages you have read, if you are offering a review now
+      description: File path or URL. Say whether you agree with the cited claims. Do not add doses in this issue.
+    validations:
+      required: false

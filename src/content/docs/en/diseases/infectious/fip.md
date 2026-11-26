@@ -1,118 +1,137 @@
 ---
 title: Feline infectious peritonitis
-description: How feline infectious peritonitis presents, why a blood coronavirus test is not a diagnosis, the direction of antiviral treatment, and home monitoring. No prescription doses.
+description: How feline infectious peritonitis presents, why a coronavirus antibody test is not a diagnosis, and what the April 2026 ABCD treatment update says about GS-441524, remdesivir, and molnupiravir. No prescription doses.
 en: Feline infectious peritonitis
 status: literature-checked
 reviewed_by: ""
 last_updated: "2026-11-26"
+last_verified: "2026-11-26"
 urgency: soon
 sources:
-  - "Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA. 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines. J Feline Med Surg. 2022;24(9):905-933. https://doi.org/10.1177/1098612X221118761"
-  - "Tasker S, Addie DD, Egberink H, et al. Feline Infectious Peritonitis: European Advisory Board on Cat Diseases Guidelines. Viruses. 2023;15(9):1847. https://doi.org/10.3390/v15091847"
-  - "Tasker S, Spiri AM, Hartmann K, et al. Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines. Viruses. 2026;18(4):452. https://www.mdpi.com/1999-4915/18/4/452"
-  - "Pedersen NC, Perron M, Bannasch M, et al. Efficacy and safety of the nucleoside analog GS-441524 for treatment of cats with naturally occurring feline infectious peritonitis. J Feline Med Surg. 2019;21(4):271-281. https://doi.org/10.1177/1098612X19825701"
-  - "Taylor SS, Coggins S, Barker EN, et al. Retrospective study and outcome of 307 cats with feline infectious peritonitis treated with legally sourced veterinary compounded preparations of remdesivir and GS-441524 (2020–2022). J Feline Med Surg. 2023;25(9):1098612X231194460. https://doi.org/10.1177/1098612X231194460"
-  - "Sase O, Iwami T, Sasaki T, Sano T. GS-441524 and molnupiravir are similarly effective for the treatment of cats with feline infectious peritonitis. Front Vet Sci. 2024;11:1422408. https://doi.org/10.3389/fvets.2024.1422408"
-  - "ABCD. Guideline for feline infectious peritonitis. https://www.abcdcatsvets.org/guideline-for-feline-infectious-peritonitis/"
+  - id: aafp-2022
+    title: 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines
+    authors: Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA
+    year: 2022
+    doi: 10.1177/1098612X221118761
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10812230/
+    tier: 1
+  - id: abcd-2026
+    title: "Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines"
+    authors: Tasker S, Spiri AM, Hartmann K, et al.
+    year: 2026
+    url: https://www.mdpi.com/1999-4915/18/4/452
+    tier: 1
 ---
 
 ## In one sentence
 
-Feline infectious peritonitis is severe inflammation that starts when feline coronavirus changes inside an individual cat and infects immune cells. Without effective antiviral treatment, most sick cats die. With antiviral drugs used under veterinary supervision, many cats recover. This page describes that direction. It does not give doses.
+Feline infectious peritonitis starts when feline coronavirus, inside an individual cat, changes so that it can infect monocytes and macrophages.[^aafp-2022|Characteristics of feline coronaviruses][^aafp-2022|Pathogenesis of FIP] Without antiviral treatment it is a fatal disease.[^aafp-2022|Introduction] The ABCD treatment update published on 9 April 2026 describes it as treatable and often curable when nucleoside analogues are used, and this page does not give doses.[^abcd-2026|Abstract]
 
 ## Common signs
 
-Enteric feline coronavirus is common in multi-cat settings. Most infected cats have mild gut signs or none. Only a minority develop FIP. Young cats are affected more often. Age does not rule the disease out.
+Enteric feline coronavirus is common where cats are crowded, and it spreads by the fecal-oral route.[^aafp-2022|Epidemiology of feline coronavirus infection] Most cats who carry the less virulent form have no signs, or only mild and short-lived vomiting or diarrhea.[^aafp-2022|Epidemiology of feline coronavirus infection] In multi-cat environments the 2022 guidelines cite a range of about 7% to 14% of infected cats in whom a spontaneous mutation occurs, and a figure of up to 12% of infected cats who develop FIP.[^aafp-2022|Characteristics of feline coronaviruses][^aafp-2022|Signalment and history] Mutation and entry into macrophages are required steps, but macrophage entry alone does not complete the disease. The virus also has to persist and replicate in those cells.[^aafp-2022|Pathogenesis of FIP] Viruses from different cats with FIP in the same household are mostly genetically distinct, which is evidence that they arose separately in each cat.[^aafp-2022|Pathogenesis of FIP]
 
-The usual systemic signs are a fever that returns or persists, lethargy, a falling appetite, and weight loss. Two overlapping patterns are used in clinic:
+Cats under 2 years of age are especially affected.[^aafp-2022|Introduction] In one study cited there, almost two-thirds of cats with FIP were living in a one-cat or two-cat home at diagnosis, which may reflect earlier exposure rather than a low-risk household.[^aafp-2022|Signalment and history]
 
-- Effusive, or "wet": fluid in the abdomen or chest. The belly enlarges, or breathing becomes fast or labored.
-- Non-effusive, or "dry": little or no visible fluid, with inflammation of lymph nodes, abdominal organs, eyes, or the nervous system. The eyes may show uveitis, a change in iris color, cloudiness, or worse vision. Neurologic signs include wobbliness, behavior change, abnormal eye movement, or seizures.
+The non-specific signs are lethargy, poor appetite or failure to grow, weight loss, a fever that comes and goes, jaundice, and enlarged lymph nodes.[^aafp-2022|Table 2] Two clinical patterns are used because they change how the cat is tested, not because they are two viruses.[^aafp-2022|Physical examination findings]
 
-Some cats become jaundiced. Wet and dry disease can exist together and can change during the illness.
+- Effusive disease: protein-rich fluid in the abdomen or chest. The belly may enlarge, or breathing may be fast or labored. In one series of confirmed cases cited by the guidelines, 78% of cats had effusions.[^aafp-2022|Physical examination findings][^aafp-2022|Table 2]
+- Non-effusive disease: little fluid to sample, with inflammation of lymph nodes, abdominal organs, the eyes, or the nervous system. Eyes may show uveitis, a change in iris color, keratic precipitates, or loss of vision. Nervous-system signs include seizures, a change in behavior, and vestibular signs.[^aafp-2022|Table 2]
+
+The guidelines say that separating "wet" and "dry" FIP as if they were different diseases is not useful. Cats who start without an effusion often develop one later, and cats with effusions can have pyogranulomatous lesions at necropsy.[^aafp-2022|Physical examination findings]
 
 ## When to see a vet immediately
 
-These need emergency care the same day:
+- Fast or labored breathing can mean fluid in the chest and needs emergency care.[^aafp-2022|Table 2][^aafp-2022|Physical examination findings]
+- Seizures are a neurologic sign of FIP and need emergency care.[^aafp-2022|Table 2]
+- Untreated FIP is described as fatal, so a cat who is already severely ill should be seen rather than watched at home to see if the illness passes.[^aafp-2022|Introduction]
+- The April 2026 ABCD update says clinical improvement with antivirals can begin within a few days, and that a veterinarian may start treatment when FIP is already very likely if the cat is too sick to wait for every result.[^abcd-2026|1. Introduction]
 
-- Open-mouth breathing, breathing that is fast or labored at rest, or gums that are white, grey, or purple.
-- Collapse, seizures, or a sudden inability to stand.
-- Almost no food for about 24 hours, especially with fever or dehydration.
-- A clearly enlarged abdomen together with weakness or trouble breathing.
-
-If the cat is not yet this sick but FIP is a real concern, do not wait several days. Cats can worsen quickly. Whether to start treatment is a decision for the veterinarian who can see the whole cat.
+<!-- nonclaim --> Other emergencies are listed on the [See a vet now](../../urgent/) page.
 
 ## Tests the clinic may use
 
-No single blood test confirms FIP in every cat. The 2022 AAFP/EveryCat diagnosis guidelines describe building or lowering suspicion from age, environment, the physical examination, and tests, rather than waiting for one yes-or-no result. When fluid is present, tests on that fluid are generally more informative than tests on blood.
+There is no single blood test that confirms FIP in every cat. The 2022 guidelines describe building or lowering suspicion from the history, the cat's age and environment, the physical examination, and tests. The lack of a pathognomonic finding is greatest when no effusion is present.[^aafp-2022|Introduction][^aafp-2022|Diagnostic testing] When fluid is present, FIP is easier to investigate, because that fluid can be sampled.[^aafp-2022|Physical examination findings]
 
-Bloodwork may show anemia, a low lymphocyte count, high globulin, low albumin, a low albumin-to-globulin ratio, and sometimes a high bilirubin. These patterns support suspicion. They also occur in other diseases.
+A typical baseline panel is a complete blood count, serum biochemistry, a urinalysis, and feline leukemia virus and feline immunodeficiency virus tests. Many cats with FIP have a mild non-regenerative anemia, lymphopenia, high globulin, low albumin, high bilirubin, and a low albumin-to-globulin ratio. The guidelines state that these findings are not specific.[^aafp-2022|Diagnostic testing][^aafp-2022|Table 4] In the table of routine tests, an albumin-to-globulin ratio under 0.4 makes FIP slightly more likely, and a ratio over 0.6 makes it slightly less likely.[^aafp-2022|Table 4]
 
-The fluid is often yellow, sticky, high in protein, and not highly cellular. A Rivalta test can add support. It does not prove FIP.
+Alpha-1-acid glycoprotein is used the same way: a concentration over 1.5 g/l makes FIP moderately more likely, over 3.0 g/l highly more likely, and under 1.5 g/l slightly less likely. It is not a stand-alone diagnosis.[^aafp-2022|Table 4]
 
-RT-PCR is more useful on fluid, aqueous humor, cerebrospinal fluid, or tissue than on blood. A positive antibody test or a positive PCR on blood usually means the cat has met common enteric coronavirus. It does not diagnose FIP. A negative blood PCR does not rule FIP out. A positive result with a high viral load has to be read together with the clinical picture.
+The effusion is often rich in protein. Cytology commonly shows a modest number of cells and a pyogranulomatous mix of macrophages and non-degenerate neutrophils.[^aafp-2022|Table 4][^aafp-2022|Effusion analysis] A negative Rivalta test makes FIP highly unlikely. A positive Rivalta test is the usual result in FIP effusions and is read with the rest of the findings. The guidelines do not treat it as proof by itself.[^aafp-2022|Table 4]
 
-Seeing coronavirus antigen inside macrophages, by immunostaining of fluid cells or tissue, is strong evidence. Histopathology with immunohistochemistry is among the most definitive tests. Not every sick cat should have a surgical biopsy first.
+RT-PCR can be run on blood, effusion, aqueous humor, cerebrospinal fluid, or tissue. A positive result shows coronavirus RNA. It is not specific for FIP, because the less virulent virus can also spread outside the intestine.[^aafp-2022|Detection of viral nucleic acid] Antibody tests show contact with feline coronavirus. They are positive in healthy infected cats and in cats with other diseases, up to 10% of cats with FIP have no detectable antibody, and the guidelines do not recommend antibody testing to diagnose FIP.[^aafp-2022|Detection of anti-FCoV antibodies]
 
-Acute-phase proteins such as alpha-1-acid glycoprotein can support the picture. They are not a stand-alone diagnosis.
-
-When a cat is very ill, or waiting for a report would cost important time, a veterinarian may start an antiviral once the evidence is already strong, and use the response as further information. That is a clinical decision. It is not a checklist an owner can complete at home.
+Finding coronavirus antigen inside macrophages in affected tissue, by immunostaining, is the guideline's gold standard, provided the stain is properly controlled. A negative immunostain does not exclude FIP, because antigen is not evenly spread through a lesion.[^aafp-2022|Detection of viral antigen][^aafp-2022|Key Points] Not every sick cat should have a surgical biopsy as the first step. The April 2026 treatment update allows a veterinarian to start an antiviral when FIP is already very likely, including while results are pending or when the cat cannot safely be sampled, and to use a rapid, sustained response as further support for the diagnosis.[^abcd-2026|1. Introduction]
 
 ## Treatment approaches
 
-This page does not give doses, dosing intervals, or course lengths beyond naming the drugs. The law differs by country. Use a product prescribed or legally supplied through a veterinarian. Do not inject from an internet chart.
+<!-- nonclaim --> This page does not give doses, dosing intervals, or course lengths. The law differs by country. Use a product the veterinarian prescribes or can legally supply.
 
-Nucleoside analogues have changed the outlook. GS-441524 is the most studied. Pedersen and colleagues reported in 2019 that it produced remission in a substantial proportion of cats with naturally occurring FIP. Later clinical series point in the same direction.
+The treatment summary below follows the ABCD update published on 9 April 2026. Treatment of FIP has changed quickly, and a later guideline can supersede this one.[^abcd-2026|Abstract]
 
-Remdesivir is a prodrug that the body converts to GS-441524. The 2026 ABCD treatment update describes remdesivir mainly for severely affected cats that cannot take oral medicine yet, with a change to an oral drug as soon as the cat can swallow it. Taylor, Coggins, and colleagues reviewed 307 cats treated with legally compounded remdesivir and/or GS-441524. About 84 percent were alive at the longest follow-up, and about 11 percent relapsed. The protocols were not uniform, and the paper does not claim one sequence is best. Injection under the skin can hurt. The study was retrospective. The percentage is not a promise for an individual cat.
+GS-441524 is the nucleoside analogue with the most published experience. The update reports success rates from 80% to 100% across studies, and it states that success often exceeds 90%.[^abcd-2026|Abstract][^abcd-2026|2.1. GS-441524] Some of those studies left out cats who were already moribund, so the percentage is not a promise for one cat.[^abcd-2026|Table 1] Oral GS-441524 is now the favored form. Earlier subcutaneous injections were often painful.[^abcd-2026|2.1. GS-441524][^abcd-2026|8. Conclusions]
 
-Molnupiravir (EIDD-2801) is another nucleoside analogue. ABCD discusses it as a first-line option in some situations and as an option after relapse, and prefers GS-441524 when GS-441524 is available, because of theoretical concern about molnupiravir and host mutagenesis. In the 2024 clinic series by Sase and colleagues, remission was similar for the two drugs among cats that finished a course. Some cats died in the first days and never finished. A similar result among cats who completed treatment is not a reason to choose a drug at home.
+Remdesivir is the prodrug of GS-441524. The update reserves injectable remdesivir mainly for severely affected cats who cannot yet take oral medicine, and it says to change to an oral drug as soon as the cat can swallow and absorb it.[^abcd-2026|2.2. Remdesivir][^abcd-2026|8. Conclusions] Subcutaneous injection of remdesivir can also be painful, so intravenous use is preferred when an injection is required.[^abcd-2026|2.2. Remdesivir]
 
-Legal supply differs. Some countries allow veterinary compounded products. In others these drugs are still not authorized for cats. Unregulated products sold online vary in content and quality. Using them without a veterinarian also skips the blood tests that should go with treatment.
+Molnupiravir (EIDD-2801) is another oral nucleoside analogue. Published series have used it both as a first treatment and after relapse. The update says the response can be slower than with GS-441524, that adverse effects can be severe, and that human studies raise concern about mutagenesis. For those reasons ABCD prefers GS-441524 when GS-441524 is available.[^abcd-2026|2.3. Molnupiravir][^abcd-2026|8. Conclusions]
 
-If the cat gains weight, the veterinarian has to recalculate the prescription. Do not keep using the old amount. If the cat relapses or worsens, go back. Do not restart leftover drug on your own.
+:::evidence-limited
 
-Supportive care includes nutrition, fluids, treatment of nausea, and drainage of chest fluid by a veterinarian when that fluid is making breathing difficult. Abdominal fluid is not routinely drained when breathing is adequate, because it often returns and protein is lost.
+Some comparisons summarized in the same update did not find a significant difference in survival between molnupiravir and GS-441524 or remdesivir. The preference for GS-441524 is the guideline's judgment from speed of response and from adverse effects, not from a single trial that settled every comparison. Legal access also differs by country.[^abcd-2026|Table 1][^abcd-2026|2.3. Molnupiravir]
 
-Glucocorticoids are not the treatment that changes the virus-driven disease. Eye inflammation may still need a separate topical prescription. Older immune stimulants have weaker evidence and do not replace antivirals.
+:::
+
+Antivirals are not licensed for cats in every country. Compounded veterinary products are legal in some places. Where they are not, owners sometimes buy unregulated products online. The update says the content of those products is usually unknown and varies, and also that published reports often found them effective. A veterinarian can still provide supportive care when local rules stop them from prescribing the antiviral itself.[^abcd-2026|1. Introduction]
+
+If the cat gains weight, the prescribed amount has to be recalculated. The update states that failing to do so leads to underdosing, and that underdosing is associated with relapse.[^abcd-2026|Table 1][^abcd-2026|6. Treatment Monitoring] That recalculation is the veterinarian's job.
+
+:::evidence-limited
+
+The April 2026 update reports that shorter courses have been as effective as the longer courses used in earlier studies, particularly in cats with effusions. It also says the length still has to be matched to the cat, using clinical signs and laboratory results, including acute-phase proteins, before treatment stops. This page does not state a number of days.[^abcd-2026|Abstract][^abcd-2026|6. Treatment Monitoring]
+
+:::
+
+:::evidence-limited
+
+A study cited in the update found large-cell lymphoma in 4 of 202 cats within two years after FIP diagnosis and successful GS-441524 treatment, higher than the expected rate in cats generally. The guideline says this might be from immune stimulation by FIP, from the treatment, or from both. The cause is not established.[^abcd-2026|2.1. GS-441524]
+
+:::
+
+Very rare GS-441524 urinary stones have been reported, largely with unregulated injectable products.[^abcd-2026|2.1. GS-441524]
+
+Immunomodulatory drugs are no longer regarded as a sole treatment. They do not replace antivirals.[^abcd-2026|3. Immunomodulatory Treatments] In the studies the update cites, median survival of cats treated with prednisolone was 8 days in one report and 31 days in cats with suspected effusive disease in another.[^abcd-2026|3.1. Glucocorticoids] Glucocorticoids are still used together with antivirals in some situations, including topical treatment of uveitis, severe neurologic signs, and immune-mediated hemolytic anemia associated with FIP.[^abcd-2026|3.1. Glucocorticoids] Recombinant feline interferon omega is not effective on its own.[^abcd-2026|2.7. Recombinant Feline Interferon-Omega (rfIFN-ω)]
+
+Supportive care matters for the cats who are sickest: fluids, treatment of nausea, nutrition, and analgesia.[^abcd-2026|4. Supportive and Concurrent Disease Treatment] If chest fluid is making breathing difficult, a veterinarian drains enough to ease it. Abdominal fluid is drained only when the volume itself is compromising breathing.[^abcd-2026|4. Supportive and Concurrent Disease Treatment]
 
 ## Care at home
 
-Give medication only as the clinic planned. Do not change the amount or the brand from a forum. Keep a daily note of appetite, weight, energy, and breathing. Record temperature only if the clinic has shown you how. Write down neurologic or eye changes.
+Weigh the cat every one to two weeks. Weight gain is a simple sign of response, and it is also the reason the prescribed amount has to change.[^abcd-2026|6. Treatment Monitoring] The update asks the clinic to hear how the cat is doing, and whether the medicine is actually getting in, about 48 hours after treatment starts.[^abcd-2026|6. Treatment Monitoring] Write down appetite, energy, breathing, and any change in the eyes or in coordination, and contact the clinic if those worsen. Do not change the amount or switch to another product because a forum says to. Unregulated products vary in content.[^abcd-2026|1. Introduction][^abcd-2026|Table 1]
 
-The mutated virus that causes FIP is not generally treated as something that spreads from the sick cat the way a cold does. The original enteric coronavirus does spread easily between cats. Ask the veterinarian whether other cats in the home need any separation, and whether a new cat should wait.
-
-Keep food and water easy to reach. Reduce handling and stress. If breathing worsens, eating stops, or neurologic signs appear, return immediately. Do not wait for the next booked visit. Rechecks and blood tests are part of treatment.
+The common enteric coronavirus spreads easily between cats by the fecal-oral route.[^aafp-2022|Epidemiology of feline coronavirus infection] The mutated viruses found in cats with FIP from the same home are usually genetically distinct.[^aafp-2022|Pathogenesis of FIP] Ask the veterinarian what, if anything, to do about the other cats. Reducing stress is part of care.[^abcd-2026|4. Supportive and Concurrent Disease Treatment]
 
 ## Outlook and long-term care
 
-Before effective antivirals were widely discussed, FIP was usually fatal once clinical signs were established. Many cats now return to ordinary activity after a quality-assured course that a veterinarian adjusts. Cats with eye or nervous-system disease can improve as well, but the plan has to be set for that cat.
+Before effective antivirals, euthanasia was commonly recommended because the outlook was very poor.[^abcd-2026|Abstract] The April 2026 update calls FIP frequently curable when treatment is prompt, and it reports published success with GS-441524 often above 90%, with the limits noted above.[^abcd-2026|8. Conclusions][^abcd-2026|Table 1] Cats still die in the first days. In one study cited by the update, survival for 48 hours after antiviral treatment started was a positive sign: 96% of the cats who lived through those two days recovered.[^abcd-2026|5. Prognosis for Antiviral Treatment Response] High bilirubin is one of the findings linked with a lower chance of survival. The guideline lists others, including low blood sugar and signs of sepsis. Those are laboratory and clinical judgments, not a score an owner can calculate at home.[^abcd-2026|5. Prognosis for Antiviral Treatment Response]
 
-Outcome depends on how sick the cat is at the start, which organs are involved, and whether the course is finished and monitored. Early deaths still happen. Relapse needs a new assessment. It is not a reason for an owner to restart treatment alone, and it is not automatically the end of options.
+Fever and the obvious illness often ease within a few days. Fluid, if present, often resolves over about two weeks. Globulin can take longer to fall.[^abcd-2026|6. Treatment Monitoring] Antibody levels are not useful for tracking response.[^abcd-2026|6. Treatment Monitoring] Enlarged abdominal lymph nodes, or a mild rise in lymphocytes, can remain after successful treatment and do not by themselves mean the disease has returned.[^abcd-2026|6. Treatment Monitoring] Relapse needs a new assessment by the veterinarian. The update describes further antiviral options after relapse. It does not describe restarting leftover drug without that assessment.[^abcd-2026|2.3. Molnupiravir][^abcd-2026|Table 1]
 
-After recovery, fever, weight loss, or neurologic signs should trigger a return visit.
+Eye and nervous-system disease can improve. The update includes a photographed case of uveitis that cleared on oral GS-441524 plus topical prednisolone, and it discusses neurologic FIP within the same antiviral approach. The veterinarian sets that plan.[^abcd-2026|Figure 1][^abcd-2026|2.1. GS-441524]
 
 ## Common misunderstandings
 
-- "A positive antibody test or blood PCR means FIP." It usually means exposure to common enteric coronavirus.
-- "Wet and dry FIP are two viruses." They are patterns of one disease, and they overlap.
-- "There is still no treatment." Antivirals have changed the outlook. They have to be used under veterinary care.
-- "I can buy the same injection online and follow a chart." Unregulated products vary in quality, and that path skips monitoring. The law also differs by place.
-- "If one cat has FIP, every cat in the house will get it." Enteric coronavirus spreads easily. FIP develops in a minority.
-- "Steroids are the main treatment." They do not replace antivirals.
+- "A positive antibody test or a positive blood PCR means FIP." Antibody shows contact with enteric coronavirus. PCR shows coronavirus RNA, including outside the gut, and neither result is specific for FIP.[^aafp-2022|Detection of anti-FCoV antibodies][^aafp-2022|Detection of viral nucleic acid]
+- "Wet and dry FIP are two diseases." They are patterns of one disease, and they overlap.[^aafp-2022|Physical examination findings]
+- "There is still no treatment." The April 2026 ABCD update says nucleoside analogues have made FIP often curable. They have to be used under veterinary care, and they are not legally available everywhere.[^abcd-2026|Abstract][^abcd-2026|1. Introduction]
+- "An internet chart is the same as a prescribed course." Unregulated products vary in content, and the amount has to be recalculated as weight changes.[^abcd-2026|1. Introduction][^abcd-2026|Table 1]
+- "If one cat has FIP, every cat in the house will get it." Enteric coronavirus spreads easily. FIP develops in a minority, and the mutated viruses in housemates are usually genetically distinct.[^aafp-2022|Epidemiology of feline coronavirus infection][^aafp-2022|Pathogenesis of FIP][^aafp-2022|Signalment and history]
+- "Steroids are the main treatment." They are not an effective sole treatment. Median survival in the prednisolone reports cited by ABCD was measured in days.[^abcd-2026|3.1. Glucocorticoids]
 
-## References
-
-- Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA. 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines. J Feline Med Surg. 2022;24(9):905-933. https://doi.org/10.1177/1098612X221118761
-- Tasker S, Addie DD, Egberink H, et al. Feline Infectious Peritonitis: European Advisory Board on Cat Diseases Guidelines. Viruses. 2023;15(9):1847. https://doi.org/10.3390/v15091847
-- Tasker S, Spiri AM, Hartmann K, et al. Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines. Viruses. 2026;18(4):452. https://www.mdpi.com/1999-4915/18/4/452
-- Pedersen NC, Perron M, Bannasch M, et al. Efficacy and safety of the nucleoside analog GS-441524 for treatment of cats with naturally occurring feline infectious peritonitis. J Feline Med Surg. 2019;21(4):271-281. https://doi.org/10.1177/1098612X19825701
-- Taylor SS, Coggins S, Barker EN, et al. Retrospective study and outcome of 307 cats with feline infectious peritonitis treated with legally sourced veterinary compounded preparations of remdesivir and GS-441524 (2020–2022). J Feline Med Surg. 2023;25(9):1098612X231194460. https://doi.org/10.1177/1098612X231194460
-- Sase O, Iwami T, Sasaki T, Sano T. GS-441524 and molnupiravir are similarly effective for the treatment of cats with feline infectious peritonitis. Front Vet Sci. 2024;11:1422408. https://doi.org/10.3389/fvets.2024.1422408
-- ABCD. Guideline for feline infectious peritonitis. https://www.abcdcatsvets.org/guideline-for-feline-infectious-peritonitis/
+<!-- nonclaim-start -->
 
 ## Further reading
 
 The Merck Veterinary Manual has a chapter on feline infectious peritonitis. It is a pointer for further reading. This page was not written from that manual.
 
 https://www.merckvetmanual.com/infectious-diseases/feline-infectious-peritonitis/feline-infectious-peritonitis
+
+<!-- nonclaim-end -->

@@ -16,7 +16,9 @@ type Copy = {
   statusLabel: string;
   urgencyLabel: string;
   updatedLabel: string;
+  verifiedLabel: string;
   reviewedLabel: string;
+  notVetReviewed: string;
   englishNameLabel: string;
   status: Record<Status, string>;
   urgency: Record<Urgency, string>;
@@ -114,7 +116,9 @@ export const ui: Record<Lang, Copy> = {
     statusLabel: '審核狀態',
     urgencyLabel: '就醫時機',
     updatedLabel: '內容日期',
+    verifiedLabel: '文獻核對',
     reviewedLabel: '審核者',
+    notVetReviewed: '尚未經獸醫審讀。已查文獻不是獸醫已審。',
     englishNameLabel: '英文病名',
     status: {
       draft: '草稿',
@@ -160,7 +164,9 @@ export const ui: Record<Lang, Copy> = {
     statusLabel: 'Review status',
     urgencyLabel: 'When to see a vet',
     updatedLabel: 'Content date',
+    verifiedLabel: 'Claims checked',
     reviewedLabel: 'Reviewed by',
+    notVetReviewed: 'A veterinarian has not reviewed this page. Literature checked is not vet reviewed.',
     englishNameLabel: 'English name',
     status: {
       draft: 'Draft',
@@ -208,7 +214,9 @@ export const ui: Record<Lang, Copy> = {
     statusLabel: '审阅状态',
     urgencyLabel: '就医时机',
     updatedLabel: '内容日期',
+    verifiedLabel: '文献核对',
     reviewedLabel: '审阅者',
+    notVetReviewed: '尚未经兽医审读。已查文献不是兽医已审。',
     englishNameLabel: '英文病名',
     status: {
       draft: '草稿',
@@ -254,7 +262,9 @@ export const ui: Record<Lang, Copy> = {
     statusLabel: '確認状況',
     urgencyLabel: '受診の目安',
     updatedLabel: '内容の日付',
+    verifiedLabel: '文献の照合',
     reviewedLabel: '確認者',
+    notVetReviewed: '獣医師はまだこのページを確認していません。文献確認済みは、獣医師確認済みではありません。',
     englishNameLabel: '英語の病名',
     status: {
       draft: '下書き',

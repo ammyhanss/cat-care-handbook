@@ -1,11 +1,22 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { satteri } from '@astrojs/markdown-satteri';
 import { sidebar } from './src/sidebar.mjs';
+import { handbookMarkdownPlugin } from './src/plugins/handbook-markdown.mjs';
 
 export default defineConfig({
   site: 'https://ammyhanss.github.io',
   base: '/cat-care-handbook',
   trailingSlash: 'always',
+  markdown: {
+    processor: satteri({
+      features: {
+        directive: true,
+        gfm: { footnotes: false },
+      },
+      mdastPlugins: [handbookMarkdownPlugin],
+    }),
+  },
   integrations: [
     starlight({
       title: {
