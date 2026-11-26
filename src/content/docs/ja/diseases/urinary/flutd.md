@@ -34,7 +34,7 @@ sources:
 
 原因が違っても症状は似ているため、症状だけでは膀胱炎か、結石か、感染かを自分で判断できません。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] トイレ以外での排尿はよくあります。行動の問題とする前に、下部尿路の病気を先に除外します。スプレーと、トイレ以外での排尿は、同じことではありません。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases] 腹、会陰、後ろ足の毛をなめすぎる猫もいて、これは痛みを指します。元気の低下や食欲低下も起こり得ます。慢性腎臓病が同時にあると、体重減少、多飲多尿、または消化器症状もあり得ます。[^icatcare-lutd-2025|Presenting signs of lower urinary tract diseases]
 
-特発性膀胱炎は、下部尿路症状の最も多い原因です。ヒトの間質性膀胱炎と似た点があり、膀胱以外の臓器も巻き込まれ、他の不調を同時に持つ猫もいます。これは膀胱だけの病気ではなく、全身の問題と呼ばれます。[^icatcare-lutd-2025|Feline idiopathic cystitis] 結石は下部尿路症状の症例の 10% から 23% を占め、閉塞の重要な原因でもあります。膀胱結石は偶然見つかることも、血尿と排尿困難を起こすこともあります。最も多い二つはシュウ酸カルシウムとストルバイトで、通常は無菌であり、合わせて猫の結石の約9割です。[^icatcare-lutd-2025|Urolithiasis]
+特発性膀胱炎は、下部尿路症状の最も多い原因です。ヒトの間質性膀胱炎と似た点があり、膀胱以外の臓器も巻き込まれ、他の不調を同時に持つ猫もいます。これは膀胱だけの病気ではなく、全身性の問題と呼ばれます。[^icatcare-lutd-2025|Feline idiopathic cystitis] 結石は下部尿路症状の症例の 10% から 23% を占め、閉塞の重要な原因でもあります。膀胱結石は偶然見つかることも、血尿と排尿困難を起こすこともあります。最も多い二つはシュウ酸カルシウムとストルバイトで、通常は無菌であり、合わせて猫の結石の約9割です。[^icatcare-lutd-2025|Urolithiasis]
 
 閉塞のとき、最も多い現れ方は、トイレの中でいきんでも尿が出ないことで、鳴くこともあります。飼い主はしばしば便秘だと思い込みます。[^icatcare-lutd-2025|Diagnosis] 身体検査では、脱水、速い呼吸、遅い心拍、低体温、膨らんで硬く痛い膀胱、ショックの徴候が見られることがあります。[^icatcare-lutd-2025|Diagnosis]
 
@@ -74,7 +74,7 @@ sources:
 
 臨床症状のある細菌感染では、培養と薬剤感受性に従って薬を使い、同時に鎮痛します。症状のない細菌尿は、一般に治療を推奨しません。培養を待つあいだ先に薬が必要なときは、第一選択は amoxicillin、または trimethoprim-sulfonamide の類です。cefovecin のような長時間作用型の注射薬は、尿培養なしに経験的に使うべきではありません。[^icatcare-lutd-2025|Management]
 
-結石の扱い方は、位置、推定される成分、大きさ、数によります。選択肢には、薬物による溶解、膀胱切開による摘出、尿路の水圧排出、ならびに侵襲のより少ない方法として、膀胱切石、体外または体内の砕石、膀胱鏡とバスケットによる摘出などがあります。[^icatcare-lutd-2025|Management] ストルバイトの条件を満たす結石は溶解を試みるべきです。ただし、薬または溶解食を与えられない、結石が変えられた尿に浸れない、またはすでに閉塞しているときは除きます。猫での判断条件は、中等度の不透過性、尿 pH がおおよそ中性、です。[^acvim-urolith-2016|Recommendation 1.1 Struvite Uroliths should be Medically Dissolved] 症状を起こす膀胱結石は、コンセンサスが侵襲のより少ない方法での摘出を勧めています。症状がなく、閉塞を起こしそうでもないものは、必ずしも摘出を要しません。結石のために尿道の手術をすることは推奨されません。[^acvim-urolith-2016|Recommendation 1.2 Urocystoliths Associated with Clinical Signs should be Removed by Minimally Invasive Procedures][^acvim-urolith-2016|Recommendation 1.3 Nonclinical Urocystoliths Unlikely to Cause Urinary Obstruction do not Require Removal][^acvim-urolith-2016|Recommendation 1.6 Urethral Surgery to Manage Urolithiasis is Discouraged]
+結石の扱い方は、位置、推定される成分、大きさ、数によります。選択肢には、薬物による溶解、膀胱切開による摘出、尿路の水圧排出、ならびに侵襲のより少ない方法として、膀胱切石、体外または体内の砕石、膀胱鏡とバスケットによる摘出などがあります。[^icatcare-lutd-2025|Management] ストルバイトの条件を満たす結石は溶解を試みるべきです。ただし、薬または溶解食を与えられない、結石が変えられた尿に浸れない、またはすでに閉塞しているときは除きます。猫での判断条件は、中等度の不透過性、尿 pH がおおよそ中性、です。[^acvim-urolith-2016|Recommendation 1.1 Struvite Uroliths should be Medically Dissolved] 症状を起こす膀胱結石は、コンセンサスが侵襲のより少ない方法での摘出を勧めています。症状がなく、閉塞を起こしそうでもないものは、必ずしも摘出を要しません。結石のために尿道の手術をすることは、勧められていません。[^acvim-urolith-2016|Recommendation 1.2 Urocystoliths Associated with Clinical Signs should be Removed by Minimally Invasive Procedures][^acvim-urolith-2016|Recommendation 1.3 Nonclinical Urocystoliths Unlikely to Cause Urinary Obstruction do not Require Removal][^acvim-urolith-2016|Recommendation 1.6 Urethral Surgery to Manage Urolithiasis is Discouraged]
 
 シュウ酸カルシウム結石は、ストルバイト用の溶解食では扱いません。再発の予防は、尿の濃さを下げ、尿を酸性化せず、蛋白質が過剰な食物を避けることです。デザインの整った再発予防の臨床試験は、まだ公表されていません。[^acvim-urolith-2016|Recommendation 3.3 To Minimize Calcium Oxalate Urolith Recurrence, Decrease Urine Concentration, Avoid Urine Acidification, and Avoid Diets with Excessive Protein Content]
 

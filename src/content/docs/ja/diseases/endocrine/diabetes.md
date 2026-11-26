@@ -46,7 +46,7 @@ sources:
 
 典型は、多尿、多飲、元気の低下、体重減少、食事量の増加です。より少ないのは、脱力、足の裏を地面につける立ち方、沈うつ、食べないことです。食べないことは、とくにケトアシドーシスで見られます。[^isfm-diabetes-2015|Clinical signs and risk factors] 症状は、持続する高血糖と尿糖から来ます。治療しない、または制御が悪いと、最後にケトアシドーシスが現れます。[^aaha-diabetes-2018|Introduction] 長期の高血糖の猫には、末梢神経障害が現れ得ます。[^aaha-diabetes-2018|Diagnosis and Assessment]
 
-報告されている危険因子には、肥満（理想体重の猫より最大4倍高い）、7歳以上、オーストラリア、ニュージーランド、欧州の研究におけるバーミーズ、室内で活動が少ないこと、雄猫と去勢済みの猫、グルココルチコイドと黄体ホルモンがあります。[^isfm-diabetes-2015|Clinical signs and risk factors] 同時にあって見つかっていない疾患（末端肥大症など）が、これらの研究の結果に影響した可能性があります。[^isfm-diabetes-2015|Clinical signs and risk factors]
+報告されている危険因子には、肥満（理想体重の猫より最大4倍高い）、7歳以上、オーストラリア、ニュージーランド、欧州の研究におけるバーミーズ、室内で活動が少ないこと、雄猫と、避妊または去勢を済ませた猫、グルココルチコイドと黄体ホルモンがあります。[^isfm-diabetes-2015|Clinical signs and risk factors] 同時にあって見つかっていない疾患（末端肥大症など）が、これらの研究の結果に影響した可能性があります。[^isfm-diabetes-2015|Clinical signs and risk factors]
 
 ## 直ちに受診する状態
 
@@ -70,9 +70,9 @@ sources:
 
 <!-- nonclaim --> このページは用量、投与間隔、投与期間を書きません。インスリンの種類と量は、獣医師だけが決めます。
 
-臨床的な糖尿病の治療の中心は、インスリンと食事の調整です。目標は、一日のうちの血糖をできるだけ腎の閾値より低くし、それによって症状を改善し、同時に臨床的に意味のある低血糖を避けることです。[^aaha-diabetes-2018|Treatment] 2015年のコンセンサスは、腎の閾値をほとんどの猫で約 14 mmol/L（252 mg/dL）としています。血糖をこの閾値より低く保つと、浸透圧利尿を避けられ、グルコース毒性を下げ得る可能性があります。[^isfm-diabetes-2015|Controlling hyperglycaemia] 低血糖の害と飼い主の心配は大きいため、コンセンサスの意見は、両立できないときは、低血糖を起こすより、一定期間の高血糖を容認する、というものです。[^isfm-diabetes-2015|Overall goals in managing diabetic cats] 低血糖の定義は、血糖が 3.0 から 3.5 mmol/L（54 から 63 mg/dL）未満です。軽いときは猫が耐え、飼い主が気づかないことがあります。重いときは生命を脅し、そのあと反応性の高血糖が続くこともあります。[^isfm-diabetes-2015|Avoiding hypoglycaemia]
+臨床的な糖尿病の治療の主軸は、インスリンと食事の調整です。目標は、一日のうちの血糖をできるだけ腎の閾値より低くし、それによって症状を改善し、同時に臨床的に意味のある低血糖を避けることです。[^aaha-diabetes-2018|Treatment] 2015年のコンセンサスは、腎の閾値をほとんどの猫で約 14 mmol/L（252 mg/dL）としています。血糖をこの閾値より低く保つと、浸透圧利尿を避けられ、グルコース毒性を下げ得る可能性があります。[^isfm-diabetes-2015|Controlling hyperglycaemia] 低血糖の害と飼い主の心配は大きいため、コンセンサスの意見は、両立できないときは、低血糖を起こすより、一定期間の高血糖を容認する、というものです。[^isfm-diabetes-2015|Overall goals in managing diabetic cats] 低血糖の定義は、血糖が 3.0 から 3.5 mmol/L（54 から 63 mg/dL）未満です。軽いときは猫が耐え、飼い主が気づかないことがあります。重いときは生命を脅し、そのあと反応性の高血糖が続くこともあります。[^isfm-diabetes-2015|Avoiding hypoglycaemia]
 
-長期使用に適したインスリンは、いくつかに分かれます。glargine、detemir、プロタミン亜鉛インスリンは、猫での作用時間が lente より長いため、獣医師が選んだ投与の頻度で、よりよく制御できる可能性がより高いです。同じインスリンでも、作用時間は研究によって完全には同じでなく、猫によっても異なります。[^isfm-diabetes-2015|Insulin choices][^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing] 2018年の AAHA ガイドラインも同様にインスリンを中心とし、glargine とプロタミン亜鉛インスリンを、猫でよく使う、より長い作用の選択肢として挙げています。[^aaha-diabetes-2018|Treatment] インスリンの単位濃度は一致しておらず、1 mL あたり 100 単位のものも、40 単位のものもあります。シリンジまたはペンは、その瓶の濃度と合っていなければなりません。[^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing]
+長期使用に適したインスリンは、いくつかに分かれます。glargine、detemir、プロタミン亜鉛インスリンは、猫での作用時間が lente より長いため、獣医師が選んだ投与の頻度で、よりよく制御できる可能性がより高いです。同じインスリンでも、作用時間は研究によって完全には同じでなく、猫によっても異なります。[^isfm-diabetes-2015|Insulin choices][^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing] 2018年の AAHA ガイドラインも同様にインスリンを主軸とし、glargine とプロタミン亜鉛インスリンを、猫でよく使う、より長い作用の選択肢として挙げています。[^aaha-diabetes-2018|Treatment] インスリンの単位濃度は一致しておらず、1 mL あたり 100 単位のものも、40 単位のものもあります。シリンジまたはペンは、その瓶の濃度と合っていなければなりません。[^isfm-diabetes-2015|Recommendations for insulin preparation and frequency of dosing]
 
 低炭水化物食は制御を改善し得ます。二つの無作為化対照研究は、それぞれより高い寛解率と、より良い血糖の制御を報告していますが、食事は炭水化物という一つの変数だけを変えることはできません。委員の多くが勧める制限は、代謝エネルギーの 12% 以下、または 100 kcal あたり 3 g で、さらなる研究を待っています。ほとんどのウェットフード、および糖尿病用に設計された治療用のドライフードは、炭水化物がより低いです。ほとんどの一般的なドライフードは第一選択ではありません。他の病気で別の食物を使わなければならないときは、インスリンだけでも制御できます。[^isfm-diabetes-2015|Choosing an optimum diet for cats with DM] AAHA も同様に、代謝エネルギーの約 12% を勧め、この数字について専門家の意見は一致していないと明記しています。高繊維食は、猫の糖尿病には通常推奨されません。[^aaha-diabetes-2018|Treatment] 最初は病的な体重減少を止めるため、初めはいつでも食物があるようにするか、一日に複数回の食事にできます。肥満は抵抗性を起こします。血糖が中等度に安定したあと、計画的な減量は制御を改善し、寛解の機会を増やし得ます。減量中は、血糖とインスリンの必要量を密に見ます。[^isfm-diabetes-2015|Practical weight loss in the overweight or obese cat with DM]
 
