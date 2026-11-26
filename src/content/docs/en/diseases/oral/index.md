@@ -3,7 +3,7 @@ title: Digestive and oral
 description: "Starting point for mouth, tooth, and digestive pages."
 ---
 
-This group holds diseases of the teeth, mouth, and gut. [Chronic gingivostomatitis](./fcgs/) is written. [Tooth resorption](./tooth-resorption/) is an outline only.
+This group holds diseases of the teeth, mouth, and gut. [Chronic gingivostomatitis](./fcgs/) and [tooth resorption](./tooth-resorption/) are written and literature-checked. A veterinarian has not reviewed them.
 
 Cats do not say that the mouth hurts. Slow eating, drooling, bad breath, or dropped food is a reason for an oral examination, not only a diet change.
 

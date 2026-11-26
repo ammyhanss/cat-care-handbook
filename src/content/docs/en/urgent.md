@@ -11,7 +11,7 @@ This list is not every emergency. If something feels wrong, call.
 
 A male cat that visits the litter box repeatedly, strains, cries, or passes only drops or no urine at all should be treated as a possible urethral obstruction until a veterinarian says otherwise. A bladder that stays full can cause pain, kidney injury, and a dangerous rise in potassium within hours. A female cat that suddenly passes no urine at all is an emergency too.
 
-Blood in the urine, or frequent urination while urine is still coming, still needs a prompt visit. Complete obstruction should not wait. The [FLUTD](./diseases/urinary/flutd/) page is only a draft and does not replace this section.
+Blood in the urine, or frequent urination while urine is still coming, still needs a prompt visit. Complete obstruction should not wait. The [FLUTD](./diseases/urinary/flutd/) page explains causes and later care. It does not replace this section.
 
 ## Hard breathing
 
