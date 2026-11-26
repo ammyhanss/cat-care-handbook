@@ -1,16 +1,26 @@
 ---
 title: 上呼吸道感染
-description: "貓疱疹病毒與卡里西病毒等上呼吸道感染草稿。張口呼吸請立刻就醫。"
-en: "Feline upper respiratory infection"
+description: 貓疱疹病毒與卡里西病毒等上呼吸道感染草稿。張口呼吸請立刻就醫。
+en: Feline upper respiratory infection
 status: draft
-reviewed_by: ""
-last_updated: "2026-11-26"
+reviewed_by: ''
+last_updated: '2026-11-26'
 urgency: soon
 sources:
-  - "ABCD. Guideline for feline herpesvirus infection. https://www.abcdcatsvets.org/guideline-for-feline-herpesvirus-infection/"
-  - "ABCD. Guideline for feline calicivirus infection. https://www.abcdcatsvets.org/guideline-for-feline-calicivirus-infection/"
+  - id: abcd-fhv-2026
+    title: ABCD guideline for feline herpesvirus infection
+    authors: European Advisory Board on Cat Diseases
+    year: 2026
+    url: 'https://www.abcdcatsvets.org/guideline-for-feline-herpesvirus-infection/'
+    tier: 1
+  - id: abcd-fcv-2025
+    title: ABCD guideline for feline calicivirus infection
+    authors: European Advisory Board on Cat Diseases
+    year: 2025
+    url: 'https://www.abcdcatsvets.org/guideline-for-feline-calicivirus-infection/'
+    tier: 1
+last_verified: '2026-11-26'
 ---
-
 ## 一句話說明
 
 

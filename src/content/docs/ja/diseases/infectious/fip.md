@@ -1,118 +1,137 @@
 ---
 title: 猫伝染性腹膜炎（FIP）
-description: 猫伝染性腹膜炎の現れ方、血液のコロナウイルス検査だけでは診断できない理由、抗ウイルス治療の方向、家での観察。処方の用量は書きません。
+description: 猫伝染性腹膜炎の現れ方、コロナウイルス抗体が診断にならない理由、2026年4月のABCD治療更新が GS-441524、レムデシビル、モルヌピラビルについて述べること。処方の用量は書かない。
 en: Feline infectious peritonitis
 status: literature-checked
 reviewed_by: ""
 last_updated: "2026-11-26"
+last_verified: "2026-11-26"
 urgency: soon
 sources:
-  - "Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA. 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines. J Feline Med Surg. 2022;24(9):905-933. https://doi.org/10.1177/1098612X221118761"
-  - "Tasker S, Addie DD, Egberink H, et al. Feline Infectious Peritonitis: European Advisory Board on Cat Diseases Guidelines. Viruses. 2023;15(9):1847. https://doi.org/10.3390/v15091847"
-  - "Tasker S, Spiri AM, Hartmann K, et al. Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines. Viruses. 2026;18(4):452. https://www.mdpi.com/1999-4915/18/4/452"
-  - "Pedersen NC, Perron M, Bannasch M, et al. Efficacy and safety of the nucleoside analog GS-441524 for treatment of cats with naturally occurring feline infectious peritonitis. J Feline Med Surg. 2019;21(4):271-281. https://doi.org/10.1177/1098612X19825701"
-  - "Taylor SS, Coggins S, Barker EN, et al. Retrospective study and outcome of 307 cats with feline infectious peritonitis treated with legally sourced veterinary compounded preparations of remdesivir and GS-441524 (2020–2022). J Feline Med Surg. 2023;25(9):1098612X231194460. https://doi.org/10.1177/1098612X231194460"
-  - "Sase O, Iwami T, Sasaki T, Sano T. GS-441524 and molnupiravir are similarly effective for the treatment of cats with feline infectious peritonitis. Front Vet Sci. 2024;11:1422408. https://doi.org/10.3389/fvets.2024.1422408"
-  - "ABCD. Guideline for feline infectious peritonitis. https://www.abcdcatsvets.org/guideline-for-feline-infectious-peritonitis/"
+  - id: aafp-2022
+    title: 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines
+    authors: Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA
+    year: 2022
+    doi: 10.1177/1098612X221118761
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10812230/
+    tier: 1
+  - id: abcd-2026
+    title: "Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines"
+    authors: Tasker S, Spiri AM, Hartmann K, et al.
+    year: 2026
+    url: https://www.mdpi.com/1999-4915/18/4/452
+    tier: 1
 ---
 
-## ひとことで
+## 一文で
 
-猫伝染性腹膜炎は、猫コロナウイルスが個々の猫の体内で変化し、免疫細胞の中で起こす重い炎症です。有効な抗ウイルス治療がなければ、発症した猫の多くは死亡します。獣医師の監督下で現在の抗ウイルス薬を使うと、回復する猫は少なくありません。このページは方向を説明し、用量は書きません。
+猫伝染性腹膜炎は、個々の猫の体内で猫コロナウイルスが変わり、単球とマクロファージに感染できるようになるところから始まります。[^aafp-2022|Characteristics of feline coronaviruses][^aafp-2022|Pathogenesis of FIP] 抗ウイルス治療がなければ、致命的な病気です。[^aafp-2022|Introduction] 2026年4月9日に公表された ABCD の治療更新は、ヌクレオシドアナログを使うと治療でき、しばしば治癒し得る、と述べています。このページは用量を書きません。[^abcd-2026|Abstract]
 
 ## よくある症状
 
-腸の猫コロナウイルスは多頭環境でよく見られ、多くの猫は軽い消化器症状だけか、症状がありません。腹膜炎になるのは一部です。若い猫に多いですが、年齢で否定はできません。
+腸管型の猫コロナウイルスは、猫が密集する場所でよく見られ、糞口経路で広がります。[^aafp-2022|Epidemiology of feline coronavirus infection] 毒力の低い型を持つ猫の多くは無症状か、軽く短い嘔吐または下痢だけです。[^aafp-2022|Epidemiology of feline coronavirus infection] 2022年のガイドラインが多頭環境について引く範囲は、感染猫の約 7〜14% で自然な変異が起こること、そして感染猫の最大 12% が FIP を発症する、という数字です。[^aafp-2022|Characteristics of feline coronaviruses][^aafp-2022|Signalment and history] 変異とマクロファージへの侵入は必要な段階ですが、マクロファージへの侵入だけでは病気は完成しません。ウイルスはその細胞の中で持続し、複製する必要もあります。[^aafp-2022|Pathogenesis of FIP] 同じ家庭の別々の FIP の猫から得られたウイルスは、ほとんどが遺伝的に異なり、それぞれ別の猫の中で生じた証拠です。[^aafp-2022|Pathogenesis of FIP]
 
-全身の徴候として多いのは、繰り返すまたは続く発熱、元気の低下、食欲低下、体重減少です。臨床では重なり合う二つの型で話します。
+2歳未満の猫がとくに影響を受けます。[^aafp-2022|Introduction] ガイドラインが引く一つの研究では、FIP と診断された猫のほぼ三分の二が、診断時に1頭または2頭の家庭で暮らしていました。これはリスクの低い家庭ではなく、より早い時期の曝露を反映している可能性があります。[^aafp-2022|Signalment and history]
 
-- 滲出型（ウェット）：お腹または胸に液体がたまる。お腹が大きくなる、呼吸が速くなる、苦しくなる。
-- 非滲出型（ドライ）：液体は目立たず、リンパ節、腹部臓器、目、神経系が炎症を起こす。目ではぶどう膜炎、虹彩の色の変化、混濁、視力低下が見られることがあります。神経症状にはふらつき、行動の変化、眼の異常な動き、けいれんがあります。
+非特異的な徴候は、活力低下、食欲低下または成長不良、体重減少、出たり引いたりする発熱、黄疸、リンパ節腫大です。[^aafp-2022|Table 2] 二つの臨床パターンを使うのは、検査の仕方を変えるためであり、二つのウイルスだからではありません。[^aafp-2022|Physical examination findings]
 
-黄疸が出る猫もいます。ウェットとドライは同時にあり、経過の中で移ることもあります。
+- 滲出型：腹腔または胸腔の蛋白に富む液体。腹がふくらむこと、呼吸が速いまたは苦しいことがあります。ガイドラインが引く確定例のシリーズでは、猫の 78% に滲出液がありました。[^aafp-2022|Physical examination findings][^aafp-2022|Table 2]
+- 非滲出型：採取できる液体が少なく、リンパ節、腹腔臓器、眼、または神経系の炎症があります。眼ではぶどう膜炎、虹彩の色の変化、角膜後面沈着物、視力低下が起こり得ます。神経系の徴候には、けいれん、行動の変化、前庭徴候があります。[^aafp-2022|Table 2]
 
-## すぐに受診が必要なとき
+ガイドラインは、「ウエット」と「ドライ」の FIP を別の病気のように分けることは有用でない、と述べています。滲出液なしで始まった猫はあとから滲出液を持つことが多く、滲出液のある猫も剖検で膿性肉芽腫性病変を持つことがあります。[^aafp-2022|Physical examination findings]
 
-次はその日の救急です。
+## 直ちに受診する状態
 
-- 口を開けた呼吸、安静時に速いまたは苦しい呼吸、歯ぐきが白い、灰色、または紫。
-- 倒れる、けいれん、急に立てない。
-- およそ 24 時間ほとんど食べない。とくに発熱や脱水を伴うとき。
-- お腹が明らかに張り、元気がない、または呼吸に影響がある。
+- 速い呼吸や努力性呼吸は胸の液体を意味することがあり、救急の対応が必要です。[^aafp-2022|Table 2][^aafp-2022|Physical examination findings]
+- けいれんは FIP の神経徴候であり、救急の対応が必要です。[^aafp-2022|Table 2]
+- 未治療の FIP は致命的と述べられているため、すでに重症の猫は、家で治るのを見るのではなく受診します。[^aafp-2022|Introduction]
+- 2026年4月の ABCD 更新は、抗ウイルス薬で臨床徴候が数日以内に改善し始めること、FIP がすでに非常に疑わしく、すべての結果を待てないほど猫が悪いときには、獣医師が治療を始め得ることを述べています。[^abcd-2026|1. Introduction]
 
-そこまで危険でなくても腹膜炎が疑われるなら、数日放置しないでください。短時間で悪化することがあります。治療を始めるかは、猫全体を見た獣医師が決めます。
+<!-- nonclaim --> その他の緊急事態は[直ちに受診](../../urgent/)のページにあります。
 
-## 検査
+## 病院で行う検査
 
-すべての猫を一つの血液検査で確定できるわけではありません。2022 年の AAFP/EveryCat 診断指針は、年齢、環境、身体検査、検査を積み上げて疑いを上げ下げし、一つの白黒の答えを待たない、と述べています。液体があるときは、液体の検査の方が血液より役立つことが多いです。
+すべての猫で FIP を確定する単一の血液検査はありません。2022年のガイドラインは、病歴、年齢と環境、身体検査、検査から疑いを積み上げ、または下げる、と述べています。確定的な所見がないことは、滲出液がないときに最も大きいです。[^aafp-2022|Introduction][^aafp-2022|Diagnostic testing] 液体があるときは調べやすくなります。その液体を採取できるからです。[^aafp-2022|Physical examination findings]
 
-血液検査では、貧血、リンパ球減少、グロブリン上昇、アルブミン低下、アルブミン対グロブリン比の低下、ときにビリルビン上昇が見られます。これらは疑いを支えますが、他の病気でも起きます。
+典型的な基本検査は、全血球計算、血清生化学、尿検査、猫白血病ウイルスと猫免疫不全ウイルスの検査です。FIP の猫の多くは、軽度の非再生性貧血、リンパ球減少、高グロブリン、低アルブミン、高ビリルビン、低いアルブミン／グロブリン比を示します。ガイドラインは、これらの所見は特異的でないと述べています。[^aafp-2022|Diagnostic testing][^aafp-2022|Table 4] 通常検査の表では、アルブミン／グロブリン比が 0.4 未満だと FIP がやや起こりやすく、0.6 を超えるとやや起こりにくくなります。[^aafp-2022|Table 4]
 
-液体は蛋白が高く、細胞数は相対的に多くない、黄色く粘る液であることが多いです。リバルタ試験は疑いを強めますが、腹膜炎の証明にはなりません。
+α1-酸性糖蛋白も同じ使い方です。1.5 g/l を超えると FIP が中等度に起こりやすく、3.0 g/l を超えると高く起こりやすく、1.5 g/l 未満ではやや起こりにくくなります。それ単独の診断ではありません。[^aafp-2022|Table 4]
 
-RT-PCR は、血液より、液体、眼房水、脳脊髄液、組織で行う方が有用です。血液の PCR や抗体が陽性でも、多くの場合はありふれた腸のコロナウイルスへの接触を示すだけで、腹膜炎の診断にはなりません。血液 PCR が陰性でも否定できません。ウイルス量が多い陽性は、臨床像と一緒に読みます。
+滲出液は蛋白に富むことが多いです。細胞診では細胞数が控えめなこと、マクロファージと変性していない好中球からなる膿性肉芽腫性の混在がよく見られます。[^aafp-2022|Table 4][^aafp-2022|Effusion analysis] リバルタ試験が陰性だと、FIP は非常に起こりにくくなります。陽性は FIP の滲出液で通常の結果であり、他の所見と合わせて読みます。ガイドラインは、それ自体を証明とはしていません。[^aafp-2022|Table 4]
 
-液体の細胞や組織で、免疫染色によりマクロファージ内にコロナウイルス抗原が見えることは、強い証拠です。病理組織と免疫組織化学は確定に最も近い方法の一つですが、すべての病猫にまず外科的生検が適切なわけではありません。
+RT-PCR は血液、滲出液、眼房水、脳脊髄液、または組織で行えます。陽性はコロナウイルス RNA を示します。毒力の低いウイルスも腸の外に広がり得るため、FIP に特異的ではありません。[^aafp-2022|Detection of viral nucleic acid] 抗体検査は猫コロナウイルスとの接触を示します。健康な感染猫や他の病気の猫でも陽性になり、FIP の猫の最大 10% は抗体を検出できません。ガイドラインは、FIP の診断に抗体検査を推奨しません。[^aafp-2022|Detection of anti-FCoV antibodies]
 
-α1 酸性糖蛋白などの急性期蛋白は補助になり、単独の診断ではありません。
+罹患組織のマクロファージ内に、免疫染色でコロナウイルス抗原を見つけることが、ガイドラインのゴールドスタンダードです。染色が適切に対照されていることが条件です。陰性の免疫染色は FIP を除外しません。抗原は病変内に均一には分布しないからです。[^aafp-2022|Detection of viral antigen][^aafp-2022|Key Points] すべての重症猫で、最初の手段として外科的生検をすべきではありません。2026年4月の治療更新は、FIP がすでに非常に疑わしいとき、結果を待っているあいだや、安全に採取できないときを含め、獣医師が抗ウイルス薬を始め、迅速で持続する反応を診断のさらなる支えにすることを認めています。[^abcd-2026|1. Introduction]
 
-非常に重い、または結果を待つと治療が遅れるときは、証拠がすでに十分なら、獣医師が抗ウイルス治療を先に始め、反応を判断材料にすることがあります。これは臨床判断であり、飼い主が家で一覧を埋めて行うものではありません。
+## 治療の方向
 
-## 治療の考え方
+<!-- nonclaim --> このページは用量、投与間隔、投与期間を書きません。法律は国により異なります。獣医師が処方するか、合法に供給できる製品を使います。
 
-このページは、薬の名前以外の用量、投与間隔、治療期間を書きません。法律は国で違います。獣医師が処方した、または合法に供給された薬を使ってください。ネット上の表を見て自分で注射しないでください。
+以下の治療の要約は、2026年4月9日公表の ABCD 更新に従います。FIP の治療は速く変わるため、より新しいガイドラインがこれに取って代わることがあります。[^abcd-2026|Abstract]
 
-核酸アナログは、この病気の見通しを変えました。最も研究されているのは GS-441524 です。Pedersen らは 2019 年に、自然発症の猫のかなりの割合で寛解が得られたと報告しました。その後の臨床シリーズも同じ方向です。
+GS-441524 は、公表された経験が最も多いヌクレオシドアナログです。更新は、研究を通した成功率を 80% から 100% とし、成功がしばしば 90% を超えると述べています。[^abcd-2026|Abstract][^abcd-2026|2.1. GS-441524] それらの研究の一部は、すでに瀕死の猫を除いているため、その割合は一頭への約束ではありません。[^abcd-2026|Table 1] 現在は経口の GS-441524 が好まれます。以前の皮下注射はしばしば痛みを伴いました。[^abcd-2026|2.1. GS-441524][^abcd-2026|8. Conclusions]
 
-レムデシビルは GS-441524 のプロドラッグで、体内で GS-441524 に変換されます。2026 年の ABCD 治療更新は、レムデシビルを主に、重症でまだ経口薬を取れない猫に使い、飲めるようになったら早めに経口へ切り替える、と述べています。Taylor、Coggins らは、合法に調剤されたレムデシビルおよび／または GS-441524 を使った 307 頭を振り返りました。最長の追跡時点で約 84% が生存し、約 11% が再発しました。手順は統一されておらず、その論文は一つのつなぎ方が最良だとは述べていません。皮下注射は痛むことがあります。後ろ向き研究であり、一頭一頭への保証ではありません。
+レムデシビルは GS-441524 のプロドラッグです。更新は、注射のレムデシビルを主に、まだ経口薬を取れない重症猫のために残し、飲み込めて吸収できるようになり次第、経口薬へ変えると述べています。[^abcd-2026|2.2. Remdesivir][^abcd-2026|8. Conclusions] レムデシビルの皮下注射も痛むことがあるため、注射が必要なときは静脈内が好まれます。[^abcd-2026|2.2. Remdesivir]
 
-モルヌピラビル（EIDD-2801）は別の核酸アナログです。ABCD は、一部の状況での第一選択、および再発後の選択肢として扱い、手に入るなら GS-441524 を優先するとしています。宿主の変異原性に関する理論上の懸念があるためです。Sase らの 2024 年の診療シリーズでは、治療を終えた猫のあいだで二つの薬の寛解割合は似ていました。一方、開始後の最初の数日に死亡し、終えられなかった猫もいます。終えた猫どうしの結果が近いことは、家で薬を選ぶ理由にはなりません。
+モルヌピラビル（EIDD-2801）は別の経口ヌクレオシドアナログです。公表されたシリーズは、最初の治療としても、再発のあとにも使っています。更新は、反応が GS-441524 より遅いことがあり、有害作用が重度になり得ること、ヒトの研究が変異原性の懸念を提起することを述べています。そのため GS-441524 が入手できるときは、ABCD は GS-441524 を好みます。[^abcd-2026|2.3. Molnupiravir][^abcd-2026|8. Conclusions]
 
-合法に入手できる道は国で違います。獣医師を通じた調剤が可能な場所もあれば、猫への使用がまだ承認されていない場所もあります。出所の不明なネット上の製剤は、含量と品質のばらつきが大きいです。獣医師の監視がなければ、行うべき血液検査も抜けます。
+:::evidence-limited
 
-治療中に体重が増えたら、獣医師が処方を計算し直します。以前の量を続けないでください。再発や悪化のときは再診し、残った薬を自分で足さないでください。
+同じ更新が要約した比較の一部は、モルヌピラビルと GS-441524 またはレムデシビルのあいだで、生存に有意差を見つけていません。GS-441524 を好むのは、反応の速さと有害作用からのガイドラインの判断であり、すべての比較を決めた単一の試験からではありません。合法に入手できるかも国により異なります。[^abcd-2026|Table 1][^abcd-2026|2.3. Molnupiravir]
 
-支持療法には、栄養、輸液、吐気への対応、胸水が呼吸を妨げるときの獣医師による安全な排液があります。お腹の液体は、呼吸に影響がなければ通常はルーチンでは抜きません。すぐ再貯留し、蛋白も失われるためです。
+:::
 
-糖質コルチコイドは、この病気の原因に働く治療ではありません。目の炎症には、獣医師が別に点眼を処方することがあります。以前の免疫刺激薬の証拠は弱く、抗ウイルス薬の代わりにはなりません。
+抗ウイルス薬は、すべての国で猫に承認されているわけではありません。獣医調剤の製品が合法な場所もあります。合法でない場所では、飼い主が規制されていない製品をオンラインで買うことがあります。更新は、それらの製品の中身は通常不明でばらつくこと、また公表された報告ではしばしば有効だったことを述べています。現地の規則で抗ウイルス薬自体を処方できないときも、獣医師は支持療法を行えます。[^abcd-2026|1. Introduction]
+
+猫の体重が増えたら、処方された量を計算し直す必要があります。更新は、そうしないと過少投与になり、過少投与は再発と関連する、と述べています。[^abcd-2026|Table 1][^abcd-2026|6. Treatment Monitoring] その再計算は獣医師の仕事です。
+
+:::evidence-limited
+
+2026年4月の更新は、より短いコースが、以前の研究で使われたより長いコースと同じくらい有効だった、とくに滲出液のある猫でそうだった、と報告しています。中止の前に、臨床徴候と検査結果、急性期蛋白を含めて、その猫に長さを合わせる必要もあると述べています。このページは日数を書きません。[^abcd-2026|Abstract][^abcd-2026|6. Treatment Monitoring]
+
+:::
+
+:::evidence-limited
+
+更新が引く研究では、FIP の診断と GS-441524 による治療成功のあと2年以内に、202頭中4頭で大細胞リンパ腫が見つかり、猫一般の期待される率より高いものでした。ガイドラインは、これが FIP による免疫刺激、治療、またはその両方によるかもしれない、と述べています。原因は確立していません。[^abcd-2026|2.1. GS-441524]
+
+:::
+
+GS-441524 の尿路結石は非常にまれで、主に規制されていない注射製剤で報告されています。[^abcd-2026|2.1. GS-441524]
+
+免疫調節薬は、もはや単独の治療とはみなされません。抗ウイルス薬の代わりにはなりません。[^abcd-2026|3. Immunomodulatory Treatments] 更新が引く研究では、プレドニゾロンで治療した猫の生存期間中央値は、一つの報告で8日、滲出型が疑われた猫の別の報告で31日でした。[^abcd-2026|3.1. Glucocorticoids] グルココルチコイドは、ぶどう膜炎の局所治療、重度の神経徴候、FIP に伴う免疫介在性溶血性貧血など、一部の状況では抗ウイルス薬と一緒に使われます。[^abcd-2026|3.1. Glucocorticoids] 組換え猫インターフェロンオメガは、それだけでは有効ではありません。[^abcd-2026|2.7. Recombinant Feline Interferon-Omega (rfIFN-ω)]
+
+最も悪い猫では支持療法が重要です。輸液、吐き気の治療、栄養、鎮痛です。[^abcd-2026|4. Supportive and Concurrent Disease Treatment] 胸水が呼吸を苦しくしているときは、獣医師が呼吸が楽になる量を抜きます。腹水は、その量自体が呼吸を妨げているときだけ抜きます。[^abcd-2026|4. Supportive and Concurrent Disease Treatment]
 
 ## 家での介護
 
-病院の計画どおりに薬を与え、掲示板で量や製品を変えないでください。食欲、体重、元気、呼吸を毎日記録します。体温の測り方を教わった場合だけ体温を記録します。神経症状や目の変化は書き留めてください。
+1〜2週間ごとに体重を量ります。体重増加は反応の単純な徴候であり、処方量を変える理由でもあります。[^abcd-2026|6. Treatment Monitoring] 更新は、治療開始から約48時間後に、猫の様子と、薬が実際に入っているかを病院が聞くよう求めています。[^abcd-2026|6. Treatment Monitoring] 食欲、活力、呼吸、眼や協調の変化を書き、悪化したら病院に連絡します。掲示板の記述で量を変えたり、別の製品に替えたりしないでください。規制されていない製品は中身がばらつきます。[^abcd-2026|1. Introduction][^abcd-2026|Table 1]
 
-腹膜炎を起こすように変化したウイルスは、風邪のように病猫から他の猫へ広がるものとしては通常扱いません。もともとの腸のコロナウイルスは猫の間で広がりやすいです。他の猫を分けるか、新しい猫を遅らせるかは、診ている獣医師に聞いてください。
+よくある腸管型コロナウイルスは、糞口経路で猫のあいだに容易に広がります。[^aafp-2022|Epidemiology of feline coronavirus infection] 同じ家の FIP の猫で見つかる変異ウイルスは、通常、遺伝的に異なります。[^aafp-2022|Pathogenesis of FIP] 他の猫に何をするかは獣医師に尋ねます。ストレスを減らすことは介護の一部です。[^abcd-2026|4. Supportive and Concurrent Disease Treatment]
 
-食事と水は取りやすくします。移動とストレスを減らします。呼吸が悪化する、食べなくなる、神経症状が出るときは、次の予約を待たず直ちに再診してください。再診と血液検査は治療の一部です。
+## 見通しと長期管理
 
-## 見通しと長い管理
+有効な抗ウイルス薬の前は、見通しが非常に悪かったため、安楽死がしばしば勧められました。[^abcd-2026|Abstract] 2026年4月の更新は、治療が早ければ FIP はしばしば治癒し得ると呼び、上に記した限界つきで、GS-441524 の公表された成功がしばしば 90% を超えると報告しています。[^abcd-2026|8. Conclusions][^abcd-2026|Table 1] 最初の数日に死ぬ猫はいます。更新が引く一つの研究では、抗ウイルス治療開始後48時間の生存は良い徴候でした。その2日を生きた猫の 96% が回復しました。[^abcd-2026|5. Prognosis for Antiviral Treatment Response] 高ビリルビンは、生存の見込みが低いことと関連する所見の一つです。ガイドラインは、低血糖や敗血症の徴候を含む他の項目も挙げています。これらは検査と臨床の判断であり、飼い主が家で計算する点数ではありません。[^abcd-2026|5. Prognosis for Antiviral Treatment Response]
 
-有効な抗ウイルス薬が広く話題になる前は、臨床症状が出ると通常は致命的でした。品質が確認され、獣医師が調整する治療を終えると、多くの猫は日常に戻ります。目や神経系に及んだ猫も改善し得ますが、計画はその猫に合わせて決めます。
+発熱と明らかな病気は、しばしば数日以内に楽になります。液体があれば、しばしば約2週間で消退します。グロブリンの低下にはより長くかかることがあります。[^abcd-2026|6. Treatment Monitoring] 抗体濃度は反応の追跡には有用ではありません。[^abcd-2026|6. Treatment Monitoring] 腹腔リンパ節の腫大や、リンパ球の軽度上昇は、成功した治療のあとも残ることがあり、それだけでは再発を意味しません。[^abcd-2026|6. Treatment Monitoring] 再発には獣医師による新しい評価が必要です。更新は再発後のさらなる抗ウイルスの選択肢を述べています。その評価なしに残った薬を再開することは述べていません。[^abcd-2026|2.3. Molnupiravir][^abcd-2026|Table 1]
 
-結果は、開始時の重症度、どの臓器が関わるか、治療を終えて監視できたかによります。早期の死亡は今もあります。再発は改めての評価が必要です。飼い主が一人で治療を再開する理由にはならず、選択肢が自動的に尽きるわけでもありません。
-
-回復後に再び発熱、体重減少、神経症状があれば再診してください。
+眼と神経系の病気は改善し得ます。更新には、経口 GS-441524 と局所プレドニゾロンで消退したぶどう膜炎の写真症例があり、神経型 FIP も同じ抗ウイルスの扱いの中で論じています。その計画は獣医師が決めます。[^abcd-2026|Figure 1][^abcd-2026|2.1. GS-441524]
 
 ## よくある誤解
 
-- 「抗体や血液 PCR が陽性なら腹膜炎。」多くの場合、ありふれた腸のコロナウイルスへの接触を示すだけです。
-- 「ウェットとドライは別のウイルス。」一つの病気の現れ方で、重なります。
-- 「まだ治療がない。」抗ウイルス薬は見通しを変えました。ただし獣医師の監督が必要です。
-- 「同じ注射をネットで買い、表どおり打てばよい。」出所不明の製品は品質が安定せず、監視も飛ばします。法律も地域で違います。
-- 「一頭が発症すれば、家の猫はみんななる。」腸のコロナウイルスは広がりやすいですが、腹膜炎になるのは一部です。
-- 「ステロイドが主な治療。」抗ウイルス薬の代わりにはなりません。
+- 「抗体陽性や血液 PCR 陽性は FIP を意味する。」抗体は腸管型コロナウイルスとの接触を示します。PCR は腸の外を含むコロナウイルス RNA を示し、どちらも FIP に特異的ではありません。[^aafp-2022|Detection of anti-FCoV antibodies][^aafp-2022|Detection of viral nucleic acid]
+- 「ウエットとドライは二つの病気である。」一つの病気のパターンであり、重なります。[^aafp-2022|Physical examination findings]
+- 「まだ治療はない。」2026年4月の ABCD 更新は、ヌクレオシドアナログが FIP をしばしば治癒し得るものにした、と述べています。獣医師の管理下で使う必要があり、どこでも合法に入手できるわけではありません。[^abcd-2026|Abstract][^abcd-2026|1. Introduction]
+- 「インターネットの表は処方と同じである。」規制されていない製品は中身がばらつき、体重が変わると量を計算し直す必要があります。[^abcd-2026|1. Introduction][^abcd-2026|Table 1]
+- 「一匹が FIP なら、家のすべての猫がかかる。」腸管型コロナウイルスは容易に広がります。FIP は少数に起こり、同居猫の変異ウイルスは通常、遺伝的に異なります。[^aafp-2022|Epidemiology of feline coronavirus infection][^aafp-2022|Pathogenesis of FIP][^aafp-2022|Signalment and history]
+- 「ステロイドが主な治療である。」有効な単独治療ではありません。ABCD が引くプレドニゾロンの報告では、生存期間中央値は日単位でした。[^abcd-2026|3.1. Glucocorticoids]
 
-## 参考文献
-
-- Thayer V, Gogolski S, Felten S, Hartmann K, Kennedy M, Olah GA. 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines. J Feline Med Surg. 2022;24(9):905-933. https://doi.org/10.1177/1098612X221118761
-- Tasker S, Addie DD, Egberink H, et al. Feline Infectious Peritonitis: European Advisory Board on Cat Diseases Guidelines. Viruses. 2023;15(9):1847. https://doi.org/10.3390/v15091847
-- Tasker S, Spiri AM, Hartmann K, et al. Update on Treatment of Feline Infectious Peritonitis: European Advisory Board on Cat Diseases (ABCD) Guidelines. Viruses. 2026;18(4):452. https://www.mdpi.com/1999-4915/18/4/452
-- Pedersen NC, Perron M, Bannasch M, et al. Efficacy and safety of the nucleoside analog GS-441524 for treatment of cats with naturally occurring feline infectious peritonitis. J Feline Med Surg. 2019;21(4):271-281. https://doi.org/10.1177/1098612X19825701
-- Taylor SS, Coggins S, Barker EN, et al. Retrospective study and outcome of 307 cats with feline infectious peritonitis treated with legally sourced veterinary compounded preparations of remdesivir and GS-441524 (2020–2022). J Feline Med Surg. 2023;25(9):1098612X231194460. https://doi.org/10.1177/1098612X231194460
-- Sase O, Iwami T, Sasaki T, Sano T. GS-441524 and molnupiravir are similarly effective for the treatment of cats with feline infectious peritonitis. Front Vet Sci. 2024;11:1422408. https://doi.org/10.3389/fvets.2024.1422408
-- ABCD. Guideline for feline infectious peritonitis. https://www.abcdcatsvets.org/guideline-for-feline-infectious-peritonitis/
+<!-- nonclaim-start -->
 
 ## さらに読む
 
-メルク獣医マニュアルに猫伝染性腹膜炎の章があります。追加の読書案内であり、このページはそのマニュアルから書いていません。
+メルク獣医マニュアルに猫伝染性腹膜炎の章があります。さらに調べるための目印です。このページはそのマニュアルから書いていません。
 
 https://www.merckvetmanual.com/infectious-diseases/feline-infectious-peritonitis/feline-infectious-peritonitis
+
+<!-- nonclaim-end -->

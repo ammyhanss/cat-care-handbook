@@ -1,16 +1,32 @@
 ---
+import fs from 'node:fs';
+import path from 'node:path';
+import matter from 'gray-matter';
 import Default from '@astrojs/starlight/components/PageTitle.astro';
-import { copyFor, type Status, type Urgency } from '../i18n/ui';
+import { citedSourceIds, tierCounts, tierSummary } from '../citations.mjs';
+import { copyFor, langOf, type Status, type Urgency } from '../i18n/ui';
 
 const copy = copyFor(Astro.locals.starlightRoute.lang);
-const data = Astro.locals.starlightRoute.entry.data as {
+const lang = langOf(Astro.locals.starlightRoute.lang);
+const entry = Astro.locals.starlightRoute.entry;
+const data = entry.data as {
   title: string;
   en?: string;
   status?: Status;
   urgency?: Urgency;
   last_updated?: string;
+  last_verified?: string;
   reviewed_by?: string;
+  sources?: Array<{ id?: string; tier?: number }>;
 };
+const id = String(entry.id ?? '');
+const sourceFile = ['.md', '.mdx']
+  .map((ext) => path.join(process.cwd(), 'src/content/docs', `${id}${ext}`))
+  .find((candidate) => fs.existsSync(candidate));
+const body = sourceFile ? matter(fs.readFileSync(sourceFile, 'utf8')).content : '';
+const citedIds = citedSourceIds(body);
+const counts = tierCounts(data.sources ?? [], citedIds.length ? citedIds : (data.sources ?? []).map((source) => source.id ?? ''));
+const tierLine = data.sources?.length ? tierSummary(lang, counts, citedIds.length > 0) : '';
 
 const showEnglish = data.en && data.en !== data.title;
 ---
@@ -42,13 +58,20 @@ const showEnglish = data.en && data.en !== data.title;
             {copy.updatedLabel}: {data.last_updated}
           </span>
         )}
+        {data.last_verified && (
+          <span>
+            {copy.verifiedLabel}: {data.last_verified}
+          </span>
+        )}
         {data.reviewed_by && (
           <span>
             {copy.reviewedLabel}: {data.reviewed_by}
           </span>
         )}
       </p>
+      {tierLine && <p class="tier-summary">{tierLine}</p>}
       {data.status === 'draft' && <p class="draft-notice">{copy.draftNotice}</p>}
+      {data.status === 'literature-checked' && <p class="draft-notice">{copy.notVetReviewed}</p>}
     </div>
   )
 }

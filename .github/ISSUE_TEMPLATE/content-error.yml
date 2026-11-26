@@ -1,7 +1,12 @@
-name: Content error
-description: Report a factual or translation error
+name: Content error report
+description: Report a factual or translation error on a disease page
 title: "Content: "
+labels: []
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Quote the sentence and the citation marker on the page (`[^source-id|locator]`). Do not paste text from an NC or ND source.
   - type: input
     id: page
     attributes:
@@ -10,18 +15,26 @@ body:
       placeholder: /diseases/infectious/fip/
     validations:
       required: true
+  - type: input
+    id: marker
+    attributes:
+      label: Citation marker on the page
+      description: The [^source-id|locator] next to the sentence, or "none" if the sentence has no marker
+      placeholder: "[^abcd-2026|2.1. GS-441524]"
+    validations:
+      required: true
   - type: textarea
     id: error
     attributes:
       label: What is wrong
-      description: Quote the sentence and say what should change
+      description: Quote the sentence and say what should change. If the cited passage does not say it, ask for the sentence to be deleted.
     validations:
       required: true
   - type: textarea
     id: source
     attributes:
       label: Source for the correction
-      description: Link a guideline or paper. Do not paste NC/ND text.
+      description: Guideline or paper, with the section, page, table, or figure. Include the tier (1, 2, or 3). Tier 3 cannot be the only support.
     validations:
       required: true
   - type: dropdown

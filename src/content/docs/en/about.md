@@ -19,6 +19,8 @@ The site does not give prescription doses, dosing intervals, or course lengths. 
 
 Disease pages are original summaries of primary sources. Preference goes to ISFM, AAFP, WSAVA, IRIS, and ABCD guidelines, and to papers in journals such as the Journal of Feline Medicine and Surgery and JAVMA.
 
+On a finished page, each medical claim has a numbered marker. The marker points to a source in the page frontmatter and to a section, page, table, or figure in that source. The reference list at the end of the page is built from those markers. Sources are tier 1 (named consensus guidelines), tier 2 (peer-reviewed papers and reviews), or tier 3 (textbooks and reference sites, only as a supplement). A claim cannot rest on tier 3 alone. The page shows when the claims were last checked. The rules are in [EVIDENCE-POLICY.md](https://github.com/ammyhanss/cat-care-handbook/blob/main/docs/EVIDENCE-POLICY.md).
+
 Text and images are not copied or rewritten from the Merck Veterinary Manual, WikiVet, PetQA, or other sources under non-commercial or no-derivatives terms. A link to a Merck Veterinary Manual chapter, when present, is further reading only. It is not the source of the page.
 
 ## Review status
@@ -26,7 +28,7 @@ Text and images are not copied or rewritten from the Merck Veterinary Manual, Wi
 Each disease page shows a status badge:
 
 - **Draft:** an outline only. It is not a complete guide.
-- **Literature checked:** the author has checked the cited sources. A veterinarian has not reviewed the page.
+- **Literature checked:** the author has checked each claim against the cited passage. A veterinarian has not reviewed the page. The page says so. The date of that check is shown as "Claims checked."
 - **Vet reviewed:** a veterinarian on the reviewer list has reviewed that version. The name is shown on the page.
 
 There are no reviewers yet. See [REVIEWERS.md](https://github.com/ammyhanss/cat-care-handbook/blob/main/REVIEWERS.md).

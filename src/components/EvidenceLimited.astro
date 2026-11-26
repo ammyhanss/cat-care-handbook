@@ -1,0 +1,14 @@
+---
+import { evidenceLimitedTitle } from '../citations.mjs';
+import { langOf } from '../i18n/ui';
+
+const lang = langOf(Astro.locals.starlightRoute?.lang);
+const title = evidenceLimitedTitle[lang] ?? evidenceLimitedTitle.en;
+---
+
+<aside class="evidence-limited" role="note">
+  <p class="evidence-limited-title">{title}</p>
+  <div class="evidence-limited-body">
+    <slot />
+  </div>
+</aside>

@@ -1,102 +1,135 @@
 ---
 title: 慢性齦口炎（FCGS）
-description: 貓慢性齦口炎的症狀、何時立刻就醫、檢查、拔牙與後續治療的方向，以及在家照護。不含處方劑量。
+description: 貓慢性齦口炎的症狀、檢查、拔牙與後續治療、在家照護。每項醫學陳述都註明來源與位置。不含處方劑量。
 en: Feline chronic gingivostomatitis
 status: literature-checked
 reviewed_by: ""
 last_updated: "2026-11-26"
+last_verified: "2026-11-26"
 urgency: soon
 sources:
-  - "Lee DB, Verstraete FJM, Arzi B. An Update on Feline Chronic Gingivostomatitis. Vet Clin North Am Small Anim Pract. 2020;50(5):973-982. https://doi.org/10.1016/j.cvsm.2020.04.002"
-  - "Jennings MW, Lewis JR, Soltero-Rivera MM, Brown DC, Reiter AM. Effect of tooth extraction on stomatitis in cats: 95 cases (2000–2013). J Am Vet Med Assoc. 2015;246(6):654-660. https://doi.org/10.2460/javma.246.6.654"
-  - "Winer JN, Arzi B, Verstraete FJM. Therapeutic Management of Feline Chronic Gingivostomatitis: A Systematic Review of the Literature. Front Vet Sci. 2016;3:54. https://doi.org/10.3389/fvets.2016.00054"
-  - "Hennet PR, Camy GAL, McGahie DM, Albouy MV. Comparative efficacy of a recombinant feline interferon omega in refractory cases of calicivirus-positive cats with caudal stomatitis. J Feline Med Surg. 2011;13(8):577-587. https://doi.org/10.1016/j.jfms.2011.05.012"
-  - "Bellows J, Berg ML, Dennis S, et al. 2019 AAHA Dental Care Guidelines for Dogs and Cats. J Am Anim Hosp Assoc. 2019;55(2):49-69. https://doi.org/10.5326/JAAHA-MS-6933"
+  - id: soltero-2023
+    title: "Feline chronic gingivostomatitis: current concepts in clinical management"
+    authors: Soltero-Rivera M, Goldschmidt S, Arzi B
+    year: 2023
+    doi: 10.1177/1098612X231186834
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10811996/
+    tier: 2
+  - id: lee-2020
+    title: An Update on Feline Chronic Gingivostomatitis
+    authors: Lee DB, Verstraete FJM, Arzi B
+    year: 2020
+    doi: 10.1016/j.cvsm.2020.04.002
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7194110/
+    tier: 2
+  - id: winer-2016
+    title: "Therapeutic Management of Feline Chronic Gingivostomatitis: A Systematic Review of the Literature"
+    authors: Winer JN, Arzi B, Verstraete FJM
+    year: 2016
+    doi: 10.3389/fvets.2016.00054
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4947586/
+    tier: 2
 ---
 
 ## 一句話說明
 
-慢性齦口炎是貓口腔黏膜的長期、疼痛性發炎，典型位置在牙齒後方、口咽兩側。免疫系統對牙菌斑等持續刺激反應過度。它不是普通牙結石，也不能靠幾天抗生素結束。
+貓慢性齦口炎是口腔黏膜嚴重、持續的發炎。常見位置在舌腭弓外側、靠近口腔後方，病灶可以是潰瘍、增生，或兩者都有。[^lee-2020|Introduction] 2023 年的臨床回顧描述同一種型態：牙齦發炎延伸到齒槽黏膜與頰黏膜，並帶來中度到重度疼痛。[^soltero-2023|Introduction]
 
 ## 常見症狀
 
-飼主比較容易注意到的是口臭、流口水（有時帶血）、吃得很慢、食物掉出來、只肯吃軟食，或走到碗邊又走開。食量下降和體重減輕很常見。有些貓會用爪子抓嘴，打哈欠或張嘴時叫。因為理毛會痛，被毛會變得雜亂。
+患病的貓常常吃得少或完全不吃，不理毛，也較少與人互動。[^soltero-2023|Introduction] 也可能流口水、噁心、食慾差。若同時有食道炎，這些表現會重疊。[^lee-2020|Feline Chronic Gingivostomatitis and Esophagitis] 潰瘍處可以出血。[^soltero-2023|Figure 1] 有些貓的增生組織嚴重到舌頭無法回到平常的位置。[^lee-2020|Figure 2] 典型的發炎在口腔深處、舌腭弓外側。[^lee-2020|Introduction]
 
-獸醫把嘴打開時，可見牙齦和口腔後方黏膜發紅、潰瘍或增生。這個位置在口角深處，飼主通常看不到。病變可以同時有牙周病或牙吸收，但那是另外的病。
+報告中的盛行率取決於研究的貓群，以及疾病怎麼定義。2020 年的回顧給出的範圍是 0.7% 到 12%。[^lee-2020|Introduction] 2023 年的回顧寫到最高可達 26%。[^soltero-2023|Introduction] 多貓家庭的勝算較高：2023 年回顧所摘要的一項研究中，與單貓家庭相比大約是七倍，家裡每多一隻貓，勝算再增加超過 70%。[^soltero-2023|Current knowledge of the etiology of FCGS] 2020 年回顧所引的研究裡，能否外出與這個病沒有關聯。[^lee-2020|Environmental Stressors]
 
-報告中的盛行率大約從不到 1% 到約 12%，數字隨族群和定義而差很多。多貓環境比較常見。原因仍沒有單一答案。卡里西病毒常常被測到，但陽性不能單獨診斷這個病，陰性也不能排除。貓艾滋病病毒、貓白血病病毒、疱疹病毒和部分細菌都被討論過，目前沒有一種被證明是唯一原因。
+沒有任何單一原因被證實。貓杯狀病毒是關聯最一致的病原。[^lee-2020|Potential Viral Causes] 2023 年回顧摘要的一項宏基因體研究中，23 隻患病貓有 21 隻測到杯狀病毒，對照貓則沒有；但是把病毒接種到健康貓，並沒有複製出這個慢性病。[^soltero-2023|Current knowledge of the etiology of FCGS] 口腔裡的病毒量，並沒有被證明與病灶嚴重度或治療反應相符。[^soltero-2023|Current knowledge of the etiology of FCGS] 貓疱疹病毒、貓免疫缺乏病毒、貓白血病病毒和數種細菌都被討論過，但沒有證明其中任何一個就是病因。[^lee-2020|Etiopathogenesis]
+
+:::evidence-limited
+
+杯狀病毒的因果角色還沒有定論。回顧支持它與這個病有關聯，也可能影響嚴重度。它們並沒有證明：只要感染這個病毒，每一隻貓都會出現這種慢性病。[^soltero-2023|Current knowledge of the etiology of FCGS][^lee-2020|Potential Viral Causes]
+
+:::
+
+一項對照研究用內視鏡發現，患病貓有 98% 有食道炎，對照貓則沒有。這些貓常常沒有指向食道的症狀；口腔疾病控制之後，食道發炎也有改善。[^soltero-2023|Systemic manifestations][^lee-2020|Feline Chronic Gingivostomatitis and Esophagitis]
 
 ## 什麼情況必須馬上就醫
 
-下面的情況要當天看獸醫，不要再等一個週末：
+食慾下降或完全不吃，以及明顯的口腔疼痛，都應該盡快給獸醫看。疼痛控制不住，或沒有辦法接受治療時，有些貓會被安樂死。[^soltero-2023|Introduction]
 
-- 大約 24 小時幾乎沒有進食。
-- 精神很差、躲起來，或有脫水跡象，例如牙齦乾燥、皮膚捏起後回復很慢。
-- 口腔流血停不下來，或臉突然腫起來。
-- 呼吸變費力，或突然無法張口、閉口。
+- 潰瘍處出血屬於文獻描述的表現，應該檢查。[^soltero-2023|Figure 1]
+- 增生的發炎讓舌頭無法放回平常位置時，需要獸醫檢查。[^lee-2020|Figure 2]
+- 貓停止進食時需要評估，因為不吃是疼痛的典型後果。[^soltero-2023|Introduction]
 
-即使還吃得下一點東西，明顯的口腔痛也應該盡快安排診療。痛會讓貓越吃越少，之後更難處理。
+<!-- nonclaim --> 呼吸困難、倒下、抽搐，以及其他不專屬於這個病的緊急狀況，列在[立刻就醫](../../urgent/)頁。
 
 ## 會做哪些檢查
 
-清醒時往往無法把嘴看完整。可靠的口腔評估通常需要鎮靜或麻醉，並做牙科記錄和全口牙科 X 光。X 光用來找殘留牙根和牙吸收。牙根留在齒槽裡，發炎可以繼續。
+清醒時看口腔常常不夠。獸醫可能需要鎮靜，或等到麻醉，才能看清病灶，並完成用來追蹤病情的評分。[^soltero-2023|Preoperative evaluation] 全口牙科放射線檢查是評估的一部分。患病貓有廣泛、嚴重的牙周炎，也比其他口腔病的貓更容易出現外炎性牙根吸收。[^lee-2020|Feline Chronic Gingivostomatitis and Periodontitis] 2023 年回顧引用較早的病例系列，寫到中度到重度牙周炎可見於最多 93% 的患病貓，牙吸收或殘留牙根可見於最多 66%。[^soltero-2023|Surgical management]
 
-建議檢測貓艾滋病病毒和貓白血病病毒。結果陽性不會診斷口炎，但會改變整體健康評估和用藥時的注意事項。
+拔牙需要較長的麻醉時，診所應先評估麻醉風險，包括全血球計數和血清生化學。[^soltero-2023|Preoperative evaluation] 建議檢測貓白血病病毒、貓免疫缺乏病毒和貓杯狀病毒，因為病毒狀態會改變預後。2023 年回顧的作者當時不知道有商業化的美洲獅貓泡沫病毒檢測。[^soltero-2023|Preoperative evaluation] 病毒檢測陽性本身不能確立這個診斷。這些病原被關聯過，但因果沒有被證明。不過貓白血病病毒與結果有關：在一個系列裡，陽性貓拔牙後沒有改善的機會是 7.5 倍。[^soltero-2023|Current knowledge of the etiology of FCGS][^lee-2020|Etiopathogenesis]
 
-病變若只有一側、像腫塊，或和預期的雙側尾側口炎不像，應做切片，以區分鱗狀細胞癌和其他病。慢性齦口炎的組織常見淋巴球和漿細胞，這支持慢性發炎，診斷仍主要靠臨床位置和表現。
-
-2019 年 AAHA 犬貓牙科照護指南把口腔檢查、牙科影像和適當的疼痛控制視為牙科處置的一部分，而不是可有可無的附加項目。
+診斷以麻醉下的切開式切片確認。[^soltero-2023|Preoperative evaluation] 病灶組織有大量淋巴球和漿細胞，中性球、莫特細胞和肥大細胞較少。[^lee-2020|Etiopathogenesis] 病灶位於舌腭弓外側，仍是臨床上辨認這個病的核心。[^lee-2020|Introduction]
 
 ## 常見治療方式
 
-本頁不提供處方劑量。用哪一種藥、用多久，只能由診察這隻貓的獸醫決定。
+<!-- nonclaim --> 本頁不寫劑量、給藥間隔或療程長度。用哪一種藥，由診察這隻貓的獸醫決定。
 
-專業洗牙通常壓不住已經形成的慢性齦口炎。目前證據較一致的方向，是拔除發炎區的前臼齒和臼齒，並一併處理有獨立拔牙理由的牙，例如嚴重牙周病、牙吸收或斷根。目的是去掉會持續堆積牙菌斑的牙齒表面。
+不論還做什麼，都需要止痛。選擇取決於其他疾病、其他藥物，以及口腔有多痛。[^lee-2020|Pain Management] 2023 年回顧把止痛視為手術前、手術後，以及發炎持續時都必要。[^soltero-2023|Analgesia]
 
-Jennings 等人回顧 95 隻接受拔牙的貓。約 28% 完全消退，約 39% 明顯改善，約 26% 改善很少，約 6% 沒有改善。在那份資料裡，只拔前臼齒與臼齒，和全口拔牙，整體結果沒有顯著差別。明顯改善或完全消退的貓之中，多數在術後一段時間仍需要藥物輔助。
+藥物治療不能取代拔牙。2020 年回顧指出，單靠藥物通常不會有好的長期結果；至少拔除前臼齒和臼齒，可併用藥物，是當時的標準方向。[^lee-2020|Key points][^lee-2020|Leading treatment modalities] 2023 年回顧寫明：拔牙前給藥並沒有被證明能改善手術結果，藥物也不能當作取代手術的唯一治療。[^soltero-2023|Medical management]
 
-因此獸醫常會先做範圍足夠的拔牙，再依回診決定要不要處理剩下的牙齒。Lee、Verstraete 與 Arzi 的綜論把「至少拔除前臼齒和臼齒，而不是只靠藥物」描述為當時的標準方向，並指出大約七到八成的貓在這類研究中有實質改善，仍有約兩到三成改善有限。各研究的定義並不完全相同。Winer 等人的系統性回顧也提醒，研究之間的評分和追蹤不一致，不能把每一個百分比直接相加。
+2020 年回顧所報告的 95 隻貓拔牙系列中，28.4% 完全緩解，39% 明顯改善，26.3% 改善很少，6.3% 沒有改善。在明顯改善或完全緩解的貓裡，68.8% 在術後前兩週之後，仍需要一段時間的抗菌藥、抗發炎藥或止痛藥。[^lee-2020|Surgical Treatment] 同一系列裡，拔除前臼齒與臼齒，和全口拔牙，整體反應沒有顯著差異。[^lee-2020|Surgical Treatment][^winer-2016|Discussion] 2020 年回顧的實務建議是：先拔前臼齒和臼齒，再加上已經因嚴重牙周炎、殘留牙根或牙吸收而需要拔的牙；若 1 到 4 個月內沒有正向反應，再考慮全口拔牙。[^lee-2020|Surgical Treatment] 2023 年回顧的要點著重不同：發炎延伸到口腔前方時做全口拔牙；發炎限於前臼齒和臼齒區域時，拔除那些牙。[^soltero-2023|Key Points]
 
-手術前後的止痛是治療的一部分。抗生素有時在手術前後短期使用，處理繼發感染，不是根治。
+:::evidence-limited
 
-拔牙後仍然疼痛、發炎的貓，獸醫可能考慮環孢素等免疫調節藥，並用血液檢查追蹤。Hennet 等人曾對 39 隻卡里西病毒陽性、拔牙後仍有尾側口炎的貓做隨機研究，比較口黏膜使用的重組貓干擾素與口服類固醇。干擾素組的病灶分數有改善，但樣本不大，兩組在多數項目上沒有顯著差異，而且這個藥不是每個地區都有。
+不同拔牙研究的百分比不應相加。2016 年的系統性回顧發現，評分方式和追蹤時間並不一致，因此不能直接比較成功率。較早的小系列看起來比 95 隻貓的系列更好，而後者是該回顧裡最大的拔牙報告。[^winer-2016|Abstract][^winer-2016|Inconsistent Outcome Measurements]
 
-長期只靠類固醇注射，可能讓紅腫看起來變少，疼痛和副作用仍在，也不能取代拔牙。間質幹細胞等再生醫療仍屬研究或轉診選項，不是一般門診的第一步。
+:::
 
-不要使用人類止痛藥。布洛芬、對乙醯胺酚等對貓有毒。精油和網路偏方不能代替口腔檢查。
+:::evidence-limited
+
+抗生素的證據有限。2023 年回顧摘要的一項研究中，使用 amoxicillin 的貓有 38% 改善，使用 metronidazole 的有 37%，而且效果是暫時的。該回顧只建議在急性期，或已有繼發感染時使用抗生素，而不是把它當成治癒。[^soltero-2023|Antimicrobials]
+
+:::
+
+糖皮質素常常被開立。2023 年回顧所引的系列裡，完全治癒或明顯改善約 23%，而該改善組裡只有 7% 達到臨床緩解。長期使用可以造成傷害，包括糖尿病。作者把糖皮質素保留給止痛仍無效的貓、遞減療程，或作為補救，並建議不要在沒有手術的情況下做免疫抑制。[^soltero-2023|Immunosuppressive therapy]
+
+拔牙後仍然患病的貓，一項小型隨機試驗以口服環孢素治療：6 週內 9 隻中有 7 隻改善，安慰劑組 7 隻中有 1 隻改善。對 11 隻貓的較長觀察中，有 5 隻在 3 個月或更久之後臨床治癒。[^soltero-2023|Immunosuppressive therapy][^winer-2016|Medical Management] 2016 年回顧也報告干擾素的比較：口黏膜給予重組貓干擾素 ω，19 隻中 45% 明顯改善，其中 10% 緩解；遞減糖皮質素組 11 隻中 23% 明顯改善，其中 7% 緩解。兩組差異沒有統計顯著性。[^winer-2016|Medical Management] 2020 年回顧把這個結果讀成：對已經拔牙仍無效、而且杯狀病毒陽性的貓，干擾素至少和短期 prednisolone 一樣有效。[^lee-2020|Recombinant feline interferon omega] 該產品在歐洲核准使用；2023 年回顧當時，美國尚未核准。[^soltero-2023|Immunomodulation]
+
+:::evidence-limited
+
+這些藥物試驗的隻數很少。9 隻或 19 隻貓的結果，不能確定個別的貓會如何反應。干擾素與糖皮質素組的差異也沒有達到統計顯著。[^winer-2016|Medical Management]
+
+:::
+
+靜脈注射脂肪來源的間質幹細胞，已在頑固病例中研究。一個 7 隻貓使用自體細胞的系列裡，42.8% 臨床緩解，28.6% 明顯改善，28.6% 沒有反應，追蹤 6 到 24 個月。之後同樣 7 隻規模的異體細胞系列，效果較差。[^lee-2020|Mesenchymal stem cells] 一項前導研究發現，拔牙前給予幹細胞沒有實質幫助。[^soltero-2023|Immunomodulation] 這仍是已經做過適當拔牙、仍然無效的貓的轉診或研究選項，不是第一步治療。[^lee-2020|Summary]
 
 ## 在家照護
 
-提供軟的、貓願意吃的食物。咬不動的乾飼料不要強迫。發作時每天看食量、體重和喝水。只給獸醫開的藥，不要自行調整。
+記錄貓吃多少、是否停止理毛、體重是否下降。這些就是這個病造成的變化。[^soltero-2023|Introduction] 只給獸醫開立的藥。止痛必須配合這隻貓的其他疾病和其他藥物。[^lee-2020|Pain Management] 拔牙後要回診。在 95 隻貓的系列裡，多數有改善的貓在前兩週之後仍需要藥物。[^lee-2020|Surgical Treatment]
 
-手術後按約定回診。止痛和傷口恢復，與拔了哪些牙一樣重要。其他牙病有時會建議刷牙或漱口水；口炎發作時嘴很痛，先問獸醫，不要硬刷。
-
-卡里西病毒可以在貓之間傳播，但口炎不是「被傳染就一定得到同一種病」。新貓加入前先做健康檢查。多貓家庭盡量減少擁擠和緊迫。
+多貓家庭裡，這個病的勝算較高。提出的原因包括反覆接觸其他貓排出的病毒，以及群居的壓力。[^soltero-2023|Current knowledge of the etiology of FCGS][^lee-2020|Environmental Stressors] 勝算較高，不等於家裡每一隻貓都會發病。實驗接種並沒有讓健康貓變成慢性病例。[^soltero-2023|Current knowledge of the etiology of FCGS]
 
 ## 預後與長期管理
 
-這是慢性病。不少貓在範圍足夠、並用 X 光確認牙根的拔牙之後，可以恢復進食和理毛。一部分需要後續藥物。少數貓仍然很痛，需要轉診；若疼痛無法控制，要和獸醫討論生活品質。
+這是慢性發炎性疾病。2020 年回顧把各拔牙研究描述為大約 70% 到 80% 的貓明顯改善或緩解，大約 20% 到 30% 改善很少或沒有改善；系統性回顧的限制是，這些數字來自評分方式不同的研究。[^lee-2020|Surgical Treatment][^winer-2016|Inconsistent Outcome Measurements] 2020 年的摘要把手術後的結果大約分成三等分：緩解、明顯改善、以及很少或沒有改善。許多貓在拔牙之外還需要藥物，有些需要長期用藥。[^lee-2020|Summary] 帶有貓白血病病毒的貓，拔牙後改善的機會在報告中較差。[^soltero-2023|Surgical management] 若疼痛仍然控制不住，生活品質要和獸醫一起決定。2023 年回顧寫到，有些貓因此被安樂死。[^soltero-2023|Introduction]
 
-越早做完整評估和適當拔牙，通常比反覆使用抗生素和類固醇更能減輕疼痛。改善可能要數週到數月，不是手術隔天就結束。
+2023 年回顧所引的研究裡，沒有研究檢驗手術前症狀拖得較久，會不會改變手術結果。該回顧討論的一項研究中，症狀時間與治療當下的病灶分數沒有相關。[^soltero-2023|Surgical management]
 
 ## 常見誤解
 
-- 「牙齦只是有點紅，可以再看看。」口腔後方的發炎可以非常痛，即使貓還願意靠近食物。
-- 「吃消炎藥就會好。」細菌只是刺激的一部分。藥一停，發炎常常回來。
-- 「只拔看起來最壞的幾顆。」留下來的牙齒仍會堆積牙菌斑。
-- 「定期打類固醇就好。」這會掩蓋問題，也可能帶來副作用。
-- 「這就是牙吸收。」兩種病可以同時存在，但是不同的病。
+- 「前面的牙齦只是有一點紅，可以再等。」定義這個病的發炎在後方、舌腭弓外側，飼主不容易看清楚時它仍然會痛。[^lee-2020|Introduction][^soltero-2023|Introduction]
+- 「抗生素會清掉它。」已發表的抗生素反應是暫時的，藥物也不能取代拔牙。[^soltero-2023|Antimicrobials][^soltero-2023|Medical management]
+- 「只拔看起來最差的那顆牙。」研究過的手術是拔除發炎區域的前臼齒和臼齒，或在發炎範圍更廣時拔全口，再加上本來就有其他拔牙理由的牙。[^lee-2020|Surgical Treatment][^soltero-2023|Key Points]
+- 「打一針類固醇就是治療計畫。」2023 年回顧所引的系列裡，糖皮質素帶來的緩解並不常見，長期使用可以造成糖尿病，作者也不建議在沒有手術時做免疫抑制。[^soltero-2023|Immunosuppressive therapy]
+- 「這和牙吸收是同一個病。」牙吸收和牙周炎在同一批貓身上很常見。它們會改變拔牙計畫。它們不是這個黏膜疾病的定義。[^lee-2020|Feline Chronic Gingivostomatitis and Periodontitis][^soltero-2023|Surgical management]
+- 「杯狀病毒檢測陽性就等於診斷。」杯狀病毒與這個病有關聯，沒有這個病的貓也可以測到。接種實驗沒有證明因果。[^lee-2020|Potential Viral Causes][^soltero-2023|Current knowledge of the etiology of FCGS]
 
-## 參考文獻
-
-- Lee DB, Verstraete FJM, Arzi B. An Update on Feline Chronic Gingivostomatitis. Vet Clin North Am Small Anim Pract. 2020;50(5):973-982. https://doi.org/10.1016/j.cvsm.2020.04.002
-- Jennings MW, Lewis JR, Soltero-Rivera MM, Brown DC, Reiter AM. Effect of tooth extraction on stomatitis in cats: 95 cases (2000–2013). J Am Vet Med Assoc. 2015;246(6):654-660. https://doi.org/10.2460/javma.246.6.654
-- Winer JN, Arzi B, Verstraete FJM. Therapeutic Management of Feline Chronic Gingivostomatitis: A Systematic Review of the Literature. Front Vet Sci. 2016;3:54. https://doi.org/10.3389/fvets.2016.00054
-- Hennet PR, Camy GAL, McGahie DM, Albouy MV. Comparative efficacy of a recombinant feline interferon omega in refractory cases of calicivirus-positive cats with caudal stomatitis. J Feline Med Surg. 2011;13(8):577-587. https://doi.org/10.1016/j.jfms.2011.05.012
-- Bellows J, Berg ML, Dennis S, et al. 2019 AAHA Dental Care Guidelines for Dogs and Cats. J Am Anim Hosp Assoc. 2019;55(2):49-69. https://doi.org/10.5326/JAAHA-MS-6933
+<!-- nonclaim-start -->
 
 ## 延伸閱讀
 
-默沙東獸醫手冊有口腔發炎的章節，供對照查閱。本頁不是依該手冊改寫。
+默沙東獸醫手冊有口腔發炎與潰瘍疾病的章節。這裡只是延伸查閱的指標。本頁不是依該手冊寫成的。
 
 https://www.merckvetmanual.com/digestive-system/diseases-of-the-mouth-in-small-animals/oral-inflammatory-and-ulcerative-disease-in-small-animals
+
+<!-- nonclaim-end -->

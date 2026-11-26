@@ -18,6 +18,8 @@ jobs:
           cache: npm
       - name: Install
         run: npm ci
+      - name: Test content checker
+        run: npm test
       - name: Check disease pages
         run: npm run check:content
       - name: Build

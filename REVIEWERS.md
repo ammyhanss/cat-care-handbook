@@ -10,7 +10,7 @@ There are no reviewers yet.
 
 ## How to join
 
-Email is not collected in this file. Open a GitHub issue titled `Reviewer: your name` and include:
+Email is not collected in this file. Open a GitHub issue with the "Vet review offer" template and include:
 
 - your name as you want it shown on a page
 - your veterinary qualification and the region where you are licensed
