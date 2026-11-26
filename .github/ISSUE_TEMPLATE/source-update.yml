@@ -1,0 +1,31 @@
+name: Source update
+description: A cited guideline or paper has been updated
+title: "Source: "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page that cites it
+      placeholder: /diseases/infectious/fip/
+    validations:
+      required: true
+  - type: input
+    id: old
+    attributes:
+      label: Citation on the page now
+    validations:
+      required: true
+  - type: input
+    id: new
+    attributes:
+      label: Newer source
+      description: Title, year, and URL
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What changed
+      description: Which sentence on the page may need to change. Do not add doses.
+    validations:
+      required: true

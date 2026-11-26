@@ -1,0 +1,26 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+import { copyFor } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const locale = Astro.locals.starlightRoute.locale;
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
+const prefix = locale ? `${locale}/` : '';
+const aboutHref = `${base}${prefix}about/`;
+const repo = 'https://github.com/ammyhanss/cat-care-handbook/blob/main';
+---
+
+<div class="handbook-footer" data-pagefind-ignore>
+  <p>{copy.footerDisclaimer}</p>
+  <ul>
+    <li><a href={aboutHref}>{copy.footerAbout}</a></li>
+    <li><a href={`${repo}/CONTRIBUTING.md`}>{copy.footerContributing}</a></li>
+    <li><a href={`${repo}/REVIEWERS.md`}>{copy.footerReviewers}</a></li>
+    <li>
+      <a href={`${repo}/LICENSE`}>{copy.footerLicense}</a>
+    </li>
+  </ul>
+</div>
+<Default />

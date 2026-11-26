@@ -1,0 +1,54 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { copyFor, type Status, type Urgency } from '../i18n/ui';
+
+const copy = copyFor(Astro.locals.starlightRoute.lang);
+const data = Astro.locals.starlightRoute.entry.data as {
+  title: string;
+  en?: string;
+  status?: Status;
+  urgency?: Urgency;
+  last_updated?: string;
+  reviewed_by?: string;
+};
+
+const showEnglish = data.en && data.en !== data.title;
+---
+
+<Default><slot /></Default>
+{
+  data.status && (
+    <div class="disease-meta" data-pagefind-ignore>
+      {showEnglish && (
+        <p class="english-name">
+          <span>{copy.englishNameLabel}</span> {data.en}
+        </p>
+      )}
+      <p class="badges">
+        <span class:list={['badge', 'badge-status', `is-${data.status}`]}>
+          <span class="badge-k">{copy.statusLabel}</span>
+          {copy.status[data.status]}
+        </span>
+        {data.urgency && (
+          <span class:list={['badge', 'badge-urgency', `is-${data.urgency}`]}>
+            <span class="badge-k">{copy.urgencyLabel}</span>
+            {copy.urgency[data.urgency]}
+          </span>
+        )}
+      </p>
+      <p class="meta-line">
+        {data.last_updated && (
+          <span>
+            {copy.updatedLabel}: {data.last_updated}
+          </span>
+        )}
+        {data.reviewed_by && (
+          <span>
+            {copy.reviewedLabel}: {data.reviewed_by}
+          </span>
+        )}
+      </p>
+      {data.status === 'draft' && <p class="draft-notice">{copy.draftNotice}</p>}
+    </div>
+  )
+}
