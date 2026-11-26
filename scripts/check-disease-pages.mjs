@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
-import { checkDiseasePage } from '../src/citations.mjs';
+import { checkDiseasePage, checkGuidePage } from '../src/citations.mjs';
 
 const root = path.resolve('src/content/docs');
 const locales = ['en', 'zh-cn', 'ja'];
@@ -32,10 +32,13 @@ export function checkContentTree(contentRoot = root) {
 
   for (const file of files) {
     const rel = path.relative(contentRoot, file).split(path.sep).join('/');
-    if (!rel.includes('/diseases/') && !rel.startsWith('diseases/')) continue;
     if (rel.endsWith('/index.md') || rel.endsWith('/index.mdx')) continue;
+    const isDisease = rel.includes('/diseases/') || rel.startsWith('diseases/');
+    const isGuide = rel.includes('/guide/') || rel.startsWith('guide/');
+    if (!isDisease && !isGuide) continue;
     const parsed = matter(fs.readFileSync(file, 'utf8'));
-    errors.push(...checkDiseasePage(rel, parsed.data ?? {}, parsed.content));
+    const check = isGuide ? checkGuidePage : checkDiseasePage;
+    errors.push(...check(rel, parsed.data ?? {}, parsed.content));
   }
 
   return { errors, fileCount: files.length };
@@ -46,9 +49,9 @@ const isMain = process.argv[1] && path.resolve(process.argv[1]) === path.resolve
 if (isMain) {
   const { errors, fileCount } = checkContentTree();
   if (errors.length) {
-    console.error(`Disease page check failed (${errors.length}):`);
+    console.error(`Content check failed (${errors.length}):`);
     for (const error of errors) console.error(`- ${error}`);
     process.exit(1);
   }
-  console.log(`Checked ${fileCount} docs pages. Disease frontmatter and citations are valid.`);
+  console.log(`Checked ${fileCount} docs pages. Disease and owner-guide frontmatter and citations are valid.`);
 }

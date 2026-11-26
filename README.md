@@ -11,7 +11,7 @@ The site is [Astro Starlight](https://starlight.astro.build/), in four languages
 - Simplified Chinese (`/zh-cn/`)
 - Japanese (`/ja/`)
 
-Diseases are grouped by body system. Two sample pages are written and literature-checked: feline chronic gingivostomatitis and feline infectious peritonitis. Six other first-batch diseases are drafts (headings and citations only).
+Diseases are grouped by body system. Eight disease pages are literature-checked. A first-time cat owner guide, also literature-checked, sits in the sidebar and on the home page.
 
 ## Licenses
 

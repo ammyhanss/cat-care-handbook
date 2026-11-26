@@ -6,8 +6,8 @@
 
 ## 來源等級
 
-- **第 1 級：** ISFM、International Cat Care（iCatCare）、AAFP、IRIS、ABCD、WSAVA 的共識指南，以及 ACVIM 共識聲明。可以單獨支持一項陳述。
-- **第 2 級：** 同儕審查的論文與回顧，例如 JFMS、JAVMA、JVIM、Veterinary Clinics of North America。可以單獨支持一項陳述。AAHA 指南屬這一級。
+- **第 1 級：** ISFM、International Cat Care（iCatCare）、AAFP、IRIS、ABCD、WSAVA 的共識指南，以及 ACVIM 共識聲明。AAFP 與 AAHA 或 ISFM 聯合發表的貓咪指南也屬第 1 級。ESCCAP 與 CAPC 的寄生蟲指南屬第 1 級。可以單獨支持一項陳述。
+- **第 2 級：** 同儕審查的論文與回顧，例如 JFMS、JAVMA、JVIM、Veterinary Clinics of North America。可以單獨支持一項陳述。只有 AAHA、沒有 AAFP 或 ISFM 共同作者的文件屬這一級。
 - **第 3 級：** 獸醫教科書與參考網站，包括默沙東獸醫手冊、Cornell Feline Health Center、VCA。只能當補充連結，不能成為任何一項陳述的唯一依據。
 
 ## 怎麼引用

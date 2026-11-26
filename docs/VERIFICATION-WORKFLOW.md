@@ -1,6 +1,6 @@
 # Verification workflow
 
-Use this when a disease page moves from an outline to `literature-checked`, and when a finished page is revised. Feline chronic gingivostomatitis and feline infectious peritonitis are the reference pages.
+Use this when a disease page or a first-time cat owner guide page moves from an outline to `literature-checked`, and when a finished page is revised. Feline chronic gingivostomatitis and feline infectious peritonitis are the reference pages for how a claim is cited. The owner guide uses the same marker, the same tiers, and the same rule that an unsupported sentence is deleted.
 
 ## 1. Draft only from named sources
 

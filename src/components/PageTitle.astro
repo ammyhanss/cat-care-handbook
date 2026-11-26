@@ -29,6 +29,7 @@ const counts = tierCounts(data.sources ?? [], citedIds.length ? citedIds : (data
 const tierLine = data.sources?.length ? tierSummary(lang, counts, citedIds.length > 0) : '';
 
 const showEnglish = data.en && data.en !== data.title;
+const diseasePage = id.includes('/diseases/') || id.startsWith('diseases/');
 ---
 
 <Default><slot /></Default>
@@ -37,7 +38,7 @@ const showEnglish = data.en && data.en !== data.title;
     <div class="disease-meta" data-pagefind-ignore>
       {showEnglish && (
         <p class="english-name">
-          <span>{copy.englishNameLabel}</span> {data.en}
+          <span>{diseasePage ? copy.englishNameLabel : copy.englishTitleLabel}</span> {data.en}
         </p>
       )}
       <p class="badges">

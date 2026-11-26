@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { checkDiseasePage, claimUnits } from '../src/citations.mjs';
+import { checkDiseasePage, checkGuidePage, claimUnits } from '../src/citations.mjs';
 
 const tier2 = {
   id: 'lee-2020',
@@ -138,6 +138,31 @@ The mucosa is inflamed.[^lee-2020|Introduction]
 `);
   assert.equal(units.length, 1);
   assert.match(units[0], /mucosa is inflamed/);
+});
+
+test('a guide page does not require urgency', () => {
+  const { urgency: _urgency, ...withoutUrgency } = page();
+  const errors = checkGuidePage('en/guide/litter.md', withoutUrgency, cited);
+  assert.equal(
+    errors.some((error) => error.includes('urgency')),
+    false,
+  );
+});
+
+test('a guide page still requires a citation and last_verified', () => {
+  const { urgency: _urgency, ...withoutUrgency } = page();
+  const missingCite = checkGuidePage(
+    'guide/litter.md',
+    withoutUrgency,
+    `${cited}Scoop the box on a schedule that the source never states.`,
+  );
+  assert.ok(missingCite.some((error) => error.includes('no citation marker')));
+  const missingDate = checkGuidePage(
+    'guide/litter.md',
+    { ...withoutUrgency, last_verified: undefined },
+    cited,
+  );
+  assert.ok(missingDate.some((error) => error.includes('last_verified')));
 });
 
 test('list items are separate claims', () => {

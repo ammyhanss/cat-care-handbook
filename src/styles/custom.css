@@ -179,13 +179,15 @@ a.cite {
 
 .home-search,
 .disease-section,
-.system-section {
+.system-section,
+.guide-section {
   margin-top: 1.75rem;
 }
 
 .home-search h2,
 .disease-section h2,
 .system-section h2,
+.guide-section h2,
 .urgent h2 {
   margin-bottom: 0.4rem;
   font-size: var(--sl-text-2xl);

@@ -37,4 +37,7 @@ export function checkDiseasePage(
   rel: string,
   data: Record<string, unknown>,
   body: string,
+  options?: { requireUrgency?: boolean },
 ): string[];
+
+export function checkGuidePage(rel: string, data: Record<string, unknown>, body: string): string[];

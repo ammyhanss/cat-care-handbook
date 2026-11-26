@@ -219,18 +219,25 @@ function looseMarkers(unit) {
 }
 
 /**
- * Check one disease page. rel is the path relative to src/content/docs.
+ * Check one cited page. rel is the path relative to src/content/docs.
  * Full citation coverage applies to literature-checked and vet-reviewed pages.
  * Drafts still need valid sources, dates, and well-formed markers if any exist.
+ * Disease pages require urgency. Owner-guide pages do not.
  */
-export function checkDiseasePage(rel, data, body) {
+export function checkDiseasePage(rel, data, body, options = {}) {
+  const requireUrgency = options.requireUrgency !== false;
   const errors = [];
   const statuses = new Set(['draft', 'literature-checked', 'vet-reviewed']);
   const urgencies = new Set(['emergency', 'soon', 'monitor']);
   if (!data.title || typeof data.title !== 'string') errors.push(`${rel}: title is required`);
   if (!data.en || typeof data.en !== 'string') errors.push(`${rel}: en name is required`);
   if (!statuses.has(data.status)) errors.push(`${rel}: status must be draft, literature-checked, or vet-reviewed`);
-  if (!urgencies.has(data.urgency)) errors.push(`${rel}: urgency must be emergency, soon, or monitor`);
+  if (requireUrgency && !urgencies.has(data.urgency)) {
+    errors.push(`${rel}: urgency must be emergency, soon, or monitor`);
+  }
+  if (!requireUrgency && data.urgency != null && data.urgency !== '' && !urgencies.has(data.urgency)) {
+    errors.push(`${rel}: urgency must be emergency, soon, or monitor`);
+  }
   if (!isRealDate(data.last_updated)) errors.push(`${rel}: last_updated must be a real YYYY-MM-DD date`);
   if (!isRealDate(data.last_verified)) errors.push(`${rel}: last_verified must be a real YYYY-MM-DD date`);
   if (!Object.hasOwn(data, 'reviewed_by')) errors.push(`${rel}: reviewed_by must be present`);
@@ -285,4 +292,9 @@ export function checkDiseasePage(rel, data, body) {
   });
 
   return errors;
+}
+
+/** Owner-guide pages use the same citation rules. Urgency is optional. */
+export function checkGuidePage(rel, data, body) {
+  return checkDiseasePage(rel, data, body, { requireUrgency: false });
 }
