@@ -4,8 +4,8 @@ description: How a new cat settles, how to handle and play, and how to introduce
 en: The first days and weeks
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -95,6 +95,10 @@ The same guidelines say kittens learn a fear response to other species, includin
 
 ## What to watch for in the first weeks
 
+![Five steps in a column. 1 is an arch with a small circle inside. 2 is a low arc and a head with an ear, with a short line between them. 3 is a line ending in a circle, beside an arc that is crossed out. 4 is two heads with ears and a vertical line between them. 5 is an oval, a drop, a rectangle, and a taller rectangle.](/diagrams/first-weeks.svg)
+
+**Figure.** Steps 1 to 5 are what to keep in place during the first weeks. They are not a day-by-day timetable. 1: the cat has a place to hide. 2: the person gets low, the cat approaches, and the contact ends when the cat leaves. 3: play uses a toy, not a hand or a foot. 4: a new cat and the cat who already lives there stay apart and meet gradually, rather than starting in one shared room. 5: a food bowl, water, and a litter box, with a shape for calling the clinic. A change in eating, drinking, urinating, or using the hiding place is a reason to call. The drawing has no timetable for introducing a dog. The sources used here do not give one. [^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4][^aaha-aafp-life-2021|Behavior and environmental needs][^aafp-isfm-env-2013|Understanding the cat's needs and behavior][^aaha-aafp-life-2021|Discussion items for all life stages]
+
 - The cat has a place to hide, and contact stops when the cat leaves.[^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4]
 - Play uses toys, not hands or feet.[^aaha-aafp-life-2021|Behavior and environmental needs]
 - A new cat meets resident cats gradually, with separate resources, rather than being put straight into the shared rooms.[^aafp-isfm-env-2013|Understanding the cat's needs and behavior]
@@ -102,3 +106,23 @@ The same guidelines say kittens learn a fear response to other species, includin
 - A change in how the cat eats, drinks, urinates, or uses the hiding places is a reason to call the clinic. The life stage guidelines treat changes in behavior as possible signs of illness or pain, not as "just the new home" once the cat has had time to settle, and they say senior cats with new behavior need a medical check. A newly arrived kitten who misses the litter box should also be checked for a medical cause, including parasites.[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|General litter box considerations]
 
 <!-- nonclaim --> Pain signs and same-day emergencies are on [Recognizing pain and illness](./pain-and-illness/) and [See a vet now](../urgent/).
+
+## Further viewing
+
+<!-- nonclaim-start -->
+<p class="watch-note">This section is supplementary viewing. It is not a citation for the statements on this page, and it does not replace the references above. The videos are not hosted here. The titles and publishers were checked by opening the links.</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=kkq_HKA7drA">
+<span class="watch-title">Giving a cat a tablet: using a pill popper</span>
+<span class="watch-meta">Publisher: International Cat Care (iCatCare). Using a pill giver to place a tablet in a cat's mouth.</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=6_W0KTjElNs">
+<span class="watch-title">Two people giving a cat a tablet/pill</span>
+<span class="watch-meta">Publisher: International Cat Care (iCatCare). Two people giving a tablet.</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=HCW3UiBpZRo">
+<span class="watch-title">Handling kittens</span>
+<span class="watch-meta">Publisher: International Cat Care (iCatCare). Handling kittens gently.</span>
+</a>
+</div>
+<!-- nonclaim-end -->

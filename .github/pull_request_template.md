@@ -14,6 +14,7 @@
 - [ ] `status` is not `vet-reviewed` unless `reviewed_by` is a person in `REVIEWERS.md` and they reviewed this version.
 - [ ] The same claims exist in zh-TW, en, zh-CN, and ja, with the same source ids and locators.
 - [ ] Text was not copied from Merck, WikiVet, or an NC/ND source.
+- [ ] Every image has alt text and an entry in `docs/CREDITS.md`. SVGs are original local files, not traced figures.
 
 ## 檢查清單（繁體中文）
 

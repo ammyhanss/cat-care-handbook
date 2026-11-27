@@ -4,8 +4,8 @@ description: Scratching, play, hiding, indoor enrichment, and why punishment doe
 en: Environment and behavior
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -28,6 +28,10 @@ sources:
 ## Five needs, in ordinary rooms
 
 The 2013 guidelines apply to every pet cat, whatever the lifestyle. The five pillars are a safe place; multiple, separated resources; play and predatory-type behavior; human contact that is positive, consistent, and predictable; and respect for smell.[^aafp-isfm-env-2013|Abstract][^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
+
+![Five numbered circles. 1 is an arch with an opening. 2 is a separated oval, drop shape, and rectangle. 3 is a stick and a circle. 4 is an arc and a circle with space between them. 5 is a dot and three curved lines.](/diagrams/five-pillars.svg)
+
+**Figure.** Circles 1 to 5 are the five pillars in the 2013 guidelines, in the order given in the summary: a safe place; multiple and separated resources; play and predatory behavior; human-cat contact that is positive, consistent, and predictable; and respect for the cat's scent. The drawing has no words. The numbers are the order. [^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
 
 A safe place is often raised, private, and easy to enter. A box, a covered perch, or a carrier with the cat's bedding all count. There should be at least as many of these places as there are cats, spaced apart, and a kitten or an older cat needs them low enough to reach.[^aafp-isfm-env-2013|Pillar 1]
 

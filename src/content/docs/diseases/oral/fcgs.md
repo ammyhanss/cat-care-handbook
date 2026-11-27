@@ -4,8 +4,8 @@ description: 貓慢性齦口炎的症狀、檢查、拔牙與後續治療、在�
 en: Feline chronic gingivostomatitis
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: soltero-2023
@@ -34,6 +34,10 @@ sources:
 ## 一句話說明
 
 貓慢性齦口炎是口腔黏膜嚴重、持續的發炎。常見位置在舌腭弓外側、靠近口腔後方，病灶可以是潰瘍、增生，或兩者都有。[^lee-2020|Introduction] 2023 年的臨床回顧描述同一種型態：牙齦發炎延伸到齒槽黏膜與頰黏膜，並帶來中度到重度疼痛。[^soltero-2023|Introduction]
+
+![張口的側面示意。下排牙齒裡有一顆，牙齦緣有一個缺口，虛線連到標著 A 的圓。口腔後方有斜線區域，標著 B。](/diagrams/oral-locations.svg)
+
+**圖。** B 是這張圖要看的位置：舌腭弓外側、靠近口腔後方的黏膜。病灶可以是潰瘍、增生，或兩者，也可以從牙齦延伸到齒槽黏膜和頰黏膜。A 是牙齒硬組織上的缺口，虛線朝向牙根。回顧寫到，患病貓比其他口腔病的貓更容易出現外炎性牙根吸收。那是牙齒的變化，所以和後方的黏膜分開畫。圖是示意，不是照片。[^lee-2020|Introduction][^soltero-2023|Introduction][^lee-2020|Feline Chronic Gingivostomatitis and Periodontitis]
 
 ## 常見症狀
 

@@ -4,8 +4,8 @@ description: 新来的猫怎样安顿下来、人怎样接触和陪它玩，以�
 en: The first days and weeks
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -95,6 +95,10 @@ sources:
 
 ## 最初几周要留意什么
 
+![直列五步。1 是有开口的拱形，里面有一个小圆。2 是低下的弧线和一只有耳朵的头，中间有短线。3 是一根线接到圆圈，旁边的弧线被打叉。4 是两只有耳朵的头，中间一道竖线。5 是椭圆、水滴、方盒和一支长方形。](/diagrams/first-weeks.svg)
+
+**图。** 1 到 5 是最初几周要守住的几件事，不是一张按天排的时间表。1：有地方可以躲。2：人降低身子，由猫靠近，猫离开就停。3：用玩具玩，不用手或脚。4：新猫和原本住在家里的猫隔开，逐渐见面，而不是一开始放在同一间。5：食盆、水、猫砂盆，旁边是联络诊所用的形状；吃、喝、排尿或使用躲藏处的方式变了，就打电话。图没有介绍狗的日程，来源没有给那张表。[^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4][^aaha-aafp-life-2021|Behavior and environmental needs][^aafp-isfm-env-2013|Understanding the cat's needs and behavior][^aaha-aafp-life-2021|Discussion items for all life stages]
+
 - 猫有地方可以躲，猫离开时接触就停止。[^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4]
 - 玩耍用玩具，不用手或脚。[^aaha-aafp-life-2021|Behavior and environmental needs]
 - 新来的猫与原住的猫逐步见面，资源分开，而不是直接放进共用的房间。[^aafp-isfm-env-2013|Understanding the cat's needs and behavior]
@@ -102,3 +106,23 @@ sources:
 - 猫进食、饮水、排尿或使用藏身之处的方式有了变化，就是打电话给诊所的理由。生命阶段指南把行为变化当作疾病或疼痛的可能迹象；猫已经有时间安顿下来之后，不要把它当成「只是到了新家」。他们还说，老年猫出现新的行为需要做医学检查。新到家、没有用猫砂盆的幼猫，也应当检查有没有医学原因，包括寄生虫。[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|General litter box considerations]
 
 <!-- nonclaim --> 疼痛的迹象和当天的急诊写在[辨认疼痛与生病](./pain-and-illness/)和[立刻就医](../urgent/)。
+
+## 延伸观看
+
+<!-- nonclaim-start -->
+<p class="watch-note">这一节是补充观看，不是本页陈述的引用，也不能取代上文的文献。影片没有下载到这个网站。标题和发布者是打开链接后核对过的。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=kkq_HKA7drA">
+<span class="watch-title">Giving a cat a tablet: using a pill popper</span>
+<span class="watch-meta">发布者：International Cat Care（iCatCare）。用喂药器把片剂放到猫嘴里。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=6_W0KTjElNs">
+<span class="watch-title">Two people giving a cat a tablet/pill</span>
+<span class="watch-meta">发布者：International Cat Care（iCatCare）。两个人一起给药片。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=HCW3UiBpZRo">
+<span class="watch-title">Handling kittens</span>
+<span class="watch-meta">发布者：International Cat Care（iCatCare）。温和地抱幼猫。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

@@ -4,8 +4,8 @@ description: Why cats hide pain, what the Feline Grimace Scale looks at, and whi
 en: Recognizing pain and illness
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: grimace-2019
     title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
@@ -46,6 +46,10 @@ The 2019 study built a scale for naturally occurring acute pain. Five action uni
 
 The scale was higher in painful cats than in controls. It tracked another validated acute-pain instrument closely (rho = 0.86). Agreement between raters was good, and the same rater agreed with themselves on a second scoring. After analgesic treatment, scores fell.[^grimace-2019|Abstract]
 
+![Schematic Feline Grimace Scale. Columns are 0, 1, and 2. Row A is ears, from forward, to slightly apart, to rotated outward. Row B is eyes, from open, to partly closed, to slits. Row C is the muzzle, from round, to a mild oval, to a flat ellipse. Row D is whiskers, from loose curves, to straighter, to straight and forward. Row E is the head against a dashed shoulder line, from above the line, to on the line, to below the line with the chin down.](/diagrams/grimace-scale.svg)
+
+**Figure.** Letters A to E are the five action units kept in the 2019 scale. Columns 0, 1, and 2 are absent, moderately present or uncertain, and obviously present. A, ears: facing forward, slightly pulled apart, rotated outward. B, eyes: opened, partially closed, squinted. C, muzzle: relaxed and round, mild tension, tense and elliptical. D, whiskers: loose and curved, slightly curved or straighter and closer together, straight and moving forward. The dashed line in E is the shoulder line: head above it, head aligned with it, or head below it or tilted down with the chin toward the chest. An action unit that cannot be seen is not scored. This is a schematic, not a photograph from the paper, and it is not a way to choose a drug. [^grimace-2019|Supplementary training manual]
+
 :::evidence-limited
 
 The cut-off chosen for rescue analgesia in that study was a score above 0.39 out of 1.0. It was selected because, against the comparison scale, that threshold had a sensitivity of 90.7% and a specificity of 86.6%. The images came from 35 client-owned cats with acute painful disease and 20 healthy control cats, scored by researchers and veterinary anaesthesiologists, not by owners at home. The paper tests acute pain. It does not show that the same number detects arthritis or another chronic problem, and it does not authorize an owner to give a pain drug. An owner who sees ears held to the side, eyes squeezed, a tense muzzle, whiskers that have changed, or a head held down should contact a veterinarian.[^grimace-2019|Abstract][^grimace-2019|Image scoring and validation of the FGS]
@@ -72,3 +76,15 @@ A cat who stops using the litter box may have urinary disease, constipation, dia
 - A new inability to jump, or nighttime crying, in an older cat. The guidelines say these are not explained away as ordinary aging.[^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> Open-mouth breathing, collapse, seizures, possible poisoning, and a full day of not eating are on [See a vet now](../urgent/). Disease pages linked from the home page cover chronic kidney disease, diabetes, hyperthyroidism, and urinary obstruction in more detail. This page does not give a pain dose.
+
+## Further viewing
+
+<!-- nonclaim-start -->
+<p class="watch-note">This section is supplementary viewing. It is not a citation for the statements on this page, and it does not replace the references above. The videos are not hosted here. The titles and publishers were checked by opening the links.</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=__x_8af7SGs">
+<span class="watch-title">A new tool helps measure pain in cats</span>
+<span class="watch-meta">Publisher: AJE Video Bytes. WSAVA's news item of 8 January 2020 links this short video as the explanation of the grimace scale. The scale was developed at the Université de Montréal. This is not an instruction to give a drug.</span>
+</a>
+</div>
+<!-- nonclaim-end -->

@@ -4,8 +4,8 @@ description: 猫が痛みを隠す理由、猫の Grimace Scale が見るもの�
 en: Recognizing pain and illness
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: grimace-2019
     title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
@@ -46,6 +46,10 @@ sources:
 
 この尺度は、対照より、痛みのある猫で高いものでした。別の検証済みの急性痛の尺度とよく一致しました（rho = 0.86）。評価者のあいだの一致は良好で、同じ評価者は二度目の採点でも自分と一致しました。鎮痛の治療のあと、スコアは下がりました。[^grimace-2019|Abstract]
 
+![猫の Grimace Scale の模式図。列は 0、1、2。A は耳で、前を向く、やや離れる、外へ回る。B は眼で、開く、一部閉じる、細く閉じる。C は口吻で、丸い、やや楕円、平たい楕円。D はひげで、緩く曲がる、よりまっすぐ、まっすぐ前へ。E は肩の破線に対する頭で、線の上、線の上に揃う、線より下で顎が下がる。](/diagrams/grimace-scale.svg)
+
+**図。** A から E は、2019 年の尺度が残した五つの動作単位です。列の 0、1、2 は、ない、中等度に見えるか不確か、明らかに見える、です。A は耳で、前を向く、やや離れる、外へ回る。B は眼で、開いている、一部閉じている、細めている。C は口吻で、丸く緩む、軽い緊張、楕円に緊張する。D はひげで、緩く曲がる、やや曲がるかまっすぐで互いに近い、まっすぐ前へ出る。E の破線は肩の線です。頭がその上、その線に揃う、その下、または顎を胸の方へ下げる。見えない部位は採点しません。これは模式図であり、論文の写真ではなく、薬を選ぶためのものでもありません。[^grimace-2019|Supplementary training manual]
+
 :::evidence-limited
 
 その研究で、痛みが強いときに追加の鎮痛を行う基準として選ばれた値は、1.0 のうち 0.39 を超えるスコアでした。比較の尺度に対して、その閾値の感度は 90.7%、特異度は 86.6% だったため、選ばれました。画像は、急性の痛みを伴う病気のある、飼い主のいる猫 35 頭と、健康な対照の猫 20 頭からで、採点したのは研究者と獣医麻酔科医であり、家にいる飼い主ではありません。論文が試しているのは急性の痛みです。同じ数字が関節炎やほかの慢性の問題を見つけるとは示しておらず、飼い主が鎮痛薬を与えることも認めていません。耳が横を向く、眼を細める、鼻口部が緊張する、ひげが変わる、頭を下げる、のいずれかを見た飼い主は、獣医師に連絡すべきです。[^grimace-2019|Abstract][^grimace-2019|Image scoring and validation of the FGS]
@@ -72,3 +76,15 @@ sources:
 - 高齢の猫で、新たに跳べなくなること、または夜間の鳴き声。ガイドラインは、これらを普通の老化として片付けない、と述べています。[^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> 口を開けた呼吸、倒れること、けいれん、中毒の可能性、ほぼ一日食べないことは、[直ちに受診](../urgent/)にあります。ホームページからリンクする病気のページは、慢性腎臓病、糖尿病、甲状腺機能亢進症、尿路の閉塞をより詳しく扱います。このページは、痛みの薬の用量を書きません。
+
+## 補足の視聴
+
+<!-- nonclaim-start -->
+<p class="watch-note">この節は補足の視聴です。このページの記述の引用ではなく、上の文献の代わりにもなりません。動画はこのサイトに置いていません。題名と公開者は、リンクを開いて確認しました。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=__x_8af7SGs">
+<span class="watch-title">A new tool helps measure pain in cats</span>
+<span class="watch-meta">公開者：AJE Video Bytes。WSAVA の 2020 年 1 月 8 日の記事が、この短い動画を Grimace Scale の説明としてリンクしています。尺度の研究はモントリオール大学です。投薬の指示ではありません。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

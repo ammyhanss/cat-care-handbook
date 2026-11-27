@@ -4,8 +4,8 @@ description: Signs of feline chronic gingivostomatitis, tests, extraction and la
 en: Feline chronic gingivostomatitis
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: soltero-2023
@@ -34,6 +34,10 @@ sources:
 ## In one sentence
 
 Feline chronic gingivostomatitis is severe, long-lasting inflammation of the oral mucosa. The usual site is beside the palatoglossal folds, toward the back of the mouth, and the lesions may be ulcerative, proliferative, or both.[^lee-2020|Introduction] The 2023 clinical review describes the same pattern: inflammation of the gingiva that extends onto the alveolar and buccal mucosa, with moderate to severe pain.[^soltero-2023|Introduction]
+
+![Side view of an open mouth. One lower tooth has a notch at the gumline, and a dotted line runs from it to a circle marked A. The area behind the teeth is hatched and marked B.](/diagrams/oral-locations.svg)
+
+**Figure.** B is the site this page is about: the mucosa lateral to the palatoglossal folds, toward the back of the mouth. Lesions may be ulcerative, proliferative, or both, and gingival inflammation may extend onto the alveolar and buccal mucosa. A is a notch in tooth hard tissue, with a dotted line toward the root. Reviews note that external inflammatory root resorption is more common in affected cats than in cats with other oral disease. That is a change in the tooth, so it is drawn apart from the caudal mucosa. The drawing is a schematic, not a photograph. [^lee-2020|Introduction][^soltero-2023|Introduction][^lee-2020|Feline Chronic Gingivostomatitis and Periodontitis]
 
 ## Common signs
 

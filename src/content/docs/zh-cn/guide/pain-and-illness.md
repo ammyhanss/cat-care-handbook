@@ -4,8 +4,8 @@ description: 为什么猫会把疼痛藏起来、猫疼痛表情量表在看什�
 en: Recognizing pain and illness
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: grimace-2019
     title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
@@ -46,6 +46,10 @@ sources:
 
 这个量表在疼痛的猫高于对照猫。它与另一份已经验证的急性疼痛工具跟得很紧（rho = 0.86）。评分者之间的一致性好，同一位评分者在第二次评分时也与自己一致。镇痛处理之后，分数下降。[^grimace-2019|Abstract]
 
+![猫疼痛表情量表的示意。直行是 0、1、2。A 耳朵从向前、稍微分开，到向外转。B 眼睛从张开、部分闭上，到眯成一线。C 口吻从圆、略椭，到扁椭圆。D 胡须从弯而松、较直，到伸直朝前。E 头相对肩部的虚线，从在线之上、在线上，到低于线且下巴朝下。](/diagrams/grimace-scale.svg)
+
+**图。** 字母 A 到 E 是 2019 年量表保留的五个动作单元，直行 0、1、2 是该单元没有、中等程度出现或不确定、明显出现。A 耳朵：向前、稍微分开、向外转。B 眼睛：张开、部分闭上、眯起。C 口吻：圆而放松、轻度张力、绷成椭圆。D 胡须：松而弯、稍直或较靠近、伸直并朝前。E 的虚线是肩线：头在肩线之上、与肩线齐、低于肩线或下巴朝向胸口。看不见的部位不计分。这是示意，不是论文里的照片，也不能用来决定药物。[^grimace-2019|Supplementary training manual]
+
 :::evidence-limited
 
 那项研究里为补救镇痛选定的界线，是分数高于 0.39（满分 1.0）。它被选中，是因为对照那份比较量表，这个阈值的灵敏度是 90.7%，特异度是 86.6%。图像来自 35 只有急性疼痛疾病的家猫和 20 只健康对照猫，由研究人员和兽医麻醉科医师评分，不是由养猫人在家里评。这篇论文检验的是急性疼痛。它没有表明同一个数字能发现关节炎或其他慢性问题，也没有授权养猫人给予止痛药。养猫人如果看见耳朵贴向两侧、眼睛挤紧、口吻紧张、胡须有了变化，或头低着，应当联系兽医。[^grimace-2019|Abstract][^grimace-2019|Image scoring and validation of the FGS]
@@ -72,3 +76,15 @@ sources:
 - 老年猫新出现不能跳跃，或夜间叫。指南说，这些不能被当成普通的衰老解释掉。[^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> 张口呼吸、倒下、抽搐、可能中毒，以及一整天没有进食，写在[立刻就医](../urgent/)。从首页链出去的疾病页更详细地写了慢性肾病、糖尿病、甲状腺功能亢进和尿道阻塞。本页不写止痛的剂量。
+
+## 延伸观看
+
+<!-- nonclaim-start -->
+<p class="watch-note">这一节是补充观看，不是本页陈述的引用，也不能取代上文的文献。影片没有下载到这个网站。标题和发布者是打开链接后核对过的。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=__x_8af7SGs">
+<span class="watch-title">A new tool helps measure pain in cats</span>
+<span class="watch-meta">发布者：AJE Video Bytes。WSAVA 在 2020 年 1 月 8 日的消息把这支短片链接为表情量表的说明影片。量表的研究在蒙特娄大学。这不是给药指示。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

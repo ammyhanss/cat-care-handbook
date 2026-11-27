@@ -4,8 +4,8 @@ description: 猫砂盆要几个、要多大、放在哪里、怎样清理。不�
 en: Litter boxes
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-litter-2014
     title: AAFP and ISFM Guidelines for Diagnosing and Solving House-Soiling Behavior in Cats
@@ -79,6 +79,10 @@ sources:
 不到猫砂盆就排泄，可以有医学原因，也可以有盆和社交上的原因。没有用上盆的幼猫，应当检查有没有先天性的泌尿或肠道问题、肠道寄生虫，或其他感染。没有用上盆的成猫，可能有医学原因，也可能有行为原因。要及时寻求诊疗，既因为尿道阻塞可以威胁生命，也因为这个习惯如果继续下去会更难改变。喝得更多，或排出大量的尿，可以来自糖尿病、慢性肾病或甲状腺功能亢进。疼痛或关节发僵，可以让高边的盆，或要上一层楼梯才到的盆，变得不能用。[^aaha-aafp-life-2021|General litter box considerations][^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> 阻塞和其他当天的问题写在[立刻就医](../urgent/)。疼痛的迹象写在[辨认疼痛与生病](./pain-and-illness/)。
+
+![猫砂盆配置对照。左栏打勾：两个盆分开放，食物和水离盆较远；下方一只猫比旁边的矮盆短，盆的尺寸线标着 1.5 倍。右栏打叉：盆比猫小、侧边很高、食物或水靠着盆、两个盆紧贴。](/diagrams/litter-setup.svg)
+
+**图。** 左栏打勾、右栏打叉，是同一套建议的对照。勾的那边：一只猫两个盆，放在两个分开的位置；食物和水不靠着盆；盆比猫长，尺寸线是 1.5 倍，前方的开口画得较低。叉的那边：盆比猫小；侧边高；食物或水靠着盆；两个盆紧贴。2014 年指南把并排的盆看成一个大盆。1.5 倍这一条，2014 年量到尾巴根部，2021 年量到尾巴尖端。这张图的尺寸线只表示盆要比猫长，没有替两份指南选定从哪里量到哪里。多猫时的数量，以及亲近的猫可以共用，写在正文，没有画成一个固定只数。[^aafp-isfm-litter-2014|Designing the optimal litter box][^aaha-aafp-life-2021|General litter box considerations][^aafp-isfm-env-2013|Pillar 2]
 
 ## 一套能用的安排
 

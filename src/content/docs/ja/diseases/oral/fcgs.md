@@ -4,8 +4,8 @@ description: 猫の慢性歯肉口内炎の症状、検査、抜歯とその後�
 en: Feline chronic gingivostomatitis
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: soltero-2023
@@ -34,6 +34,10 @@ sources:
 ## 一文で
 
 猫の慢性歯肉口内炎は、口腔粘膜の重度で長引く炎症です。典型的な部位は口蓋舌弓の外側、口の奥で、病変は潰瘍性、増殖性、またはその両方です。[^lee-2020|Introduction] 2023年の臨床総説は同じ形を述べています。歯肉の炎症が歯槽粘膜と頬粘膜に広がり、中等度から重度の痛みを伴います。[^soltero-2023|Introduction]
+
+![開いた口の側面。下の歯の一つは歯肉の縁に切れ込みがあり、点線が A の円へ続く。歯の後方は斜線で、B とある。](/diagrams/oral-locations.svg)
+
+**図。** B が、このページで見る位置です。口蓋舌弓の外側、口腔の後方に近い粘膜です。病変は潰瘍、増殖、またはその両方で、歯肉の炎症が歯槽粘膜と頬粘膜へ広がることもあります。A は歯の硬組織の切れ込みで、点線は歯根の方へ向かいます。総説は、罹患猫では他の口腔疾患の猫より、外炎性の歯根吸収が起きやすい、と述べています。それは歯の変化なので、後方の粘膜とは分けて描いています。図は模式であり、写真ではありません。[^lee-2020|Introduction][^soltero-2023|Introduction][^lee-2020|Feline Chronic Gingivostomatitis and Periodontitis]
 
 ## よくある症状
 

@@ -4,8 +4,8 @@ description: 猫の下部尿路症状、特発性膀胱炎、結石、尿道閉�
 en: Feline lower urinary tract disease and urethral obstruction
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: emergency
 sources:
   - id: icatcare-lutd-2025
@@ -43,6 +43,10 @@ sources:
 - 雄猫が排尿しようといきんでも尿がほとんど出ない、または全く出ない。尿道閉塞は、どの下部尿路疾患でも起こり得る、致命的になり得る結果です。下部尿路症状のある猫は早くトリアージし、閉塞かどうか、ショックと高カリウム血症があるかを確認します。[^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Triage]
 - 雌猫が突然まったく尿を出せないときも、同様に待てません。閉塞はほぼ雄猫に起こりますが、「ほぼ」は「決してない」ではありません。[^icatcare-lutd-2025|Introduction]
 - 結石があると分かっていて、腰痛、嘔吐、または急に強い不快がある。尿管閉塞は部分であれ完全であれ、救急として扱います。[^acvim-urolith-2016|Recommendation 2.6 Ureteral Obstructions Require Immediate Care]
+
+![三つの枠。左上は雄の記号、警告の三角、尿の滴がない箱の上にしゃがむ猫。右上は雌の記号、同じ警告の三角、滴がない箱。下は、尿の滴が横にあり、警告の三角がない箱。](/diagrams/flutd-urgency.svg)
+
+**図。** 警告の三角は救急です。左は、雄猫がトイレでいきみ、箱に尿がありません。飼い主はこれを便秘と見ることが多いです。右は、雌猫が突然まったく尿を出せない場合で、同様に待てません。閉塞はほとんど雄猫に起きますが、ほとんどは決して、ではありません。下の枠に三角はありません。尿は出ているときの血尿や頻尿も、早く受診します。ただし閉塞のような、今すぐ行く速さである必要はありません。[^icatcare-lutd-2025|Introduction][^icatcare-lutd-2025|Diagnosis][^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Management]
 
 血尿や頻尿でも尿は出ているときは、なお早く受診します。ただし閉塞のような「今すぐ行く」速さである必要はありません。特発性膀胱炎の発作の多くは、治療の有無にかかわらず 2 から 7 日で軽快しますが、再発はよくあります。[^icatcare-lutd-2025|Management]
 

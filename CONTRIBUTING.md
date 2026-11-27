@@ -56,7 +56,7 @@ Pages under `src/content/docs/guide/` follow the same citation rules as a diseas
 
 Bug fixes, translation corrections, and new sources are welcome. Open an issue for a new disease, a content error, or a source update before a large page, so the scope stays clear.
 
-`npm test` runs the checker fixtures. `npm run check:content` checks frontmatter, citation markers, tiers, and that every default-locale page exists in the other three languages. `npm run build` must pass.
+`npm test` runs the checker fixtures. `npm run check:content` checks frontmatter, citation markers, tiers, and that every default-locale page exists in the other three languages. It also requires every image to have alt text and an entry in `docs/CREDITS.md`. An SVG must be a file in this repository, not a remote URL. In Markdown, use a root-relative path such as `/diagrams/name.svg`. The build prefixes that path with the site base `/cat-care-handbook`. `npm run build` must pass.
 
 ## 貢獻說明（繁體中文）
 
@@ -64,4 +64,4 @@ Bug fixes, translation corrections, and new sources are welcome. Open an issue f
 
 `last_verified` 是對過原文的日期。已查文獻不是獸醫已審。獸醫已審必須是 `REVIEWERS.md` 名單上的人，而且事後改過正文就要退回已查文獻。
 
-證據不足時用 `:::evidence-limited`。來源沒說的句子要刪掉，不要改成含糊的話。不要寫劑量、給藥間隔或療程長度。不要複製或改寫默沙東獸醫手冊、WikiVet、PetQA，或其他 NC、ND 內容。四種語言的相同路徑都要有頁面。
+證據不足時用 `:::evidence-limited`。來源沒說的句子要刪掉，不要改成含糊的話。不要寫劑量、給藥間隔或療程長度。不要複製或改寫默沙東獸醫手冊、WikiVet、PetQA，或其他 NC、ND 內容。四種語言的相同路徑都要有頁面。頁面上的每張圖都要有替代文字，並在 `docs/CREDITS.md` 有一筆。SVG 必須是本儲存庫裡的檔案。

@@ -4,8 +4,8 @@ description: 幼猫、青年成猫、成熟成猫和老年猫这几个阶段，�
 en: Life stages and check-ups
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aaha-aafp-life-2021
     title: 2021 AAHA/AAFP Feline Life Stage Guidelines
@@ -34,6 +34,10 @@ sources:
 ## 多久去一次
 
 每一只猫至少每年检查一次，如果这只猫需要，就更频繁。老年猫至少每 6 个月看一次，如果有慢性病，就更频繁。指南把那个阶段的细节指向 AAFP 的老年猫照护指南。青年成猫的看诊次数少于幼猫，因为幼猫的疫苗系列带来额外的看诊，但检查并不停止。常规看诊是在行为上和医学上的变化变得严重、疼痛或花费更高之前发现它们的方式。[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
+
+![年龄轴，刻度是 0、1、6、7、10，箭头继续向前。0 到 1 下方一个圆点和加号。1 到 6 一个圆点。7 到 10 一个圆点。10 之后两个圆点。](/diagrams/life-stages.svg)
+
+**图。** 刻度是 2021 年指南的四个阶段：出生到 1 岁、1 岁到 6 岁、7 岁到 10 岁、大于 10 岁。6 和 7 挨在一起，因为两段在那里相接。一个圆点表示至少每年检查一次，用在 0 到 1、1 到 6，以及 7 到 10。0 到 1 的加号表示幼猫疫苗系列带来的额外看诊，不是一个固定次数。10 之后的两个圆点表示至少每 6 个月一次。如果这只猫需要，或有慢性病，就更频繁。这些切点是连续生命上的记号。[^aaha-aafp-life-2021|Table 1][^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
 
 <!-- nonclaim --> 幼猫的系列接种，包括大约 6 月龄的那一剂，写在[疫苗、寄生虫与第一次看诊](./vaccines-and-parasites/)。
 
@@ -73,3 +77,19 @@ WSAVA 要求每一次看诊都做营养评估，并给出喂养建议。9 分制
 - 跳跃、睡觉的地方、夜间的叫声，或愿意被触摸的程度，有什么变化。[^aaha-aafp-life-2021|Senior cats][^aaha-aafp-life-2021|Feline communication signs]
 - 如果已经开始这个习惯，带上猫已经在里面睡觉的那只航空箱。[^aaha-aafp-life-2021|Training kittens in preparation to be adult cats]
 - 关于下一次间隔的问题：每年一次，或者如果猫超过 10 岁或有慢性病，每 6 个月一次。[^aaha-aafp-life-2021|Discussion items for all life stages]
+
+## 延伸观看
+
+<!-- nonclaim-start -->
+<p class="watch-note">这一节是补充观看，不是本页陈述的引用，也不能取代上文的文献。影片没有下载到这个网站。标题和发布者是打开链接后核对过的。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=6Ube2tn-qpc">
+<span class="watch-title">Encouraging your cat to be happy in a cat carrier</span>
+<span class="watch-meta">发布者：International Cat Care（iCatCare）。让航空箱成为猫愿意待的地方。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=Yhz3V4i3wH4">
+<span class="watch-title">Putting your cat in a cat carrier</span>
+<span class="watch-meta">发布者：International Cat Care（iCatCare）。猫还没有自己走进箱时，怎么把猫放进去。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

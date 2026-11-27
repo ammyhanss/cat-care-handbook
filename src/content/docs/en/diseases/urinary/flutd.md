@@ -4,8 +4,8 @@ description: Lower urinary tract signs in cats, idiopathic cystitis, stones, and
 en: Feline lower urinary tract disease and urethral obstruction
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: emergency
 sources:
   - id: icatcare-lutd-2025
@@ -43,6 +43,10 @@ With obstruction, the most common finding is straining in the litter box without
 - A male cat straining to urinate and passing almost no urine, or no urine at all. Urethral obstruction is a potentially fatal consequence that any lower urinary tract disease can cause. A cat with lower urinary tract signs is triaged quickly, to confirm whether there is obstruction and whether there is shock and hyperkalemia.[^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Triage]
 - A female cat who suddenly cannot pass any urine also cannot wait. Obstruction occurs almost entirely in male cats, but "almost" is not "never."[^icatcare-lutd-2025|Introduction]
 - Known stones together with pain in the loin, vomiting, or sudden marked discomfort. Ureteral obstruction, whether partial or complete, is handled as an emergency.[^acvim-urolith-2016|Recommendation 2.6 Ureteral Obstructions Require Immediate Care]
+
+![Three panels. Upper left: a male symbol, a warning triangle, and a cat crouched over a box with no urine drops. Upper right: a female symbol, the same warning triangle, and an empty box. Below: a box with urine drops beside it and no warning triangle.](/diagrams/flutd-urgency.svg)
+
+**Figure.** The warning triangle is the emergency. On the left, a male cat strains in the litter box and the box has no urine. Owners often read that as constipation. On the right, a female cat who suddenly passes no urine at all also cannot wait. Obstruction occurs almost entirely in male cats, but almost is not never. The lower panel has no triangle. Blood in the urine, or frequent urination, while urine is still being passed, still needs a visit soon, but not at the leave-now speed used for obstruction. [^icatcare-lutd-2025|Introduction][^icatcare-lutd-2025|Diagnosis][^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Management]
 
 Blood in the urine, or frequent urination, while urine is still being passed, still needs a visit soon, but not at the "leave now" speed used for obstruction. Most episodes of idiopathic cystitis ease within 2 to 7 days, whether treated or not, but recurrence is common.[^icatcare-lutd-2025|Management]
 

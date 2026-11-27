@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 560" width="420" height="560" role="img">
+<title>Five-step first-weeks checklist</title>
+<rect width="100%" height="100%" fill="#fffaf3"/>
+<defs>
+  <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse">
+    <path d="M0 7 L7 0" stroke="#44403c" stroke-width="1.1"/>
+  </pattern>
+  <pattern id="hatch-dense" width="5" height="5" patternUnits="userSpaceOnUse">
+    <path d="M0 5 L5 0" stroke="#1c1917" stroke-width="1.15"/>
+  </pattern>
+</defs>
+<circle cx="48" cy="60" r="18" fill="none" stroke="#1c1917" stroke-width="2.2"/><text x="48" y="67" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1c1917">1</text><path d="M 120 82 v -18 q 0 -34 40 -34 q 40 0 40 34 v 18" fill="none" stroke="#1c1917" stroke-width="2.3"/><circle cx="160" cy="64" r="8" fill="none" stroke="#1c1917" stroke-width="2"/>
+<circle cx="48" cy="168" r="18" fill="none" stroke="#1c1917" stroke-width="2.2"/><text x="48" y="175" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1c1917">2</text><path d="M 120 190 q 18 -36 34 -6" fill="none" stroke="#1c1917" stroke-width="2.3" stroke-linecap="round"/><circle cx="210" cy="166" r="13" fill="none" stroke="#1c1917" stroke-width="2.2"/><polygon points="202,158 206,144 214,158" fill="none" stroke="#1c1917" stroke-width="1.8" stroke-linejoin="round"/><path d="M 168 180 l 22 -6" stroke="#1c1917" stroke-width="2" stroke-linecap="round"/>
+<circle cx="48" cy="276" r="18" fill="none" stroke="#1c1917" stroke-width="2.2"/><text x="48" y="283" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1c1917">3</text><path d="M 120 298 L 210 256" stroke="#1c1917" stroke-width="2.4" stroke-linecap="round"/><circle cx="222" cy="252" r="7" fill="none" stroke="#1c1917" stroke-width="2.2"/><path d="M 250 260 q 18 -24 28 0" fill="none" stroke="#1c1917" stroke-width="2.2"/><path d="M 246 258 l 40 28 M 286 258 l -40 28" stroke="#7f1d1d" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="48" cy="384" r="18" fill="none" stroke="#1c1917" stroke-width="2.2"/><text x="48" y="391" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1c1917">4</text><circle cx="150" cy="384" r="14" fill="none" stroke="#1c1917" stroke-width="2.2"/><polygon points="140,374 146,360 154,374" fill="none" stroke="#1c1917" stroke-width="1.7"/><path d="M 220 362 v 46" stroke="#1c1917" stroke-width="2.8"/><circle cx="280" cy="384" r="14" fill="none" stroke="#1c1917" stroke-width="2.2"/><polygon points="270,374 276,360 284,374" fill="none" stroke="#1c1917" stroke-width="1.7"/>
+<circle cx="48" cy="492" r="18" fill="none" stroke="#1c1917" stroke-width="2.2"/><text x="48" y="499" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1c1917">5</text><ellipse cx="145" cy="498" rx="16" ry="6" fill="none" stroke="#1c1917" stroke-width="2"/><path d="M 188 474 c 8 10 8 18 0 22 c -8 -4 -8 -12 0 -22 z" fill="#fffaf3" stroke="#1c1917" stroke-width="2"/><rect x="230" y="486" width="30" height="18" fill="none" stroke="#1c1917" stroke-width="2"/><rect x="286" y="478" width="22" height="36" rx="4" fill="none" stroke="#1c1917" stroke-width="2"/><path d="M 292 486 h 10" stroke="#1c1917" stroke-width="2" stroke-linecap="round"/>
+</svg>

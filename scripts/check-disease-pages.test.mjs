@@ -1,6 +1,11 @@
 import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
 import test from 'node:test';
 import { checkDiseasePage, checkGuidePage, claimUnits } from '../src/citations.mjs';
+import { checkDocumentImages } from '../src/media-check.mjs';
+import { withSiteBase } from '../src/site-base.mjs';
 
 const tier2 = {
   id: 'lee-2020',
@@ -163,6 +168,52 @@ test('a guide page still requires a citation and last_verified', () => {
     cited,
   );
   assert.ok(missingDate.some((error) => error.includes('last_verified')));
+});
+
+test('root-relative diagram URLs gain the site base once', () => {
+  assert.equal(withSiteBase('/diagrams/bcs.svg'), '/cat-care-handbook/diagrams/bcs.svg');
+  assert.equal(
+    withSiteBase('/cat-care-handbook/diagrams/bcs.svg'),
+    '/cat-care-handbook/diagrams/bcs.svg',
+  );
+  assert.equal(withSiteBase('https://example.com/a.svg'), 'https://example.com/a.svg');
+});
+
+test('an image without alt text fails', () => {
+  const errors = checkDocumentImages('guide/litter.md', '![](/diagrams/litter-setup.svg)\n', {
+    credits: 'public/diagrams/litter-setup.svg',
+    publicRoot: fs.mkdtempSync(path.join(os.tmpdir(), 'handbook-img-')),
+  });
+  assert.ok(errors.some((error) => error.includes('no alt text')));
+});
+
+test('a remote SVG fails and a local SVG needs a credits entry and a file', () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'handbook-img-'));
+  fs.mkdirSync(path.join(dir, 'diagrams'));
+  fs.writeFileSync(path.join(dir, 'diagrams', 'bcs.svg'), '<svg xmlns="http://www.w3.org/2000/svg"/>');
+  const remote = checkDocumentImages('guide/food-and-body.md', '![score](https://example.com/bcs.svg)\n', {
+    credits: 'https://example.com/bcs.svg',
+    publicRoot: dir,
+  });
+  assert.ok(remote.some((error) => error.includes('SVG images must be local files')));
+  const missingCredit = checkDocumentImages('guide/food-and-body.md', '![score](/diagrams/bcs.svg)\n', {
+    credits: '',
+    publicRoot: dir,
+  });
+  assert.ok(missingCredit.some((error) => error.includes('no credits entry for public/diagrams/bcs.svg')));
+  const ok = checkDocumentImages('guide/food-and-body.md', '![Nine-point body condition scores](/diagrams/bcs.svg)\n', {
+    credits: 'public/diagrams/bcs.svg',
+    publicRoot: dir,
+  });
+  assert.deepEqual(ok, []);
+});
+
+test('a relative image path is rejected so the site base can be applied', () => {
+  const errors = checkDocumentImages('en/guide/litter.md', '![boxes](diagrams/litter-setup.svg)\n', {
+    credits: 'public/diagrams/litter-setup.svg',
+    publicRoot: fs.mkdtempSync(path.join(os.tmpdir(), 'handbook-img-')),
+  });
+  assert.ok(errors.some((error) => error.includes('root-relative')));
 });
 
 test('list items are separate claims', () => {

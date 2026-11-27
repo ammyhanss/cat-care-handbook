@@ -4,8 +4,8 @@ description: 貓下泌尿道症狀、特發性膀胱炎、結石和尿道阻塞�
 en: Feline lower urinary tract disease and urethral obstruction
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: emergency
 sources:
   - id: icatcare-lutd-2025
@@ -43,6 +43,10 @@ sources:
 - 公貓用力排尿卻幾乎沒有尿，或完全沒有尿。尿道阻塞是任何一種下泌尿道疾病都可能造成的、可能致命的後果。有下泌尿道症狀的貓要很快分檢，確認是不是阻塞，以及有沒有休克和高血鉀。[^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Triage]
 - 母貓突然完全尿不出來，同樣不能等。阻塞幾乎都發生在公貓，但「幾乎」不是「從不」。[^icatcare-lutd-2025|Introduction]
 - 已經知道有結石，同時出現腰痛、嘔吐或突然很不舒服。輸尿管阻塞不論是部分還是完全，都要當成急症處理。[^acvim-urolith-2016|Recommendation 2.6 Ureteral Obstructions Require Immediate Care]
+
+![三格。左上是雄性符號、警告三角形，以及一隻貓蹲在沒有尿滴的盆上。右上是雌性符號、同樣的警告三角形，以及一個沒有尿滴的盆。下方是一個盆，旁邊有尿滴，沒有警告三角形。](/diagrams/flutd-urgency.svg)
+
+**圖。** 警告三角形是急診。左邊是公貓在砂盆裡用力，盆裡沒有尿。飼主常把這個看成便秘。右邊是母貓突然完全尿不出來，同樣不能等；阻塞幾乎都發生在公貓，但不是從不。下方沒有三角形：尿還出得來時的血尿或頻尿，仍然要盡快看診，只是不必用阻塞那種現在就走的速度。[^icatcare-lutd-2025|Introduction][^icatcare-lutd-2025|Diagnosis][^icatcare-lutd-2025|Urethral obstruction][^icatcare-lutd-2025|Management]
 
 血尿或頻尿、但尿還出得來，仍要盡快看診，只是不必用阻塞那種「現在就走」的速度。多數特發性膀胱炎的發作會在 2 到 7 天內緩解，有沒有治療都一樣，但復發很常見。[^icatcare-lutd-2025|Management]
 

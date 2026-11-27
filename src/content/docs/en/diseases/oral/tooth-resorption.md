@@ -4,8 +4,8 @@ description: The types and stages of tooth resorption in cats, why not seeing it
 en: Tooth resorption
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: wsava-dental-2020
@@ -39,6 +39,10 @@ Tooth resorption is loss of hard tissue, including dentin, because of odontoclas
 When the lesion has not yet reached the mouth, neither the appearance nor palpation finds anything. An earlier clinical stage can be only inflammation at the gingival margin, or a very small defect of enamel and dentin covered by tissue rich in blood vessels. As it goes further, the crown can disappear in part or completely.[^wsava-dental-2020|Clinical findings] What an owner may see is less grooming, picking food up and putting it down, pawing at the mouth, hiding, lethargy, thick discharge stuck to the lips, shaking the head, rubbing the mouth on the ground, or grinding the teeth. Without these findings, it cannot be inferred that there is no lesion, and it cannot be inferred that there is no pain. Most cats with this disease show no outward discomfort.[^wsava-dental-2020|Clinical findings] Dentin exposed on the tooth surface is painful, and it can also cause local infection.[^wsava-dental-2020|Clinical findings]
 
 What the eye can see is, for the most part, already late disease in which the crown has been reached. A very small finding by eye or with a probe often means the disease has already gone deep, because resorption starts on the root surface and the enamel collapses only after it loses its support.[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] In one study that used clinical examination plus radiographs and enrolled 228 clinically healthy cats, the tooth affected most often was the mandibular third premolar, and most cats were symmetric on the two sides.[^wsava-dental-2020|Tooth Resorption]
+
+![Side view of an open mouth. One lower tooth has a notch at the gumline, and a dotted line runs from it to a circle marked A. The area behind the teeth is hatched and marked B.](/diagrams/oral-locations.svg)
+
+**Figure.** A marks the gumline of one lower cheek tooth. The notch is joined by a dotted line toward the root. Pathologic tooth resorption starts on the root surface, and by the time it is visible from the outside the crown is often already involved. In one study cited by WSAVA, the tooth affected most often was the mandibular third premolar. This drawing does not count out a full dentition, so A is one lower cheek tooth, not a tooth number. B marks the mucosa behind the teeth, not the tooth. One condition for crown amputation is the absence of caudal stomatitis. Tooth resorption is loss of hard tissue. Inflammation of the caudal mucosa is a different process. The drawing does not stage the tooth, and it does not say which procedure to do. [^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings][^wsava-dental-2020|Crown amputation]
 
 :::evidence-limited
 

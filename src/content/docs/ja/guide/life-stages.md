@@ -4,8 +4,8 @@ description: 子猫、若齢の成猫、成熟した成猫、シニアの段階�
 en: Life stages and check-ups
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aaha-aafp-life-2021
     title: 2021 AAHA/AAFP Feline Life Stage Guidelines
@@ -34,6 +34,10 @@ sources:
 ## どのくらいの間隔で行くか
 
 すべての猫を、少なくとも年 1 回診察し、その猫に必要ならより頻繁に診ます。シニアの猫は少なくとも 6 か月ごとに診るべきで、慢性の病気があればより頻繁に診ます。ガイドラインは、その段階の詳細について、AAFP のシニアケアのガイドラインを指しています。若齢の成猫は子猫より受診の間隔が開きます。子猫のワクチンシリーズが受診を増やすからです。ただし診察は止まりません。定期受診は、行動と医学的な変化を、重くなる、痛む、または費用がよりかかる前に見つける方法です。[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
+
+![年齢の軸。目盛りは 0、1、6、7、10 で、矢印は先へ続く。0 から 1 の下に点一つとプラス。1 から 6 の下に点一つ。7 から 10 の下に点一つ。10 の先に点二つ。](/diagrams/life-stages.svg)
+
+**図。** 目盛りは 2021 年のガイドラインの四つの段階です。出生から 1 歳、1 歳から 6 歳、7 歳から 10 歳、10 歳より上。6 と 7 が隣り合うのは、そこで二つの段階が接するからです。点一つは、少なくとも年 1 回の診察で、0 から 1、1 から 6、7 から 10 の下にあります。0 から 1 のプラスは、子猫のワクチンシリーズが増やす受診で、決まった回数ではありません。10 の先の点二つは、少なくとも 6 か月に 1 回です。その猫に必要なら、または慢性の病気があれば、より頻繁です。区切りは、連続した生涯の上の印です。[^aaha-aafp-life-2021|Table 1][^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
 
 <!-- nonclaim --> およそ 6 か月齢の接種を含む子猫のワクチンシリーズは、[ワクチン、寄生虫、最初の受診](./vaccines-and-parasites/)にあります。
 
@@ -73,3 +77,19 @@ WSAVA は、毎回の受診で栄養評価と、給餌の提案を求めてい�
 - 跳ぶこと、寝る場所、夜間の声、触られることへの意欲の変化。[^aaha-aafp-life-2021|Senior cats][^aaha-aafp-life-2021|Feline communication signs]
 - その習慣を始めていれば、猫がすでに中で寝ているキャリー。[^aaha-aafp-life-2021|Training kittens in preparation to be adult cats]
 - 次の間隔についての質問。年 1 回か、10 歳を超えるか慢性の病気があれば 6 か月ごとか。[^aaha-aafp-life-2021|Discussion items for all life stages]
+
+## 補足の視聴
+
+<!-- nonclaim-start -->
+<p class="watch-note">この節は補足の視聴です。このページの記述の引用ではなく、上の文献の代わりにもなりません。動画はこのサイトに置いていません。題名と公開者は、リンクを開いて確認しました。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=6Ube2tn-qpc">
+<span class="watch-title">Encouraging your cat to be happy in a cat carrier</span>
+<span class="watch-meta">公開者：International Cat Care（iCatCare）。キャリーを、猫がそこにいたがる場所にする。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=Yhz3V4i3wH4">
+<span class="watch-title">Putting your cat in a cat carrier</span>
+<span class="watch-meta">公開者：International Cat Care（iCatCare）。自分では入らない猫をキャリーに入れる。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

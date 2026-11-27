@@ -4,8 +4,8 @@ description: What complete cat food means, how body and muscle condition are sco
 en: Food, water, and body condition
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aaha-aafp-life-2021
     title: 2021 AAHA/AAFP Feline Life Stage Guidelines
@@ -71,6 +71,10 @@ The visit should include a question about how much the cat drinks. In mature adu
 ## Body condition and muscle
 
 On the 9-point scale, the 2011 WSAVA guidelines set the goal for most pets at 4 or 5. They note that some owners will see that as too thin, so the explanation matters. Disease risk in adult animals appears to rise above a score of 6. The 2021 life stage guidelines call 6 or 7 out of 9 overweight, and 8 or above obese. Feeling the body is required, especially under a long coat. Ribs, waist, and abdominal fat are part of the score. Looking only is not enough.[^wsava-nutrition-2011|Condition scoring][^aaha-aafp-life-2021|Young adult cats]
+
+![Schematic body condition scores 1, 3, 5, 7, and 9. The upper row is the side view and the lower row is from above. Score 1 is narrow, with rib marks and a sharp tuck. Score 3 has a waist. Score 5, in a double frame, still has a waist and only a slight abdomen. Scores 7 and 9 are rounder and hatched, and score 9 has no waist.](/diagrams/bcs.svg)
+
+**Figure.** This drawing follows the 2025 WSAVA cat body condition chart. It is not a copy of that chart. It shows scores 1, 3, 5, 7, and 9, the scores that chart illustrates. The upper row is the side view. The lower row is the view from above. Short lines appear only on score 1: on a short-haired cat the ribs are very easily seen, the abdominal tuck is severe, the lumbar vertebrae and pelvic bones are easily seen and felt, and fat pads are absent. Score 3 has an obvious waist, obvious lumbar vertebrae, and minimal abdominal fat; the ribs are felt, so they are not drawn as visible lines. The double frame is score 5: well proportioned, ribs felt through a slight fat cover, a waist seen behind the ribs but not pronounced, and minimal abdominal fat. Score 7: the waist is not easily seen, the abdomen may round slightly, there is a moderate abdominal fat pad, and the ribs are not easily felt through the fat. Score 9: no waist, a distended abdomen, heavy fat over the lumbar area, face, and limbs, and ribs that are not felt under that fat. Hatching marks 7 and 9 only. It is not a second scale. The 2011 guidelines set the goal for most pets at 4 or 5. The 2021 life stage guidelines call 6 or 7 overweight and 8 or above obese. The score is made by feeling the body. This drawing does not replace that. [^wsava-bcs-2025|Body Condition Score][^wsava-nutrition-2011|Condition scoring][^aaha-aafp-life-2021|Young adult cats]
 
 :::evidence-limited
 

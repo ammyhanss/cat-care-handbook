@@ -4,8 +4,8 @@ description: 猫慢性肾病的分期、养猫人能看到的变化、何时当�
 en: Chronic kidney disease
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: isfm-ckd-2016
@@ -54,6 +54,10 @@ sources:
 门诊上常用的组合是氮质血症（肌酐比尿素更适合拿来反映肾小球滤过率）加上不相称的低尿比重。2016 年共识常把肌酐高于 140 µmol/L（1.6 mg/dL），同时尿比重低于 1.035，而且这些变化持续数周到数月，或病史已经显示是持续的，当成临床上的诊断条件。不是每一只病猫都符合：有些猫在还没有氮质血症时就有结构变化或持续的肾性蛋白尿；少数有氮质血症的猫尿比重仍可以达到 1.035 或更高。[^isfm-ckd-2016|Routine diagnosis of CKD in cats]
 
 肌酐受肌肉量和水分影响，不同实验室的参考范围也不一样。肾功能早期下降时，肌酐可能只变动一点点。[^isfm-ckd-2016|Routine diagnosis of CKD in cats] SDMA 不受肌肉量影响，对早期下降更敏感，但不能当成唯一的筛查。[^isfm-ckd-2016|Symmetric dimethylarginine (SDMA)] 淋巴瘤等情况也可以让 SDMA 升高而滤过率没有下降，所以两个指标要一起看。[^iris-stage-2026|Discrepancies between creatinine and SDMA]
+
+![猫的慢性肾病四期。左上是猫头。栏 1 到 4 的框线一样粗。肌酐 µmol/L 是小于 140、140 到 250、251 到 440、大于 440。mg/dL 是小于 1.6、1.6 到 2.8、2.9 到 5.0、大于 5.0。SDMA µg/dL 是小于 18、18 到 25、26 到 38、大于 38。](/diagrams/iris-ckd-stages.svg)
+
+**图。** 左上的头表示这些是猫的数字。同一份 IRIS 表还有犬的栏，没有画在这里。四栏是 2026 年的分期，只适用于已经确诊、水分足够、状况稳定的慢性肾病，而且肌酐或 SDMA 最好两者至少测过两次。肌酐 µmol/L 与 mg/dL，以及 SDMA µg/dL，依序是：第 1 期小于 140、小于 1.6、小于 18；第 2 期 140 到 250、1.6 到 2.8、18 到 25；第 3 期 251 到 440、2.9 到 5.0、26 到 38；第 4 期大于 440、大于 5.0、大于 38。第 1 期不是没有病，而是肌酐还没有升到后面各期，但已经有其他肾脏异常。第 2 期的临床表现通常轻微或没有。第 3 期可以从几乎没有症状，到已经有不少全身表现。第 4 期是全身症状和尿毒危象的风险升高。框线一样粗，粗细不是另一套严重程度。蛋白尿和血压是另外的亚分期，没有画进这四栏。两个指标不一致时要怎么往上调，写在正文。[^iris-stage-2026|IRIS Staging of CKD (Modified 2026)][^iris-stage-2026|1. Staging of Chronic Kidney Disease]
 
 怀疑这个病时，例行资料最好包括病史和身体检查、尿比重、试纸、尿沉渣、尿蛋白肌酐比值，以及有指征时的细菌培养、血清生化和电解质、血细胞计数、收缩压，还有肾脏超声。老年猫要量甲状腺素，因为甲状腺功能亢进会改变处理方式。[^isfm-ckd-2016|Routine investigation and staging of CKD in cats]
 

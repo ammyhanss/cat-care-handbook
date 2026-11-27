@@ -344,6 +344,63 @@ a.cite {
   margin-top: 1.6em;
 }
 
+.sl-markdown-content img {
+  display: block;
+  width: min(100%, 46rem);
+  height: auto;
+  margin: 1rem 0 0.35rem;
+  padding: 0.35rem;
+  background: #fffaf3;
+  border: 1px solid var(--sl-color-hairline-light);
+  border-radius: 0.55rem;
+}
+
+.sl-markdown-content p:has(img) + p {
+  margin-top: 0.15rem;
+  color: var(--sl-color-gray-2);
+  font-size: var(--sl-text-sm);
+}
+
+.watch-note {
+  margin: 0.2rem 0 0.7rem;
+  color: var(--sl-color-gray-2);
+  font-size: var(--sl-text-sm);
+}
+
+.watch-list {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0.4rem 0 1rem;
+}
+
+.watch-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.8rem 0.95rem;
+  border: 1px solid var(--sl-color-hairline-light);
+  border-radius: 0.55rem;
+  background: var(--sl-color-bg-nav);
+  color: var(--sl-color-white);
+  text-decoration: none;
+}
+
+.watch-card:hover,
+.watch-card:focus-visible {
+  border-color: var(--sl-color-accent);
+}
+
+.watch-title {
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.watch-meta {
+  color: var(--sl-color-gray-3);
+  font-size: var(--sl-text-sm);
+  line-height: 1.5;
+}
+
 @media (max-width: 50rem) {
   .search-trigger {
     width: 100%;

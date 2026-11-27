@@ -1,4 +1,5 @@
 import { evidenceLimitedTitle, indexCitations, localeFromPath, referenceLabels } from '../citations.mjs';
+import { withSiteBase } from '../site-base.mjs';
 
 function splitCiteText(value, keyToN, seen) {
   const re = /\[\^([a-z0-9]+(?:-[a-z0-9]+)*)\|([^\]]+)\]/g;
@@ -98,6 +99,11 @@ export function handbookMarkdownPlugin(ctx) {
 
   return {
     name: 'handbook-citations',
+    image(node, visitor) {
+      if (typeof node?.url !== 'string') return;
+      const next = withSiteBase(node.url);
+      if (next !== node.url) visitor.setField(node, 'url', next);
+    },
     text(node, visitor) {
       if (typeof node.value !== 'string' || !node.value.includes('[^')) return;
       const parts = splitCiteText(node.value, keyToN, seen);

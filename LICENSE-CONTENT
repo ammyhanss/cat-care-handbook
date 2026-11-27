@@ -6,6 +6,8 @@ The educational text in this repository is licensed under the Creative Commons
 Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 This covers original writing under src/content/ and templates/disease.md.
+It also covers the original diagrams in public/diagrams/. Those drawings were
+made for this handbook. They are not copies of figures from the cited sources.
 It does not cover source code, which is under the MIT License in the LICENSE
 file. It does not cover third-party works that pages only link to.
 
