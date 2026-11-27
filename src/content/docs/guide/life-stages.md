@@ -4,8 +4,8 @@ description: 幼貓、青年成貓、成熟成貓和老年貓，以及每個年�
 en: Life stages and check-ups
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aaha-aafp-life-2021
     title: 2021 AAHA/AAFP Feline Life Stage Guidelines
@@ -34,6 +34,10 @@ sources:
 ## 多久去一次
 
 每一隻貓至少一年檢查一次，如果那隻貓需要，就更頻繁。老年貓至少每 6 個月看一次，如果有慢性病，就更頻繁。指引把那個階段的細節指向 AAFP 的老年照護指引。青年成貓看診的次數少於幼貓，因為幼貓疫苗系列帶來額外的看診，但檢查並不停止。例行看診是在行為和醫學變化變得嚴重、疼痛或更花錢之前發現它們的方式。[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
+
+![年齡軸，刻度是 0、1、6、7、10，箭頭繼續向前。0 到 1 下方一個圓點和加號。1 到 6 一個圓點。7 到 10 一個圓點。10 之後兩個圓點。](/diagrams/life-stages.svg)
+
+**圖。** 刻度是 2021 年指引的四個階段：出生到 1 歲、1 歲到 6 歲、7 歲到 10 歲、大於 10 歲。6 和 7 挨在一起，因為兩段在那裡相接。一個圓點表示至少每年檢查一次，用在 0 到 1、1 到 6，以及 7 到 10。0 到 1 的加號表示幼貓疫苗系列帶來的額外看診，不是一個固定次數。10 之後的兩個圓點表示至少每 6 個月一次。如果那隻貓需要，或有慢性病，就更頻繁。這些切點是連續生命上的記號。[^aaha-aafp-life-2021|Table 1][^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
 
 <!-- nonclaim --> 幼貓疫苗系列，包括大約 6 個月齡的那一劑，寫在[疫苗、寄生蟲與第一次看診](./vaccines-and-parasites/)。
 
@@ -73,3 +77,19 @@ WSAVA 要求每一次看診都做營養評估，並給出餵食建議。9 分制
 - 跳躍、睡覺的地方、夜間的聲音，或願意被摸的程度，有沒有任何改變。[^aaha-aafp-life-2021|Senior cats][^aaha-aafp-life-2021|Feline communication signs]
 - 如果已經開始那個習慣，帶貓已經在裡面睡覺的外出籠。[^aaha-aafp-life-2021|Training kittens in preparation to be adult cats]
 - 關於下一個間隔的問題：每年一次，或如果貓超過 10 歲或有慢性病，每 6 個月一次。[^aaha-aafp-life-2021|Discussion items for all life stages]
+
+## 延伸觀看
+
+<!-- nonclaim-start -->
+<p class="watch-note">這一節是補充觀看，不是本頁陳述的引用，也不能取代上文的文獻。影片沒有下載到這個網站。標題和發布者是打開連結後核對過的。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=6Ube2tn-qpc">
+<span class="watch-title">Encouraging your cat to be happy in a cat carrier</span>
+<span class="watch-meta">發布者：International Cat Care（iCatCare）。讓外出籠成為貓願意待的地方。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=Yhz3V4i3wH4">
+<span class="watch-title">Putting your cat in a cat carrier</span>
+<span class="watch-meta">發布者：International Cat Care（iCatCare）。貓還沒有自己走進籠時，怎麼把貓放進去。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

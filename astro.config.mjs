@@ -3,10 +3,11 @@ import starlight from '@astrojs/starlight';
 import { satteri } from '@astrojs/markdown-satteri';
 import { sidebar } from './src/sidebar.mjs';
 import { handbookMarkdownPlugin } from './src/plugins/handbook-markdown.mjs';
+import { SITE_BASE } from './src/site-base.mjs';
 
 export default defineConfig({
   site: 'https://ammyhanss.github.io',
-  base: '/cat-care-handbook',
+  base: SITE_BASE,
   trailingSlash: 'always',
   markdown: {
     processor: satteri({

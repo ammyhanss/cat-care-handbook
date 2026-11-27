@@ -4,8 +4,8 @@ description: 抓撓、遊戲、躲藏、室內的環境豐富化，以及為什�
 en: Environment and behavior
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -28,6 +28,10 @@ sources:
 ## 五項需求，放在普通的房間裡
 
 2013 年指引適用於每一隻寵物貓，不論生活方式。五項支柱是：一個安全的地方；多處、彼此分開的資源；遊戲和掠食型行為；正向、一致、可預測的人貓接觸；以及尊重氣味。[^aafp-isfm-env-2013|Abstract][^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
+
+![五個編號圓圈。1 是有開口的拱形遮蔽。2 是分開的橢圓、水滴形和方盒。3 是一根棍子和圓圈。4 是一道弧和一個圓，中間有距離。5 是一點和三道彎線。](/diagrams/five-pillars.svg)
+
+**圖。** 圓圈 1 到 5 是 2013 年指引的五項支柱，順序和摘要相同：一個安全的地方；多處且彼此分開的資源；遊戲和掠食型行為；正向、一致、可預測的人貓接觸；尊重氣味。圖裡沒有文字，順序以數字為準。[^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
 
 安全的地方常常在高處、私密，而且好進入。紙箱、有遮蔽的棲架，或放了貓鋪墊的外出籠，都算。這些地方至少要和貓的隻數一樣多，彼此隔開；幼貓或較老的貓需要低到牠們夠得著。[^aafp-isfm-env-2013|Pillar 1]
 

@@ -4,8 +4,8 @@ description: Kitten, young adult, mature adult, and senior stages, and what a ro
 en: Life stages and check-ups
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aaha-aafp-life-2021
     title: 2021 AAHA/AAFP Feline Life Stage Guidelines
@@ -34,6 +34,10 @@ Examples of what the bands are meant to highlight: congenital problems in kitten
 ## How often to go
 
 Every cat should be examined at least once a year, and more often if that cat needs it. Senior cats should be seen at least every 6 months, and more often if they have a chronic disease. The guidelines point to the AAFP senior-care guidelines for the detail of that stage. Young adult cats are seen less often than kittens, because the kitten vaccine series creates extra visits, but the examination does not stop. Routine visits are how behavioral and medical change is found before it is severe, painful, or more costly.[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
+
+![An age line marked 0, 1, 6, 7, and 10, with the arrow continuing. One dot and a plus sign under 0 to 1. One dot under 1 to 6. One dot under 7 to 10. Two dots after 10.](/diagrams/life-stages.svg)
+
+**Figure.** The marks are the four age groups in the 2021 guidelines: birth to 1 year, 1 to 6 years, 7 to 10 years, and older than 10 years. The marks for 6 and 7 sit next to each other because those groups meet there. One dot means an examination at least once a year. It sits under birth to 1 year, 1 to 6 years, and 7 to 10 years. The plus sign under birth to 1 year means the extra visits that come with the kitten vaccine series. It is not a fixed count. The two dots after 10 years mean at least every 6 months. Visits are more often if that cat needs it, or if there is chronic disease. The cut points are marks on a continuous life. [^aaha-aafp-life-2021|Table 1][^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|Young adult cats]
 
 <!-- nonclaim --> The kitten vaccine series, including the dose around 6 months of age, is on [Vaccination, parasites, and the first visit](./vaccines-and-parasites/).
 
@@ -73,3 +77,19 @@ The table's benefit is the task force's judgment, not a trial that measured year
 - Any change in jumping, sleeping place, night-time voice, or willingness to be touched.[^aaha-aafp-life-2021|Senior cats][^aaha-aafp-life-2021|Feline communication signs]
 - The carrier the cat already sleeps in, if you have started that habit.[^aaha-aafp-life-2021|Training kittens in preparation to be adult cats]
 - Questions about the next interval: yearly, or every 6 months if the cat is over 10 or has a chronic disease.[^aaha-aafp-life-2021|Discussion items for all life stages]
+
+## Further viewing
+
+<!-- nonclaim-start -->
+<p class="watch-note">This section is supplementary viewing. It is not a citation for the statements on this page, and it does not replace the references above. The videos are not hosted here. The titles and publishers were checked by opening the links.</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=6Ube2tn-qpc">
+<span class="watch-title">Encouraging your cat to be happy in a cat carrier</span>
+<span class="watch-meta">Publisher: International Cat Care (iCatCare). Helping a cat treat the carrier as a place it will stay in.</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=Yhz3V4i3wH4">
+<span class="watch-title">Putting your cat in a cat carrier</span>
+<span class="watch-meta">Publisher: International Cat Care (iCatCare). Putting a cat into a carrier when it does not walk in.</span>
+</a>
+</div>
+<!-- nonclaim-end -->

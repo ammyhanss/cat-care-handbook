@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
 import { checkDiseasePage, checkGuidePage } from '../src/citations.mjs';
+import { checkDocumentImages } from '../src/media-check.mjs';
 
 const root = path.resolve('src/content/docs');
 const locales = ['en', 'zh-cn', 'ja'];
@@ -16,9 +17,13 @@ function walk(dir) {
   return out;
 }
 
-export function checkContentTree(contentRoot = root) {
+export function checkContentTree(contentRoot = root, options = {}) {
   const errors = [];
   const files = walk(contentRoot);
+  const creditsPath = options.creditsPath ?? path.resolve('docs/CREDITS.md');
+  const credits = fs.existsSync(creditsPath) ? fs.readFileSync(creditsPath, 'utf8') : '';
+  if (!credits) errors.push('docs/CREDITS.md is missing');
+  const publicRoot = options.publicRoot ?? path.resolve('public');
 
   for (const file of files) {
     const rel = path.relative(contentRoot, file).split(path.sep).join('/');
@@ -32,11 +37,13 @@ export function checkContentTree(contentRoot = root) {
 
   for (const file of files) {
     const rel = path.relative(contentRoot, file).split(path.sep).join('/');
+    const raw = fs.readFileSync(file, 'utf8');
+    errors.push(...checkDocumentImages(rel, raw, { credits, publicRoot }));
     if (rel.endsWith('/index.md') || rel.endsWith('/index.mdx')) continue;
     const isDisease = rel.includes('/diseases/') || rel.startsWith('diseases/');
     const isGuide = rel.includes('/guide/') || rel.startsWith('guide/');
     if (!isDisease && !isGuide) continue;
-    const parsed = matter(fs.readFileSync(file, 'utf8'));
+    const parsed = matter(raw);
     const check = isGuide ? checkGuidePage : checkDiseasePage;
     errors.push(...check(rel, parsed.data ?? {}, parsed.content));
   }
@@ -53,5 +60,7 @@ if (isMain) {
     for (const error of errors) console.error(`- ${error}`);
     process.exit(1);
   }
-  console.log(`Checked ${fileCount} docs pages. Disease and owner-guide frontmatter and citations are valid.`);
+  console.log(
+    `Checked ${fileCount} docs pages. Disease and owner-guide frontmatter, citations, and image credits are valid.`,
+  );
 }

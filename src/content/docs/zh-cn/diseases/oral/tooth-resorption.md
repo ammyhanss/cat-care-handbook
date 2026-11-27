@@ -4,8 +4,8 @@ description: 猫牙吸收的型态与分期、为什么清醒时看不见不代�
 en: Tooth resorption
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: wsava-dental-2020
@@ -39,6 +39,10 @@ sources:
 病灶还没到达口腔时，外观和触诊都没有发现。较早的临床阶段可以只是牙龈缘发炎，或很小的牙釉质和牙本质缺损被富含血管的组织盖住。再进行下去，牙冠可以部分或完全消失。[^wsava-dental-2020|Clinical findings] 养猫人可能看到的是理毛变少、叼起食物又放下、用爪子抓嘴、躲起来、精神差、嘴唇上黏稠的分泌物、甩头、用嘴去蹭地面，或磨牙。没有这些表现，不能推论没有病灶，也不能推论不痛。大多数有这个病的猫，外面看不出不舒服。[^wsava-dental-2020|Clinical findings] 牙齿表面暴露的牙本质会痛，也可能造成局部感染。[^wsava-dental-2020|Clinical findings]
 
 眼睛看得到的，多半已经是牙冠被波及的晚期。很小的肉眼或探针发现，常常代表疾病已经进到深处，因为吸收从牙根表面开始，牙釉质失去支撑后才崩掉。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings] 一项用临床检查加 X 光、纳入 228 只临床健康猫的研究里，最常被影响的是下颌第三前臼齿，而且多数猫两侧对称。[^wsava-dental-2020|Tooth Resorption]
+
+![张口的侧面示意。下排牙齿里有一颗，牙龈缘有一个缺口，虚线连到标着 A 的圆。口腔后方有斜线区域，标着 B。](/diagrams/oral-locations.svg)
+
+**图。** A 标在下颌一颗颊齿的牙龈缘，缺口用虚线连向牙根的方向。病理的牙吸收从牙根表面开始，外面看得到时，牙冠常常已经被波及。WSAVA 所引的一项研究里，最常被影响的是下颌第三前臼齿；这张图没有把完整齿列数出来，所以 A 是一颗下颌颊齿，不是某一颗牙的编号。B 标在牙齿后方的黏膜，不是牙齿本身。牙冠截断的条件之一是没有尾侧口炎。牙吸收是硬组织被吸收，后方黏膜的发炎是另一件事。这张图不分期，也不表示该做哪一种手术。[^wsava-dental-2020|Tooth Resorption][^wsava-dental-2020|Clinical findings][^wsava-dental-2020|Crown amputation]
 
 :::evidence-limited
 

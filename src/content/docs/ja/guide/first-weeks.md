@@ -4,8 +4,8 @@ description: 新しい猫が落ち着くこと、扱いと遊び、人とほか�
 en: The first days and weeks
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -95,6 +95,10 @@ sources:
 
 ## 最初の数週間で見ること
 
+![縦に五つの段階。1 は開口のあるアーチで、中に小さな円。2 は低い弧と耳のある頭で、間に短い線。3 は円で終わる線と、バツの付いた弧。4 は耳のある頭が二つ、間に縦線。5 は楕円、滴、四角、縦長の四角。](/diagrams/first-weeks.svg)
+
+**図。** 1 から 5 は、最初の数週間に守ることです。日ごとの予定表ではありません。1 は、隠れる場所がある。2 は、人が身を低くし、猫が近づき、猫が離れたらその接触は終わる。3 は、おもちゃで遊び、手や足は使わない。4 は、新しい猫と、すでに住んでいる猫を分け、同じ部屋に最初から置くのではなく、徐々に会わせる。5 は、食器、水、トイレと、動物病院に連絡するための形です。食べる、飲む、排尿する、または隠れ場所の使い方が変わったら、電話します。犬を紹介する日程は描いていません。ここで使った出典には、その表がありません。[^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4][^aaha-aafp-life-2021|Behavior and environmental needs][^aafp-isfm-env-2013|Understanding the cat's needs and behavior][^aaha-aafp-life-2021|Discussion items for all life stages]
+
 - 猫には隠れる場所があり、猫が離れたら接触を止める。[^aafp-isfm-env-2013|Pillar 1][^aafp-isfm-env-2013|Pillar 4]
 - 遊びには玩具を使い、手や足は使わない。[^aaha-aafp-life-2021|Behavior and environmental needs]
 - 新しい猫は、共有の部屋へすぐ入れるのではなく、資源を分けたまま、すでにいる猫と段階的に会う。[^aafp-isfm-env-2013|Understanding the cat's needs and behavior]
@@ -102,3 +106,23 @@ sources:
 - 食べ方、飲み方、排尿、隠れ場所の使い方が変わったときは、動物病院に電話する理由です。ライフステージのガイドラインは、行動の変化を、猫が落ち着く時間が過ぎたあとでは「ただ新しい家だから」ではなく、病気や痛みの徴候であり得るものとして扱い、新しい行動のあるシニアの猫には医学的な確認が必要だ、と述べています。新しく来た子猫がトイレを外すときも、寄生虫を含む医学的な原因を確認すべきです。[^aaha-aafp-life-2021|Discussion items for all life stages][^aaha-aafp-life-2021|General litter box considerations]
 
 <!-- nonclaim --> 痛みの徴候とその日の救急は、[痛みと病気に気づく](./pain-and-illness/)と[直ちに受診](../urgent/)にあります。
+
+## 補足の視聴
+
+<!-- nonclaim-start -->
+<p class="watch-note">この節は補足の視聴です。このページの記述の引用ではなく、上の文献の代わりにもなりません。動画はこのサイトに置いていません。題名と公開者は、リンクを開いて確認しました。</p>
+<div class="watch-list">
+<a class="watch-card" href="https://www.youtube.com/watch?v=kkq_HKA7drA">
+<span class="watch-title">Giving a cat a tablet: using a pill popper</span>
+<span class="watch-meta">公開者：International Cat Care（iCatCare）。ピルポッパーで錠剤を猫の口に入れる。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=6_W0KTjElNs">
+<span class="watch-title">Two people giving a cat a tablet/pill</span>
+<span class="watch-meta">公開者：International Cat Care（iCatCare）。二人で錠剤を与える。</span>
+</a>
+<a class="watch-card" href="https://www.youtube.com/watch?v=HCW3UiBpZRo">
+<span class="watch-title">Handling kittens</span>
+<span class="watch-meta">公開者：International Cat Care（iCatCare）。子猫を穏やかに扱う。</span>
+</a>
+</div>
+<!-- nonclaim-end -->

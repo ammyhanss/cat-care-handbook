@@ -4,8 +4,8 @@ description: トイレをいくつ、どの大きさで、どこに置き、ど�
 en: Litter boxes
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-litter-2014
     title: AAFP and ISFM Guidelines for Diagnosing and Solving House-Soiling Behavior in Cats
@@ -79,6 +79,10 @@ sources:
 トイレ以外での排泄には、箱や社会的な原因だけでなく、医学的な原因もあります。箱を外す子猫は、先天性の尿路または腸の問題、腸の寄生虫、ほかの感染を確認すべきです。箱を外す成猫には、医学的な理由も、行動の理由もあり得ます。早く受診してください。尿道閉塞は生命を脅かし得ることと、続くと習慣を変えにくくなることの、両方のためです。飲水量の増加、または大量の排尿は、糖尿病、慢性腎臓病、甲状腺機能亢進症から来ることがあります。痛みや関節のこわばりで、側面の高い箱や、階段を上った先の箱が使えなくなることがあります。[^aaha-aafp-life-2021|General litter box considerations][^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> 閉塞とその日のうちのほかの問題は、[直ちに受診](../urgent/)にあります。痛みの徴候は[痛みと病気に気づく](./pain-and-illness/)にあります。
+
+![トイレの配置の対比。左のチェックは、箱が二つ離れていて、食事と水は箱から遠い。下では猫が低い箱より短く、箱の寸法は 1.5 倍とある。右のバツは、箱が猫より小さい、側壁が高い、食事か水が箱に接している、箱が二つくっついている。](/diagrams/litter-setup.svg)
+
+**図。** チェックとバツは、同じ提案を並べたものです。チェック側は、猫一頭に箱が二つ、離れた二か所にあり、食事と水は箱に接していません。箱は猫より長く、寸法は 1.5 倍で、手前の開口は低く描いてあります。バツ側は、箱が猫より小さい、側壁が高い、食事か水が箱に接している、箱が二つくっついている、です。2014 年のガイドラインは、並べた箱を一つの大きな箱とみなします。1.5 倍について、2014 年は尾の付け根まで、2021 年は尾の先まで測ります。この図の寸法線は、箱を猫より長くする、ということだけを示し、どこからどこまで測るかを選んではいません。複数の猫のときの数と、結びついた猫は共有し得ることは本文にあり、決まった頭数としては描いていません。[^aafp-isfm-litter-2014|Designing the optimal litter box][^aaha-aafp-life-2021|General litter box considerations][^aafp-isfm-env-2013|Pillar 2]
 
 ## 使える配置
 

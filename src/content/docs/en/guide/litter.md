@@ -4,8 +4,8 @@ description: How many litter boxes, how large, where to put them, and how to cle
 en: Litter boxes
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-litter-2014
     title: AAFP and ISFM Guidelines for Diagnosing and Solving House-Soiling Behavior in Cats
@@ -79,6 +79,10 @@ Do not punish toileting in the wrong place, and do not carry the cat to the box 
 House-soiling has medical causes as well as box and social causes. A kitten who misses the box should be checked for a congenital urinary or gut problem, gut parasites, or another infection. An adult who misses the box may have a medical or a behavioral reason. Seek care promptly, both because urethral blockage can be life-threatening and because the habit becomes harder to change if it continues. Drinking more, or urinating large amounts, can come from diabetes, chronic kidney disease, or hyperthyroidism. Pain or stiff joints can make a high-sided box or a box up a flight of stairs unusable.[^aaha-aafp-life-2021|General litter box considerations][^aaha-aafp-life-2021|Senior cats]
 
 <!-- nonclaim --> Blockage and other same-day problems are on [See a vet now](../urgent/). Pain signs are on [Recognizing pain and illness](./pain-and-illness/).
+
+![Litter box comparison. The ticked panel has two boxes apart, with food and water away from them, and below that a cat shorter than a low box marked 1.5 times. The crossed panel has a box smaller than the cat, a high-sided box, food or water against a box, and two boxes touching.](/diagrams/litter-setup.svg)
+
+**Figure.** The tick and the cross are the same recommendations, set side by side. On the ticked side: one cat has two boxes in two separate places; food and water are not against a box; the box is longer than the cat, the dimension is 1.5 times, and the front opening is drawn low. On the crossed side: the box is smaller than the cat; the sides are high; food or water sits against a box; two boxes touch. The 2014 guidelines treat boxes placed side by side as one large box. For the 1.5 times length, the 2014 guidelines measure to the base of the tail and the 2021 guidelines measure to the tip of the tail. The dimension line on this drawing only says the box should be longer than the cat. It does not choose which endpoint to use. How many boxes to add for several cats, and the fact that bonded cats may share, are in the text. They are not drawn as one fixed count. [^aafp-isfm-litter-2014|Designing the optimal litter box][^aaha-aafp-life-2021|General litter box considerations][^aafp-isfm-env-2013|Pillar 2]
 
 ## A workable setup
 

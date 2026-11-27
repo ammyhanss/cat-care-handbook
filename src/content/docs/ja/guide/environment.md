@@ -4,8 +4,8 @@ description: 爪とぎ、遊び、隠れること、室内の環境を満たす�
 en: Environment and behavior
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 sources:
   - id: aafp-isfm-env-2013
     title: AAFP and ISFM Feline Environmental Needs Guidelines
@@ -28,6 +28,10 @@ sources:
 ## 普通の部屋にある、五つのニーズ
 
 2013 年のガイドラインは、暮らし方がどうであれ、すべてのペットの猫に当てはまります。五つの柱は、安全な場所、複数に分けた資源、遊びと捕食に似た行動、肯定的で一貫し予測できる人との接触、嗅覚の尊重です。[^aafp-isfm-env-2013|Abstract][^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
+
+![番号付きの五つの円。1 は開口のあるアーチ。2 は離れた楕円、滴の形、四角。3 は棒と円。4 は弧と円で、間に距離がある。5 は点と三本の曲線。](/diagrams/five-pillars.svg)
+
+**図。** 円の 1 から 5 は、2013 年のガイドラインの五つの柱で、要約と同じ順です。安全な場所、複数に分けた資源、遊びと捕食に似た行動、肯定的で一貫し予測できる人と猫の接触、匂いの尊重。図に文字はなく、順は数字です。[^aafp-isfm-env-2013|Five pillars of a healthy feline environment]
 
 安全な場所は、しばしば高く、ほかから区切られ、入りやすい場所です。箱、覆いのある足場、猫の寝具を入れたキャリーは、いずれも当たります。これらの場所は、少なくとも猫の数だけあり、離して置くべきです。子猫や高齢の猫には、届く低さが必要です。[^aafp-isfm-env-2013|Pillar 1]
 

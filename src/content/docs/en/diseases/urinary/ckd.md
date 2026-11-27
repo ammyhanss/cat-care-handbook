@@ -4,8 +4,8 @@ description: Staging of chronic kidney disease in cats, changes an owner can see
 en: Chronic kidney disease
 status: literature-checked
 reviewed_by: ""
-last_updated: "2026-11-26"
-last_verified: "2026-11-26"
+last_updated: "2026-11-27"
+last_verified: "2026-11-27"
 urgency: soon
 sources:
   - id: isfm-ckd-2016
@@ -54,6 +54,10 @@ Drinking more, urinating more, and a slow loss of weight should be booked for bl
 The combination often used in the clinic is azotemia (creatinine is more suitable than urea for reflecting glomerular filtration rate) plus an inappropriately low urine specific gravity. The 2016 consensus often treats a creatinine above 140 µmol/L (1.6 mg/dL), together with a urine specific gravity below 1.035, when those changes have lasted weeks to months, or when the history already shows that they are persistent, as the practical conditions for diagnosis. Not every affected cat meets them: some cats have structural change, or persistent renal proteinuria, before they are azotemic; a few azotemic cats can still reach a urine specific gravity of 1.035 or higher.[^isfm-ckd-2016|Routine diagnosis of CKD in cats]
 
 Creatinine is affected by muscle mass and hydration, and reference ranges differ between laboratories. When kidney function first declines, creatinine may move only a little.[^isfm-ckd-2016|Routine diagnosis of CKD in cats] SDMA is not affected by muscle mass and is more sensitive to an early decline, but it cannot be used as the only screening test.[^isfm-ckd-2016|Symmetric dimethylarginine (SDMA)] Conditions such as lymphoma can also raise SDMA without a fall in filtration rate, so the two markers are read together.[^iris-stage-2026|Discrepancies between creatinine and SDMA]
+
+![Four IRIS stages for cats. A cat head is at the upper left. The frames of columns 1 to 4 are the same weight. Creatinine in µmol/L is below 140, 140 to 250, 251 to 440, and above 440. In mg/dL it is below 1.6, 1.6 to 2.8, 2.9 to 5.0, and above 5.0. SDMA in µg/dL is below 18, 18 to 25, 26 to 38, and above 38.](/diagrams/iris-ckd-stages.svg)
+
+**Figure.** The head at the upper left means these are the cat values. The same IRIS table also has dog columns, and those are not drawn here. The four columns are the 2026 stages. They apply only to a cat with chronic kidney disease that is already diagnosed, adequately hydrated, and stable, with creatinine or SDMA, preferably both, measured at least twice. Creatinine in µmol/L and mg/dL, and SDMA in µg/dL, are: stage 1 below 140, below 1.6, and below 18; stage 2 from 140 to 250, 1.6 to 2.8, and 18 to 25; stage 3 from 251 to 440, 2.9 to 5.0, and 26 to 38; stage 4 above 440, above 5.0, and above 38. Stage 1 is not the absence of disease. Creatinine has not reached the later stages, and some other kidney abnormality is already present. In stage 2, clinical signs are usually mild or absent. Stage 3 can range from almost no signs to many systemic signs. Stage 4 carries a higher risk of systemic signs and uremic crisis. The frames are the same weight. Line thickness is not a second severity scale. Proteinuria and blood pressure are separate substages and are not in these four columns. How to move the stage up when the two markers disagree is in the text. [^iris-stage-2026|IRIS Staging of CKD (Modified 2026)][^iris-stage-2026|1. Staging of Chronic Kidney Disease]
 
 When this disease is suspected, the routine data should include the history and physical examination, urine specific gravity, a dipstick, urine sediment, the urine protein-to-creatinine ratio, and, when indicated, bacterial culture, serum biochemistry and electrolytes, a blood count, systolic blood pressure, and renal ultrasound. Thyroid hormone is measured in older cats, because hyperthyroidism changes how the cat is managed.[^isfm-ckd-2016|Routine investigation and staging of CKD in cats]
 

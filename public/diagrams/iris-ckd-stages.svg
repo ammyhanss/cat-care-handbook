@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 390" width="980" height="390" role="img">
+<title>IRIS 2026 cat CKD stages by creatinine and SDMA</title>
+<rect width="100%" height="100%" fill="#fffaf3"/>
+<defs>
+  <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse">
+    <path d="M0 7 L7 0" stroke="#44403c" stroke-width="1.1"/>
+  </pattern>
+  <pattern id="hatch-dense" width="5" height="5" patternUnits="userSpaceOnUse">
+    <path d="M0 5 L5 0" stroke="#1c1917" stroke-width="1.15"/>
+  </pattern>
+</defs>
+<circle cx="78" cy="58" r="16" fill="none" stroke="#1c1917" stroke-width="2.2"/><polygon points="66,50 72,34 80,50" fill="#fffaf3" stroke="#1c1917" stroke-width="2" stroke-linejoin="round"/><polygon points="90,50 84,34 76,50" fill="#fffaf3" stroke="#1c1917" stroke-width="2" stroke-linejoin="round"/>
+<rect x="180" y="28" width="140" height="64" rx="10" fill="none" stroke="#1c1917" stroke-width="2.2"/>
+<text x="250" y="72" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#1c1917">1</text>
+<rect x="360" y="28" width="140" height="64" rx="10" fill="none" stroke="#1c1917" stroke-width="2.2"/>
+<text x="430" y="72" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#1c1917">2</text>
+<rect x="540" y="28" width="140" height="64" rx="10" fill="none" stroke="#1c1917" stroke-width="2.2"/>
+<text x="610" y="72" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#1c1917">3</text>
+<rect x="720" y="28" width="140" height="64" rx="10" fill="none" stroke="#1c1917" stroke-width="2.2"/>
+<text x="790" y="72" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#1c1917">4</text>
+<rect x="36" y="114" width="908" height="68" rx="8" fill="#f4efe6" stroke="none"/>
+<text x="48" y="156" text-anchor="start" font-family="sans-serif" font-size="18" font-weight="650" fill="#1c1917">µmol/L</text>
+<text x="250" y="158" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&lt;140</text>
+<text x="430" y="158" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">140–250</text>
+<text x="610" y="158" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">251–440</text>
+<text x="790" y="158" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&gt;440</text>
+<rect x="36" y="192" width="908" height="68" rx="8" fill="#fffaf3" stroke="none"/>
+<text x="48" y="234" text-anchor="start" font-family="sans-serif" font-size="18" font-weight="650" fill="#1c1917">mg/dL</text>
+<text x="250" y="236" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&lt;1.6</text>
+<text x="430" y="236" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">1.6–2.8</text>
+<text x="610" y="236" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">2.9–5.0</text>
+<text x="790" y="236" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&gt;5.0</text>
+<rect x="36" y="270" width="908" height="68" rx="8" fill="#f4efe6" stroke="none"/>
+<text x="48" y="312" text-anchor="start" font-family="sans-serif" font-size="18" font-weight="650" fill="#1c1917">SDMA µg/dL</text>
+<text x="250" y="314" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&lt;18</text>
+<text x="430" y="314" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">18–25</text>
+<text x="610" y="314" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">26–38</text>
+<text x="790" y="314" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="650" fill="#1c1917">&gt;38</text>
+</svg>
